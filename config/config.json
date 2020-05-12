@@ -102,8 +102,8 @@
 	"versionDef": "<witness>, <change>",
 	"fragmentMilestone": "<witStart>, <witEnd>",
 	"lacunaMilestone": "<lacunaStart>, <lacunaEnd>",
-	"possibleVariantFilters": "<hand>",
-	"possibleLemmaFilters": "",
+	"possibleVariantFilters": "hand",
+	"possibleLemmaFilters": "resp",
 	"notSignificantVariant": "<orig>, <sic>, [type=orthographic]",
 
 	"maxWitsLoadTogether": 5,
@@ -132,8 +132,16 @@
 	"heatmapColor": "",
 
 
-    "versions" : [],
+    "versions" : ["rec2", "rec1", "rec3"],
     "witnessesGroups": [
+	     {
+            "groupName" : "Grp_1",
+            "witnesses" : ["V", "P", "N", "M", "G", "C", "R"]
+        },
+        {
+            "groupName" : "Grp_2",
+            "witnesses" : ["F", "D", "O", "W", "M5mg", "B", "U"]
+        }
     ],
 
     "quoteDef"              : "<quote>",
