@@ -36,6 +36,16 @@
                 
                 
             </titleStmt>
+            <editionStmt>
+                <edition>
+                    <interpGrp>
+                        <interp xml:id="rec1">Recensio 1</interp>
+                        <interp xml:id="rec2">Recensio 2</interp>
+                        <!-- Third recensio added for testing purposes -->
+                        <interp xml:id="rec3">Recensio 3</interp>
+                    </interpGrp>
+                </edition>
+            </editionStmt>
             <publicationStmt>
                 <publisher>VaSto Project;</publisher>
                 <pubPlace>Bologna</pubPlace>
@@ -64,6 +74,100 @@
                     </physDesc>
                     
                 </msDesc>
+                <listWit>
+                    <listWit xml:id="rec1_wits" ana="#rec1" resp="#chiara">
+                    <head>Witnesses of version A</head>
+                    <witness xml:id="V">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Città del Vaticano</settlement>
+                                <repository>Biblioteca Apostolica Vaticana</repository>
+                                <idno>Vat.lat.2186</idno>
+                            </msIdentifier>
+                            <physDesc>
+                                <handDesc>
+                                    <handNote xml:id="V2">Seconda mano su Vat. lat. 2186. Gotica, con tratti forse francesi (e.g. taglio del segno tachigrafico per "et").</handNote>
+                                </handDesc>
+                            </physDesc>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="P">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <repository>Bibliothèque nationale de France</repository>
+                                <idno>Latin 6443</idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="N">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Napoli</settlement>
+                                <repository>Biblioteca Nazionale</repository>
+                                <idno>VIII.E.33</idno>
+                            </msIdentifier>
+                            <physDesc>
+                                <handDesc>
+                                    <handNote  xml:id="N2">Seconda mano su N; si tratta di una mano scrivente con inchiostro differente (nero) e scrittura differente.</handNote>
+                                </handDesc>
+                            </physDesc>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="M">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <repository>Merton Coll.</repository>
+                                <idno>282</idno>
+                            </msIdentifier>
+                            <physDesc>
+                                <handDesc>
+                                    <handNote xml:id="M2"></handNote>
+                                </handDesc>
+                            </physDesc>
+                        </msDesc>
+                    </witness>
+                    </listWit>
+                    <listWit xml:id="rec2_wits" ana="#rec2" resp="#chiara">
+                    <head>Witnesses of version B</head>
+                    <witness xml:id="G">Graz, Universitaetsbibl. 482</witness>
+                    <witness xml:id="C">Cordoba, Bibl. capit.52</witness>
+                    <witness xml:id="R">Roma, Bibl. Angelica 242 (C.4.10)</witness>
+                    <witness xml:id="F">Paris. BnF lat. 16096</witness>
+                    <witness xml:id="D">Dubrovnik, Dominik. Samostan 63 (36-V-6)</witness>
+                    <witness xml:id="O">Oxford, Bodl. Libr. Digby 217</witness>
+                    </listWit>
+                    <listWit xml:id="rec3_wits" ana="#rec3" resp="#chiara">
+                    <head>Witnesses of version C</head>
+                    <witness xml:id="W">Oxford, Oriel Coll. 7</witness>
+                    <witness xml:id="M5mg">M5mg.</witness>
+                    <witness xml:id="B">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Bruges</settlement>
+                                <repository>Sted. Openb. Bibl.</repository>
+                                <idno>510</idno>
+                            </msIdentifier>
+                            <physDesc>
+                                <handDesc>
+                                    <handNote xml:id="B2"></handNote>
+                                </handDesc>
+                            </physDesc>
+                        </msDesc>
+                    </witness>
+                    <witness xml:id="U">
+                        <msDesc>
+                            <msIdentifier></msIdentifier>
+                            <physDesc>
+                                <handDesc>
+                                    <handNote xml:id="U2"></handNote>
+                                </handDesc>
+                            </physDesc>
+                        </msDesc>
+                    </witness>
+                    </listWit>
+                </listWit>
                 <listPerson>
                     <person xml:id="Famiglia_Medici">
                         <persName type="fam_citata">Medici</persName>
@@ -203,6 +307,69 @@
                        L’ILL<emph rend="italic">USTRISSI</emph>MO ET ECC<emph rend="italic">ELLENTISSI</emph>MO 
                         <persName ref="#Cosimo">SIGNOR COSIMO <del hand="#A2">DE’<lb/></del>
                         MEDICI</persName>, DUCA SECONDO DI <lb/> FIRENZE <lb/><lb/>PROEMIO &#9753;</head>
+                <app type="recensio" resp="#chiara">
+            <note>
+                Here versions B and C of the text differ from version A, which is the default version.
+            </note>
+            <rdgGrp ana="#rec1">
+                <rdg>
+                    Quae etiam si essent finita, scire eas secundum quod sunt particularia non conferret nobis
+                    perfectionem sapientiae, nec perveniremus per illas ad finem sapientiae, sicut postea scies in libro
+                    sapientiae. Sed quod debemus considerare est cognitio verbi universalis. 
+                    Scis enim quod verbum universale non fit
+                    <app>
+                        <lem>universale</lem>
+                        <rdg wit="#C">univesale</rdg>
+                    </app>
+                    nisi habeat comparationem aliquam aut in esse
+                    aut in nostra opinione ad particularia de quibus praedicatur. Praedicatio autem fit duobus modis, quia
+                    aut univoce, sicut hoc quod dicimus quod Socrates est homo: homo enim praedicatur de Socrate vere
+                    et univoce aut denominative, ut albedo de homine: dicitur enim homo albus et habens albedinem nec
+                    dicitur esse albedo. Si autem contingitur dici corpus album et color albus diffinitio praedicationis
+                    huiusmodi non praedicatur de subiectis aequaliter. Nostra autem intentio non est hic nisi de eo
+                    quod praedicatur univoce.
+                </rdg>
+            </rdgGrp>
+            <rdgGrp ana="#rec2">
+                <rdg>
+                    Quae etiam si essent finita, scire eas secundum quod sunt particularia non conferret nobis
+                    perfectionem sapientiae, nec perveniremus per illas ad finem sapientiae,
+                    sicut postea scies in libro sapientiae. Sed
+                    <ref type="parallelPassage" source="#burhan_2-9-178-17-19">
+                        quod debemus considerare est cognitio verbi universalis
+                    </ref>.
+                    Scis enim quod verbum universale non fit universale nisi habeat comparationem aliquam
+                    aut in esse aut in nostra opinione ad particularia de quibus praedicatur.
+                    Praedicatio autem fit duobus modis, quia aut univoce, sicut hoc quod dicimus 
+                    quod Socrates est homo: homo enim praedicatur de Socrate vere et univoce aut denominative,
+                    ut albedo de homine: dicitur enim homo albus et habens albedinem nec dicitur esse albedo.
+                    Si autem contingitur dici corpus album et color albus 
+                    diffinitio praedicationis huiusmodi non praedicatur de subiectis aequaliter.
+                    Nostra autem intentio non est hic nisi de eo quod praedicatur univoce. Enumerabimus ergo partes
+                    universalis, quod comparatur ad particularia univoce, et dat eis nomen et diffinitionem. 
+                    Multa autem quae invenimus faciunt necesse primo non incedere solita via in divisione verborum,
+                    sed postea redibimus ad illam.
+                </rdg>
+            </rdgGrp>
+            <rdgGrp ana="#rec3">
+                <rdg>
+                    Dicemus ergo quia omne quod est, substantiam habet qua est id quod est et quae est veritas eius,
+                    quia est eius substantia. Substantia autem uniuscuiusque rei una est, sed quod est unum absolutum
+                    non est id quod est ex multis intellectibus ex quibus coniunctis provenit una essentia. 
+                    Exemplum autem huius non invenitur in rebus sensibilibus, debes ergo nunc credere eius esse.
+                    Aliquando autem erit unum aliquid non absolutum, cuius esse veritas composita est ex rebus
+                    et intentionibus ex quibus coniunctis provenit essentia rei. 
+                    Cuius exemplum est homo:
+                    <quote source="#ms_add_a">
+                        necesse est enim ut homo sit substantia habens dimensiones in spatiis in quibus fiat longitudo et latitudo et spissitudo
+                    </quote>
+                    , et praeter hoc necesse est ut sit habens animam
+                    qua vegetetur et sentiat et moveatur voluntate, et praeter hoc sit aptus etiam intelligere
+                    intelligibilia et scire artes et docere eas, nisi fuerit prohibens extrinsecum non ex parte humanitatis.
+                    Quae omnia cum conveniunt ex conventu omnium provenit substantia una quae est substantia hominis.
+                </rdg>                    
+            </rdgGrp>
+        </app>
                 <p><choice><sic>L'INTENDIMENTO</sic><corr>L'intendimento</corr></choice> nostro è di dovere con quella diligenza, e verità,<lb/> che
                     potremo, e saperremo maggiore tutte quelle cose ordinatamente, e<lb/>
                     particolarmente raccontare, le quali dal popolo fiorentino degne<lb/> di memoria
