@@ -14,6 +14,18 @@
                         <persName xml:id="P.I.">Paola Italia</persName>
                 </respStmt>
                 <respStmt>
+                    <resp>Edited by</resp>
+                    <name xml:id="silvia">Silvia Di Vincenzo</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Text Encoding by</resp>
+                    <name xml:id="daniele">Daniele Marotta</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Changes for EVT testing purposes by</resp>
+                    <name xml:id="chiara">Chiara Martignano</name>
+                </respStmt>
+                <respStmt>
                     
                     <resp>Codifica</resp>
                     <persName xml:id="R.P.">Roberta Priore</persName>
