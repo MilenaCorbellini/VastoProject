@@ -102,7 +102,7 @@
 	"versionDef": "<witness>, <change>",
 	"fragmentMilestone": "<witStart>, <witEnd>",
 	"lacunaMilestone": "<lacunaStart>, <lacunaEnd>",
-	"possibleVariantFilters": "type",
+	"possibleVariantFilters": "type". "cause",
 	"possibleLemmaFilters": "resp",
 	"notSignificantVariant": "<orig>, <sic>, [type=orthographic]",
 
