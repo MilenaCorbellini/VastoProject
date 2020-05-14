@@ -102,8 +102,8 @@
 	"versionDef": "<witness>, <change>",
 	"fragmentMilestone": "<witStart>, <witEnd>",
 	"lacunaMilestone": "<lacunaStart>, <lacunaEnd>",
-	"possibleVariantFilters": "hand", "type",
-	"possibleLemmaFilters": "resp", "type",
+	"possibleVariantFilters": "hand", "type"
+	"possibleLemmaFilters": "resp", "type"
 	"notSignificantVariant": "<orig>, <sic>, [type=orthographic]",
 
 	"maxWitsLoadTogether": 5,
