@@ -74,34 +74,40 @@
                 <listWit>
                     <listWit xml:id="rec1_wits" ana="#rec1" resp="#D.B.">
                     <head>Witnesses of Author Version</head>
-                    <witness xml:id=RC4">
+                    <witness xml:id="RC4">
                         <msDesc>
                             <msIdentifier>
                                 <settlement>Roma</settlement>
                         <repository>Accademia Nazionale dei Lincei e Corsiniana</repository>
                         <idno>RC4</idno>
+                            </msIdentifier>
                             <physDesc>
                                 <handDesc>
-                                   <handNote scribe="Bonsi" xml:id="A1">Mano di Bonsi, testo base su RC4;</handNote>
-                                   <handNote scribe="Varchi" xml:id="A2">Mano di Varchi, revisioni;</handNote>
-                                   <handNote scribe="N.I." xml:id="A4">Altra mano non identificata</handNote>
+                                   <handNote scribe="Bonsi" ana="#A1">Mano di Bonsi, testo base su RC4;</handNote>
+                                   <handNote scribe="Varchi" ana="#A2">Mano di Varchi, revisioni;</handNote>
+                                   <handNote scribe="N.I." ana="#A4">Altra mano non identificata</handNote>
                                 </handDesc>
                             </physDesc>
                         </msDesc>
                     </witness>
+                    </listWit>
                     <listWit xml:id="rec2_wits" ana="#rec2" resp="#D.B.">
                     <head>Censured Witnesses</head>
-                    <witness xml:id="RC4">
+                    <witness ana="#RC4">
                        <msDesc>
                          <msIdentifier>
                              <settlement>Roma</settlement>
                                 <repository>Accademia Nazionale dei Lincei e Corsiniana</repository>
                                     <idno>RC4</idno>
+                         </msIdentifier>
                                         <physDesc>
                                           <handDesc>
-                                            <handNote scribe="Baldini" xml:id="A3"> Mano di Baldini, interventi di correzioni e
+                                            <handNote scribe="Baldini" ana="#A3"> Mano di Baldini, interventi di correzioni e
                                                 aggiunte;</handNote>
                                           </handDesc>
+                                        </physDesc>
+                       </msDesc>
+                    </witness>
                         </listWit>
                    
                 </listWit>
@@ -224,7 +230,7 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
-    <text n="RC4" xml:id="RC4" hand="#A1">
+    <text n="RC4" ana="#RC4" hand="#A1">
         <front> 
             <div>
                 <p><hi> Legenda dei colori </hi></p>
@@ -342,7 +348,7 @@
                 <rdg>
                     
             </rdg>
-           <rdgGrp>                   
+           </rdgGrp>                   
         </app><lb/> Chiara cosa è che la <placeName ref="#Firenze">città
                         di Firenze</placeName>, la quale, ò sua colpa ò sua <lb/> fortuna, fù alle
                     divisioni, e alle discordie cittadine sempre maraviglio<choice>
