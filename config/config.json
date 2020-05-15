@@ -123,7 +123,7 @@
 			"hand": "rgb(100, 230, 121)"
 		},
 		"cause": {
-			"unknown": "rgb(125, 125, 125)"
+			"del": "rgb(125, 125, 125)"
 		}
 	},
 
@@ -132,7 +132,7 @@
 	"heatmapColor": "",
 
 
-    "versions" : ["rec2", "rec1", "rec3"],
+    "versions" : ["rec2", "rec1"],
     "witnessesGroups": [
 	    
     ],
