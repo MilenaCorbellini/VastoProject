@@ -52,9 +52,7 @@
                 <edition>
                     <interpGrp>
                         <interp xml:id="rec1">Recensio 1</interp>
-                        <interp xml:id="rec2">Recensio 2</interp>
-                        <!-- Third recensio added for testing purposes -->
-                        <interp xml:id="rec3">Recensio 3</interp>
+                        <interp xml:id="rec2">Censura</interp>
                     </interpGrp>
                 </edition>
             </editionStmt>
@@ -84,8 +82,41 @@
                             <handNote scribe="N.I." xml:id="A4">Altra mano non identificata</handNote>
                         </handDesc>
                     </physDesc>
-                    
                 </msDesc>
+                <listWit>
+                    <listWit xml:id="rec1_wits" ana="#rec1" resp="#D.B.">
+                    <head>Witnesses of Author Version</head>
+                    <witness xml:id=RC4">
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Roma</settlement>
+                        <repository>Accademia Nazionale dei Lincei e Corsiniana</repository>
+                        <idno>RC4</idno>
+                            <physDesc>
+                                <handDesc>
+                                   <handNote scribe="Bonsi" xml:id="A1">Mano di Bonsi, testo base su RC4;</handNote>
+                                   <handNote scribe="Varchi" xml:id="A2">Mano di Varchi, revisioni;</handNote>
+                                   <handNote scribe="N.I." xml:id="A4">Altra mano non identificata</handNote>
+                                </handDesc>
+                            </physDesc>
+                        </msDesc>
+                    </witness>
+                    <listWit xml:id="rec2_wits" ana="#rec2" resp="#D.B.">
+                    <head>Censured Witnesses</head>
+                    <witness xml:id="RC4">
+                       <msDesc>
+                         <msIdentifier>
+                             <settlement>Roma</settlement>
+                                <repository>Accademia Nazionale dei Lincei e Corsiniana</repository>
+                                    <idno>RC4</idno>
+                                        <physDesc>
+                                          <handDesc>
+                                            <handNote scribe="Baldini" xml:id="A3"> Mano di Baldini, interventi di correzioni e
+                                                aggiunte;</handNote>
+                                          </handDesc>
+                        </listWit>
+                   
+                </listWit>
                 <listPerson>
                     <person xml:id="Famiglia_Medici">
                         <persName type="fam_citata">Medici</persName>
@@ -225,89 +256,13 @@
                        L’ILL<emph rend="italic">USTRISSI</emph>MO ET ECC<emph rend="italic">ELLENTISSI</emph>MO 
                         <persName ref="#Cosimo">SIGNOR COSIMO <del hand="#A2">DE’<lb/></del>
                         MEDICI</persName>, DUCA SECONDO DI <lb/> FIRENZE <lb/><lb/>PROEMIO &#9753;</head>
-                <p><app type="recensio" resp="#chiara">
-            <note>
-                Here versions B and C of the text differ from version A, which is the default version.
-            </note>
-            <rdgGrp ana="#rec1">
-                <rdg>
-                    Quae etiam si essent finita, scire eas secundum quod sunt particularia non conferret nobis
-                    perfectionem sapientiae, nec perveniremus per illas ad finem sapientiae, sicut postea scies in libro
-                    sapientiae. Sed quod debemus considerare est cognitio verbi universalis. 
-                    Scis enim quod verbum universale non fit
-                    <app>
-                        <lem>universale</lem>
-                        <rdg wit="#C">univesale</rdg>
-                    </app>
-                    nisi habeat comparationem aliquam aut in esse
-                    aut in nostra opinione ad particularia de quibus praedicatur. Praedicatio autem fit duobus modis, quia
-                    aut univoce, sicut hoc quod dicimus quod Socrates est homo: homo enim praedicatur de Socrate vere
-                    et univoce aut denominative, ut albedo de homine: dicitur enim homo albus et habens albedinem nec
-                    dicitur esse albedo. Si autem contingitur dici corpus album et color albus diffinitio praedicationis
-                    huiusmodi non praedicatur de subiectis aequaliter. Nostra autem intentio non est hic nisi de eo
-                    quod praedicatur univoce.
-                </rdg>
-            </rdgGrp>
-            <rdgGrp ana="#rec2">
-                <rdg>
-                    Quae etiam si essent finita, scire eas secundum quod sunt particularia non conferret nobis
-                    perfectionem sapientiae, nec perveniremus per illas ad finem sapientiae,
-                    sicut postea scies in libro sapientiae. Sed
-                    <ref type="parallelPassage" source="#burhan_2-9-178-17-19">
-                        quod debemus considerare est cognitio verbi universalis
-                    </ref>.
-                    Scis enim quod verbum universale non fit universale nisi habeat comparationem aliquam
-                    aut in esse aut in nostra opinione ad particularia de quibus praedicatur.
-                    Praedicatio autem fit duobus modis, quia aut univoce, sicut hoc quod dicimus 
-                    quod Socrates est homo: homo enim praedicatur de Socrate vere et univoce aut denominative,
-                    ut albedo de homine: dicitur enim homo albus et habens albedinem nec dicitur esse albedo.
-                    Si autem contingitur dici corpus album et color albus 
-                    diffinitio praedicationis huiusmodi non praedicatur de subiectis aequaliter.
-                    Nostra autem intentio non est hic nisi de eo quod praedicatur univoce. Enumerabimus ergo partes
-                    universalis, quod comparatur ad particularia univoce, et dat eis nomen et diffinitionem. 
-                    Multa autem quae invenimus faciunt necesse primo non incedere solita via in divisione verborum,
-                    sed postea redibimus ad illam.
-                </rdg>
-            </rdgGrp>
-            <rdgGrp ana="#rec3" type="#hand">
-                <rdg>
-                    Dicemus ergo quia omne quod est, substantiam habet qua est id quod est et quae est veritas eius,
-                    quia est eius substantia. Substantia autem uniuscuiusque rei una est, sed quod est unum absolutum
-                    non est id quod est ex multis intellectibus ex quibus coniunctis provenit una essentia. 
-                    Exemplum autem huius non invenitur in rebus sensibilibus, debes ergo nunc credere eius esse.
-                    Aliquando autem erit unum aliquid non absolutum, cuius esse veritas composita est ex rebus
-                    et intentionibus ex quibus coniunctis provenit essentia rei. 
-                    Cuius exemplum est homo:
-                    <quote source="#ms_add_a">
-                        necesse est enim ut homo sit substantia habens dimensiones in spatiis in quibus fiat longitudo et latitudo et spissitudo
-                    </quote>
-                    , et praeter hoc necesse est ut sit habens animam
-                    qua vegetetur et sentiat et moveatur voluntate, et praeter hoc sit aptus etiam intelligere
-                    intelligibilia et scire artes et docere eas, nisi fuerit prohibens extrinsecum non ex parte humanitatis.
-                    Quae omnia cum conveniunt ex conventu omnium provenit substantia una quae est substantia hominis.
-                </rdg>                    
-            </rdgGrp>
-        </app>
-                    <app resp="#silvia">
-            <lem wit="#F #G #N #P #R #V"/>
-            <rdg cause="add" wit="#M #B #U">tertium</rdg>
-        </app> de subiecto logicae 
-        <app resp="#silvia">
-            <lem wit="#F #G #M #N #P #R #V"/>
-            <rdg cause="add" wit="#B #U">Avicennae</rdg>
-        </app>
+                <p>
                 <choice><sic>L'INTENDIMENTO</sic><corr>L'intendimento</corr></choice> nostro è di dovere con quella diligenza, e verità,<lb/> che
-                    <app>
-                        <lem wit="#F #G #N #P #R #V"/>
-                    <rdgGrp ana="#rec3" >
-                <rdg type="hand">potremo, e saperremo maggiore tutte quelle cose ordinatamente, e<lb/>
+                    potremo, e saperremo maggiore tutte quelle cose ordinatamente, e<lb/>
                     particolarmente raccontare, le quali dal popolo fiorentino degne<lb/> di memoria
                     ò in pace, ò in guerra, ò dentro, ò fuori della città,<lb/> ò publicamente, ò
-                    privatamente fatte furono, da che la <persName ref="#Famiglia_Medici"
-                        >
-                     </rdg>                    
-            </rdgGrp>
-        </app>famiglia<lb/> de’ Medici</persName>, e i loro seguaci la terza volta lo
+                    privatamente fatte furono, da che la <persName ref="#Famiglia_Medici">
+                    famiglia<lb/> de’ Medici</persName>, e i loro seguaci la terza volta lo
                     stato di <placeName ref="#Firenze">Firenze</placeName><lb/> perdettero, più per
                     la poca prudenza, e molta così viltà come <lb/>avarizia di <persName
                         ref="#Passerini">Mons<emph rend="italic">ignor</emph> m<emph rend="italic">esser</emph>
@@ -345,7 +300,14 @@
                     </choice><pb n="8v" xml:id="fol_8v"/><lb n="[8v]"/>le forze
                     dell’imperio nell’anno <date when="1530">millecinquecento trenta</date> agli
                         <date when="1530-08-20">.XX. <lb/> d’agosto</date>, fatto parlamento, lo
-                    racquistarono. <del hand="#A3"> Benché, l’animo no<choice>
+                    racquistarono. <app type="recensio" hand="#A3">
+            <note>
+                2 versioni
+            </note>
+           
+            <rdgGrp ana="#rec1">
+                <rdg>
+                   Benché, l’animo no<choice>
                         <orig>-</orig>
                         <reg resp="#D.B."></reg>
                     </choice><lb/>stro è (se la vita ne
@@ -390,7 +352,15 @@
                         industrioso, <del hand="#A2">e</del>
                         <add hand="#A1" place="above">che</add> nobile, di sotto q<emph rend="italic">ue</emph>l<lb/> giogo contra tempo, e per la non pensata uscito, il quale
                         .XV. anni<lb/> continovi premuto l’havea, non pure sogliono, ma possono
-                        occorrere.</del><lb/> Chiara cosa è che la <placeName ref="#Firenze">città
+                        occorrere. 
+                </rdg>
+            </rdgGrp>
+            <rdgGrp ana="#rec2">
+                <rdg cause="del">
+                    
+            </rdg>
+           <rdgGrp>                   
+        </app><lb/> Chiara cosa è che la <placeName ref="#Firenze">città
                         di Firenze</placeName>, la quale, ò sua colpa ò sua <lb/> fortuna, fù alle
                     divisioni, e alle discordie cittadine sempre maraviglio<choice>
                         <orig>-</orig>
