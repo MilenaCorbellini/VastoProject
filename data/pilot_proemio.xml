@@ -14,18 +14,6 @@
                         <persName xml:id="P.I.">Paola Italia</persName>
                 </respStmt>
                 <respStmt>
-                    <resp>Edited by</resp>
-                    <name xml:id="silvia">Silvia Di Vincenzo</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Text Encoding by</resp>
-                    <name xml:id="daniele">Daniele Marotta</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Changes for EVT testing purposes by</resp>
-                    <name xml:id="chiara">Chiara Martignano</name>
-                </respStmt>
-                <respStmt>
                     
                     <resp>Codifica</resp>
                     <persName xml:id="R.P.">Roberta Priore</persName>
@@ -300,7 +288,7 @@
                     </choice><pb n="8v" xml:id="fol_8v"/><lb n="[8v]"/>le forze
                     dell’imperio nell’anno <date when="1530">millecinquecento trenta</date> agli
                         <date when="1530-08-20">.XX. <lb/> d’agosto</date>, fatto parlamento, lo
-                    racquistarono. <app type="recensio" hand="#A3">
+                    racquistarono. <app type="recensio" resp="#D.B.">
             <note>
                 2 versioni
             </note>
