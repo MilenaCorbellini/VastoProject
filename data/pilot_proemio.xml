@@ -94,7 +94,7 @@
                                             revisioni;</handNote>
                                         <handNote scribe="N.I." xml:id="A4">Altra mano non
                                             identificata</handNote>
-                                        <handNote scribe="Nicolò_D'Antella" xml:id="A5">Mano di Niccolò D'Antella </handNote>
+                                        <handNote scribe="N.A" xml:id="A5">Mano di Niccolò D'Antella </handNote>
                                     </handDesc>
                                 </physDesc>
                             </msDesc>
@@ -236,8 +236,7 @@
                             >Leone X, papa</persName>
                     </person>
                      <person xml:id="Filiberto_de_Chialon">
-                        <persName type="pers_citata" sameAs="https://viaf.org/viaf/89317420/"
-                            ref="https://www.treccani.it/enciclopedia/philibert-de-chalon-principe-d-orange/#:~:text=Orange%20%E2%80%B9or%C3%A3%C2%B4%CB%87%CA%83%E2%80%BA%2C,in%20Franca%20Contea%201502%20%2D%20m.&text=Guerreggi%C3%B2%20in%20Italia%20per%20Carlo,cui%20divenne%20(1528)%20vicer%C3%A9."
+                         <persName type="pers_citata" sameAs="https://viaf.org/viaf/89317420/" ref="https://www.treccani.it/enciclopedia/philibert-de-chalon-principe-d-orange/"
                             >Philibert de Chalon, Principe D'Orange</persName>
                     </person>
                     <person xml:id="Giovanni_Villani">
@@ -309,7 +308,7 @@
                             ref="https://www.treccani.it/enciclopedia/marco-emilio-lepido/"
                             >Marco Emilio Lepido</persName>
                     </person>
-                     <person xml:id="Leonardo_d'Arezzo">
+                     <person xml:id="Leonardo_dArezzo">
                     <persName type="pers_citata" sameAs="https://viaf.org/viaf/95283478/"
                             ref="https://www.treccani.it/enciclopedia/bruni-leonardo-detto-leonardo-aretino_%28Dizionario-Biografico%29/"
                             >Leonardo Bruni, detto d'Arezzo</persName>
@@ -319,14 +318,11 @@
                             ref="https://www.treccani.it/enciclopedia/plinio-il-vecchio/"
                             >Plinio il Vecchio</persName>
                     </person>
-                    <person xml:id="Leonardo_d'Arezzo">
-                    <persName type="pers_citata" sameAs="https://viaf.org/viaf/95283478/"
-                            ref="https://www.treccani.it/enciclopedia/bruni-leonardo-detto-leonardo-aretino_%28Dizionario-Biografico%29/"
-                            >Leonardo Bruni, detto d'Arezzo</persName>
-                    </person>
+
+
                     <person xml:id="Poggio">
                     <persName type="pers_citata"
-                            ref=""
+                          
                             >Poggio</persName>
                     </person>
                     <person xml:id="Raffaello_Maffei">
@@ -356,7 +352,7 @@
                     </person>
                     <person xml:id="Sempronio_Tanatalo">
                     <persName type="pers_citata"
-                            ref=""
+                          
                             >Sempronio Tanatalo, dottore Pisano</persName>
                     </person>
                      <person xml:id="Lucio_Floro">
@@ -391,7 +387,7 @@
                     </person>
                      <person xml:id="Crstoforo_Longolio">
                     <persName type="pers_citata" sameAs=""
-                            ref=""
+                           
                             >Cristofano Longolio</persName>
                     </person>
                      <person xml:id="Attila">
@@ -436,7 +432,7 @@
                   
                     <person xml:id="Procopio">
                         <persName type="pers_citata" sameAs="https://viaf.org/viaf/100172302/"
-                            ref=""
+                           
                             >Procopio Cesariense</persName>
                     </person>
                     <person xml:id="Aretino">
@@ -446,36 +442,36 @@
                     </person>
                      <person xml:id="Iustino">
                         <persName type="pers_citata" sameAs=""
-                            ref=""
+                          
                             >Iustino</persName>
                     </person>
                      <person xml:id="Giovanni">
                         <persName type="pers_citata" sameAs=""
-                            ref=""
+                           
                             >Giovanni di Roma</persName>
                     </person>
                      <person xml:id="Cipriano">
                         <persName type="pers_citata" sameAs=""
-                            ref=""
+                           
                             >Cipriano di Perugia</persName>
                     </person>
                     <person xml:id="Bessa">
                         <persName type="pers_citata" sameAs=""
-                            ref=""
+                          
                             >Bessa di Spoleto</persName>
                     </person>
                     <person xml:id="Atteia">
-                        <persName type="pers_citata" sameAs=""
-                            ref=""
+                        <persName type="pers_citata" 
+                            
                             >Atteia</persName>
                     </person>
                     <person xml:id="Agazio">
                         <persName type="pers_citata" sameAs="https://viaf.org/viaf/78657745/"
-                            ref=""
+                            
                             >Agazio Guidacerio</persName>
                     </person>
                     <person xml:id="Giustiniano">
-                        <persName type="pers_citata" sameAs=""
+                        <persName type="pers_citata" 
                             ref="https://www.treccani.it/enciclopedia/giustiniano-i-imperatore-d-oriente/"
                             >Giustinano, Imperatore</persName>
                     </person>
@@ -495,17 +491,17 @@
                             >Papa Leone III</persName>
                     </person>
                      <person xml:id="Ruggiero_da_Quona">
-                        <persName type="pers_citata" sameAs=""
-                            ref=""
+                        <persName type="pers_citata" 
+                            
                             >Ruggiero da Quona</persName>
                     </person>
                     <person xml:id="Arrigi">
-                        <persName type="pers_citata" sameAs=""
-                            ref=""
+                        <persName type="pers_citata" 
+                          
                             >Arrigo</persName>
                     </person>
                     <person xml:id="Manfredi">
-                        <persName type="pers_citata" sameAs=""
+                        <persName type="pers_citata"
                             ref="https://www.treccani.it/enciclopedia/re-di-sicilia-manfredi_%28Dizionario-Biografico%29/"
                             >Re Manfredi</persName>
                     </person>
@@ -531,7 +527,7 @@
                     </person>
                     <person xml:id="Atlante">
                         <persName type="pers_citata" sameAs=""
-                            ref=""
+                            
                             >Atlante</persName>
                     </person>
                     <person xml:id="Antonfrancesco_Albizzi">
@@ -540,6 +536,7 @@
                             >Anton Francesco Albizzi</persName>
                     </person>
                 </listPerson>
+                    
                 <listPlace>
                     <place xml:id="Firenze">
                         <settlement type="città">Firenze</settlement>
@@ -601,7 +598,7 @@
                     <place xml:id="Verona">
                         <settlement type="città">Verona</settlement>
                     </place>
-                    <place xml:id="Verona">
+                    <place xml:id="Toscana">
                         <country type="regione">Toscana</country>
                     </place>
                     <place xml:id="P_del_Duomo">
@@ -637,7 +634,7 @@
                     <place xml:id="S_MariaC">
                         <district type="chiesa">Chiesa di Santa Maria in Campidoglio</district>
                     </place>
-                    <place xml:id="S_Apostolo Borgo">
+                    <place xml:id="S_Apostolo_Borgo">
                         <district type="chiesa">Chiesa di Santo Apostolo in Borgo</district>
                     </place>
                     <place xml:id="Rocca">
@@ -686,7 +683,7 @@
                         <district type="piazza">Piazza Santa Croce</district>
                     </place>
                    
-                    <place xml:id="Isola_d'Arno">
+                    <place xml:id="Isola_dArno">
                         <district type="isola">Isola D'Arno</district>
                     </place>
                     <place xml:id="P_dalBaschiera">
@@ -1284,7 +1281,7 @@
                         ” il quale hoggi si chiama <placeName ref="#Ponte_Vecchio">ponte vecchio, e vacchereccia</placeName>, e <placeName ref="San_Michele">san Michele in Or<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
                         ” to</placName>, la qual villata si chiamava prima <placeName ref="#Villa_Sarnia">Villa Sarnina, e poi Arnina</placeName>, </lb>
                         ” et alcuni altri aggiungono, che il primiero nome suo fu da <persName ref="#Giulio_Cesare">Cesare</placeName>, Cesarea. </lb>
-                        M<emph rend="italic">esser</emph> <persName ref="#Leonardo_d'Arezzo">Lionardo d’Arezzo</persName> nel principio della sua Storia dice, lei esse<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
+                        M<emph rend="italic">esser</emph> <persName ref="#Leonardo_dArezzo">Lionardo d’Arezzo</persName> nel principio della sua Storia dice, lei esse<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
                         re stata edificata da’ soldati, condotti <choice><orig>à</orig><corr>a</corr></choice> <placeName ref="#Fiesole">Fiesole</placeName> da <persName ref="#Silla">Lucio Silla</placeName>, e per</lb>
                         che ella era posta tra duo fiumi, cioè Arno, e Mugnone, primame<emph rend="italic">n</emph>te </lb>
                         essere stata chiamata <placeName ref="#Firenze">Fluenzia</placeName>, et i suoi habitatori Fluentini; di </lb>
@@ -1623,7 +1620,7 @@ quali autorità si può, se non dimostrativame<emph rend="italic">n</emph>te, al
 credere ch<emph rend="italic">e) <placeName ref="#Firenze">Firenze</placeName>, non solamente fusse sfasciata di mura, ma eziandio </lb>
 arsa, e distrutta, e consegue<emph rend="italic">n</emph>temente dishabitata in gran parte per molto </lb>
 tempo; ma non gia abbandonata mai del tutto: e così i duoi dubbij, </lb>
-che mostrava havere m<emph rend="italic">esser</emph> <persName ref="#Leonardo_d'Arezzo">Lionardo d’Arezzo</persName>, si tolgono via. Percioche </lb>
+che mostrava havere m<emph rend="italic">esser</emph> <persName ref="#Leonardo_dArezzo">Lionardo d’Arezzo</persName>, si tolgono via. Percioche </lb>
 la Cittadinanza si conservò parte in <placeName ref="#Firenze">Firenze</placeName>, qualunche ella in quel te<emph rend="italic">m</emph>po </lb>
 si fusse, e parte nelle ville, e città propinque; onde non abbisognò, che si </lb>
 traessero di <placeName ref="#Roma">Roma</placeName>, come egli si pensa, nuovi habitatori, che venisse<choice><orig>-</orig><reg resp="#D.B."/></lb>
@@ -1715,7 +1712,7 @@ le tirarono dietro la <placeName ref="#S_Iacopo">chiesa di San Iacopo</placeName
 sulle fossa, fu chiamato tra le fossa, e hoggi tra’ fossi. Da <placeName ref="#s_Iacopo">San </lb>
 Iacopo</placeName> tra’ fossi andarono infino al capo <placeName ref="#Piazza_SCroce">della piazza detta poi di </lb>
 Santa Croce</placeName>, nel qual luogo era una postierla, la quale menava </lb>
-all’<placeName ref="#Isola_D'Arno">Isola d’Arno</placeName>; dalla quale postierla le condussero per la via </lb>
+all’<placeName ref="#Isola_dArno">Isola d’Arno</placeName>; dalla quale postierla le condussero per la via </lb>
 diritta, e le fornirono alla cappella dell’altare maggiore; donde in<choice><orig>-</orig><reg resp="#D.B."/></lb>
 cominciate le haveano. Restaci hora la parte d’Oltrarno, </lb>
 
