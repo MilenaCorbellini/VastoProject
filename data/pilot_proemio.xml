@@ -137,11 +137,11 @@
                     <person xml:id="Famiglia_Medici">
                         <persName type="fam_citata">Medici</persName>
                     </person>
-                     <listPerson>
+                 
                     <person xml:id="Famiglia_Alberti">
                         <persName type="fam_citata">Alberti</persName>
                     </person>
-                     <listPerson>
+                    
                     <person xml:id="Famiglia_della_Pera">
                         <persName type="fam_citata">della Pera</persName>
                     </person>
@@ -535,7 +535,7 @@
                             ref="https://www.treccani.it/enciclopedia/anton-francesco-albizzi_(Dizionario-Biografico)/"
                             >Anton Francesco Albizzi</persName>
                     </person>
-                </listPerson>
+                     </listPerson>
                     
                 <listPlace>
                     <place xml:id="Firenze">
@@ -1183,730 +1183,730 @@
                 <pb n="680" xml:id="fol_680" facs="data/images/single/fol_680.JPG"/>
                 <lb n="[680]"/>
                 <p>
-                                        Ma perche al tempo di questa Signo-</lb>
-                        ria le genti Ecclesiastice, e quelle dell’<persName ref="#Carlo_V">Imperadore</ref> si condussero<add xml:id="A2">guidate</add> da</lb>
-                        Mons<emph rend="italic">ignor</emph> <persName ref="#Filiberto_de_Chialon">Filiberto de Chialon, Vicere di <placeName ref="Napoli">Napol[e+i]</placeName>, chiamato il Princi<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        pe d’Orange</persName>, sotto la <placeName ref="#Firenze">Città di Firenze</placeName> per ispugnarla; e la tennero </lb>
-                        poco meno che undici mesi strettissimamente assediata; nel qual tem<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        po presero parte per amore, e parte per forza quasi tutte le citta, </lb>
-                        e castella del dominio Fiorentino, mi pare non meno utile, che neces<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        sario di dover fare in questo luogo una, come dicevano gl’Antichi no<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        stri, incidenza, cioè digressione, e non solo descrivere diligenteme<emph rend="italic">n</emph>te</lb>
-                <pb n="681" xml:id="fol_680" facs="data/images/single/fol_681.JPG"/>
+                                        Ma perche al tempo di questa Signo-<lb/>
+                    ria le genti Ecclesiastice, e quelle dell’<persName ref="#Carlo_V">Imperadore</persName> si condussero<add hand="#A2">guidate</add> da<lb/>
+                        Mons<emph rend="italic">ignor</emph> <persName ref="#Filiberto_de_Chialon">Filiberto de Chialon, Vicere di <placeName ref="Napoli">Napol[e+i]</placeName>, chiamato il Princi<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        pe d’Orange</persName>, sotto la <placeName ref="#Firenze">Città di Firenze</placeName> per ispugnarla; e la tennero <lb/>
+                        poco meno che undici mesi strettissimamente assediata; nel qual tem<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        po presero parte per amore, e parte per forza quasi tutte le citta, <lb/>
+                        e castella del dominio Fiorentino, mi pare non meno utile, che neces<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        sario di dover fare in questo luogo una, come dicevano gl’Antichi no<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        stri, incidenza, cioè digressione, e non solo descrivere diligenteme<emph rend="italic">n</emph>te<lb/>
+                <pb n="681" xml:id="fol_681" facs="data/images/single/fol_681.JPG"/>
                 <lb n="[681]"/>
-                                    il sito di <placeName ref="#Firenze">Firenze</placeName> con buona parte del contado, e distretto suo; ma ancora </lb>
-                    la potenza, l’entrate, le spese, i costumi, e gl’habiti in quei tempi de’ Fiore<emph rend="italic">n</emph>tini, </lb>
-                    senza la cognizione delle quali particolarità è del tutto impossibile, che </lb>
-                    molte di quelle cose che dette si sono, e moltissime di quelle, che <choice><orig>à</orig><corr>a</corr></choice> dire </lb>
-                    s’hanno, intendere si possano. E se <choice><orig>à</orig><corr>a</corr></choice> chi che sia paresse, che io quelle co<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                    se narrassi, le quali hoggi di sono alla maggior parte notissime, o ta<emph rend="italic">n</emph>to </lb>
-                    picciole, che non meritano, che di loro si favelli, ricordisi l’intendi<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                    mento nostro non essere di volere scrivere solame<emph rend="italic">n</emph>te à’ Fiorentini, ne </lb>
-                    per quegli soli, che al presente vivono; per non dir nulla, che le cose no<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                    tissime, mentre che nessuno, pensando, che debbiano essere notissime sempre, </lb>
-                    e perche non arrecano gloria <choice><orig>à</orig><corr>a</corr></choice> chi le descrive, non ne fa menzione alcuna, </lb>
-                    divengono col tempo piu incognite di tutte l’altre, come si vede nell’herbe, </lb>
-                    nelle monete, e negl’habiti così de’ Greci come de’ Romani. E niuna </lb>
-                    cosa è tanto picciola in una Republica grande; della quale, solo che pos<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                    sa ad alcuna cosa <choice><orig>ò</orig><corr>o</corr></choice>  giovare, <choice><orig>ò</orig><corr>o</corr></choice>  dilettare, non si debbia conto tenere. Ora </lb>
-                    perche io debbo discrivere <placeName ref="#Firenze">Firenze</placeName> non quale egli fù già, ne quale egli </lb>
-                    è hora, ma come stava in quei tempi quando lo stato si mutò; onde </lb>
-                    ha il suo vero principio la storia nostra, cioè dintorno al millecin<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                    quecento ventisette; però io, non come al presente, ma come se in q<emph rend="italic">ue</emph>l </lb>
-                    tempo fussimo, quasi sempre ragionarò. E se alcuno si maraviglias<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                    se, che io in alcune cose, e spezialme<emph rend="italic">n</emph>te nelle misure dalle Cronache di </lb>
-                    <persName ref="#Giovanni_Villani">Giovanni Villani</persName>, huomo assai semplice, et idiota, ma fedelissimo però, </lb>
-                    e diligentissimo Scrittore delle gesta de’ Fiorentini, discordassi, sappia,</lb> 
-                    che i libri suoi, non pure quegli, che sono infin qui stampati, ma ezian-</lb>
-                    dio gli scritti <choice><orig>à</orig><corr>a</corr></choice> penna sono per tutto in moltissimi luoghi manifesta<choice><orig>-</orig><reg resp="#D.B."/></choice> </lb>
-                     <pb n="682" xml:id="fol_680" facs="data/images/single/fol_682.JPG"/>
+                                    il sito di <placeName ref="#Firenze">Firenze</placeName> con buona parte del contado, e distretto suo; ma ancora <lb/>
+                    la potenza, l’entrate, le spese, i costumi, e gl’habiti in quei tempi de’ Fiore<emph rend="italic">n</emph>tini, <lb/>
+                    senza la cognizione delle quali particolarità è del tutto impossibile, che <lb/>
+                    molte di quelle cose che dette si sono, e moltissime di quelle, che <choice><orig>à</orig><corr>a</corr></choice> dire <lb/>
+                    s’hanno, intendere si possano. E se <choice><orig>à</orig><corr>a</corr></choice> chi che sia paresse, che io quelle co<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                    se narrassi, le quali hoggi di sono alla maggior parte notissime, o ta<emph rend="italic">n</emph>to <lb/>
+                    picciole, che non meritano, che di loro si favelli, ricordisi l’intendi<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                    mento nostro non essere di volere scrivere solame<emph rend="italic">n</emph>te à’ Fiorentini, ne <lb/>
+                    per quegli soli, che al presente vivono; per non dir nulla, che le cose no<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                    tissime, mentre che nessuno, pensando, che debbiano essere notissime sempre, <lb/>
+                    e perche non arrecano gloria <choice><orig>à</orig><corr>a</corr></choice> chi le descrive, non ne fa menzione alcuna, <lb/>
+                    divengono col tempo piu incognite di tutte l’altre, come si vede nell’herbe, <lb/>
+                    nelle monete, e negl’habiti così de’ Greci come de’ Romani. E niuna <lb/>
+                    cosa è tanto picciola in una Republica grande; della quale, solo che pos<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                    sa ad alcuna cosa <choice><orig>ò</orig><corr>o</corr></choice>  giovare, <choice><orig>ò</orig><corr>o</corr></choice>  dilettare, non si debbia conto tenere. Ora <lb/>
+                    perche io debbo discrivere <placeName ref="#Firenze">Firenze</placeName> non quale egli fù già, ne quale egli <lb/>
+                    è hora, ma come stava in quei tempi quando lo stato si mutò; onde <lb/>
+                    ha il suo vero principio la storia nostra, cioè dintorno al millecin<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                    quecento ventisette; però io, non come al presente, ma come se in q<emph rend="italic">ue</emph>l <lb/>
+                    tempo fussimo, quasi sempre ragionarò. E se alcuno si maraviglias<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                    se, che io in alcune cose, e spezialme<emph rend="italic">n</emph>te nelle misure dalle Cronache di <lb/>
+                    <persName ref="#Giovanni_Villani">Giovanni Villani</persName>, huomo assai semplice, et idiota, ma fedelissimo però, <lb/>
+                    e diligentissimo Scrittore delle gesta de’ Fiorentini, discordassi, sappia,<lb/> 
+                    che i libri suoi, non pure quegli, che sono infin qui stampati, ma ezian-<lb/>
+                    dio gli scritti <choice><orig>à</orig><corr>a</corr></choice> penna sono per tutto in moltissimi luoghi manifesta<choice><orig>-</orig><reg resp="#D.B."/></choice> <lb/>
+                     <pb n="682" xml:id="fol_682" facs="data/images/single/fol_682.JPG"/>
                     <lb n="[682]"/>
-                                        mente scorretti: e spezialmente in quello, dove egli la misura di <placeName ref="Firenze">Firenze</placeName></lb> 
-                        del terzo cerchio discrive, e dichiara, come potra conoscere per se </lb>
-                        stesso ciascuno, che vorrà farne, come ho fatto io, diligentissimamente </lb>
-                        la pruova:. E perche pu#ò ognuno, che vuole, quello vedere, che ne </lb>
-                        scrisse <persName ref="#Giovanni_Villani">Giovanni</persName> nel tempo suo, <choice><orig>à</orig><corr>a</corr></choice> me è paruto di dover seguitare </lb>
-                        piu che Alcuno altro, <persName ref="#Niccolò_Scultore">Niccolò Scultore, chiamato il Tribolo</persName>, e <persName ref="#Benvenuto_di_Lorenzo_della_Golpaia">Benve<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        nuto di Lorenzo dalla Golpaia</persName>, due elevatissimi ingegni del secolo </lb>
-                        nostro, i quali in quei tempi, levando insieme Amenduni la pianta </lb>
-                        di  <placeName ref="#Firenze">Firenze</placeName> in non meno di sei mesi, non lavorando, se non la notte, per </lb>
-                        non essere secondo l’uso del popolo di <placeName ref="#Firenze">Firenze</placeName>, impediti dalla gente, con in-</lb>
-                        credibile studio, e diligenza lo misurarono tutto quanto, e ne  fec<del hand="#A2">iono</del><add hand="#A2">ero</add> un modello di legname, il quale hebbe poi <persName ref="#ClementeVII">Papa Clemente</persName>, e lo tenne in Ca<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        mera sua tutto il tempo, che egli vivette. La onde noi, fa<add hand="#A2">c</add>cendoci per </lb>
-                        maggior chiarezza piu di lontano, diremo, che l’oppenione di <persName ref="#Giovanni_Villani">Giovan<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        ni Villani</persName> nel primo capitolo del secondo libro della sua Cronaca, nel li<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        bro che ho io <choice><orig>à</orig><corr>a</corr></choice> penna; e nel trentottesimo del primo nello stampato à </lb>
-                        <placeName ref="#Venezia">Vinezia</placeName> nel quarantanove, è, che <placeName ref="Firenze">Firenze</placeName> fusse edificata dopo la rovi<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        na della <placeName ref="#Fiesole">Città di Fiesole</placeName> da quattro Signori Romani,<persName ref="#Giulio_Cesare"> Giulio Cesare</persName>, <persName ref="#Macrino">Ma<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        crino, <persName ref="#Gneo_Pompeo">Gneo Pompeo</persName> e Marzio con questa condizione, che qual di loro </lb>
-                        havesse piu tostamente il suo lavoro compito, appellasse <placeName ref="#Firenze">la Città</placeName> dal suo </lb>
-                        nome, essendosi ciascuno diviso la sua parte del lavorio; ma perche </lb>
-                        tutti quattro finirono l’opera in un medesimo tempo, Nullo di loro ac<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        quistò la grazia di poterla nominare <choice><orig>à</orig><corr>a</corr></choice> sua volontà; per la qual </lb>
-                        cosa fu da molti nel primo cominciame<emph rend="italic">n</emph>to suo nominata, la picciola <placeName ref="#Roma">Ro<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        ma; Altri l’appellavano: Fioria dal nome d’un gran Capitano, che  </lb>
+                                        mente scorretti: e spezialmente in quello, dove egli la misura di <placeName ref="Firenze">Firenze</placeName><lb/> 
+                        del terzo cerchio discrive, e dichiara, come potra conoscere per se <lb/>
+                        stesso ciascuno, che vorrà farne, come ho fatto io, diligentissimamente <lb/>
+                        la pruova:. E perche pu#ò ognuno, che vuole, quello vedere, che ne <lb/>
+                        scrisse <persName ref="#Giovanni_Villani">Giovanni</persName> nel tempo suo, <choice><orig>à</orig><corr>a</corr></choice> me è paruto di dover seguitare <lb/>
+                        piu che Alcuno altro, <persName ref="#Niccolò_Scultore">Niccolò Scultore, chiamato il Tribolo</persName>, e <persName ref="#Benvenuto_di_Lorenzo_della_Golpaia">Benve<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        nuto di Lorenzo dalla Golpaia</persName>, due elevatissimi ingegni del secolo <lb/>
+                        nostro, i quali in quei tempi, levando insieme Amenduni la pianta <lb/>
+                        di  <placeName ref="#Firenze">Firenze</placeName> in non meno di sei mesi, non lavorando, se non la notte, per <lb/>
+                        non essere secondo l’uso del popolo di <placeName ref="#Firenze">Firenze</placeName>, impediti dalla gente, con in-<lb/>
+                        credibile studio, e diligenza lo misurarono tutto quanto, e ne  fec<del hand="#A2">iono</del><add hand="#A2">ero</add> un modello di legname, il quale hebbe poi <persName ref="#ClementeVII">Papa Clemente</persName>, e lo tenne in Ca<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        mera sua tutto il tempo, che egli vivette. La onde noi, fa<add hand="#A2">c</add>cendoci per <lb/>
+                        maggior chiarezza piu di lontano, diremo, che l’oppenione di <persName ref="#Giovanni_Villani">Giovan<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        ni Villani</persName> nel primo capitolo del secondo libro della sua Cronaca, nel li<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        bro che ho io <choice><orig>à</orig><corr>a</corr></choice> penna; e nel trentottesimo del primo nello stampato à <lb/>
+                        <placeName ref="#Venezia">Vinezia</placeName> nel quarantanove, è, che <placeName ref="Firenze">Firenze</placeName> fusse edificata dopo la rovi<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        na della <placeName ref="#Fiesole">Città di Fiesole</placeName> da quattro Signori Romani,<persName ref="#Giulio_Cesare"> Giulio Cesare</persName>, <persName ref="#Macrino">Ma<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        crino</persName>, <persName ref="#Gneo_Pompeo">Gneo Pompeo</persName> e Marzio con questa condizione, che qual di loro <lb/>
+                        havesse piu tostamente il suo lavoro compito, appellasse <placeName ref="#Firenze">la Città</placeName> dal suo <lb/>
+                        nome, essendosi ciascuno diviso la sua parte del lavorio; ma perche <lb/>
+                        tutti quattro finirono l’opera in un medesimo tempo, Nullo di loro ac<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        quistò la grazia di poterla nominare <choice><orig>à</orig><corr>a</corr></choice> sua volontà; per la qual <lb/>
+                        cosa fu da molti nel primo cominciame<emph rend="italic">n</emph>to suo nominata, la picciola <placeName ref="#Roma">Ro<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        ma; Altri l’appellavano: Fioria dal nome d’un gran Capitano, che  <lb/>
                     <pb n="683" xml:id="fol_683" facs="data/images/single/fol_683.JPG"/>
                     <lb n="[683]"/>
-                                            quivi fu morto in battaglia da’ Fiesolani, chiamato <persName ref="#Fiorino">Fiorino</persName>, quasi fiore </lb>
-                        della Cavalleria. Ma poi, perche ne’ campi, dove ella fu edificata, sem<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        pre nascevano fiori, e gigli, la maggior parte degl’habitanti consen<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        tirono di chiamarla Floria, si come fusse in fiore edificata, cioè co<emph rend="italic">n</emph> </lb>
-                        molte delizie, poscia per lungo uso di Vulgare fu nominata Fioren<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        za, cioè spada fiorita; e cio fu secondo il medesimo <persName ref="#Giovanni_Villani">Giovanni</persName>, ed Al<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        cuni altri secento ottanta due anni dopo l’edificazione di <placeName ref="#Roma">Roma</placeName>, e </lb>
-                        Settanta innanzi la natività di Cristo. Altri dicono quarantauno, </lb>
-                        Altri quarantasette, Altri ottantotto, et altri novanta. Soggiugne </lb>
-                        poi <persName ref="#Giovanni_Villani">Giovanni</persName>, che la città di <placeName ref="#Firenze">Firenze</placeName> era in quel tempo camera d’impe<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        rio, et altre così fatte cose, le quali essere non vere, ma finte (chïunche</lb> 
-                        se ne fusse il ritrovatore) puo in questo secolo conoscere agevolme<emph rend="italic">n</emph>te per </lb>
-                        se stesso ciascheduno; dico in questo secolo, perche in quello non erano </lb>
-                        note le storie, come hoggi sono. E <persName ref="#Giovanni_Villani">Giovanni</persName>, se bene disse le bugie, non </lb>
-                        però menti <del hand="#A2">mentì</del><add hand="#A2">e?</add>, perche egli disse in questa quello, che egli scritto da altri</lb> 
-                        Autori credeva vero; e nell’altre cose di <placeName ref="#Firenze">Firenze</placeName> quello, che scritto </lb>
-                        da lui fu verissimo; il perche grande obligo gli debbono havere i Fio<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        rentini, e tutti coloro altresì, che di sapere i fatti de’ Fiorentini pre<emph rend="italic">n</emph><choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        dono diletto. Questa oppenione seguitò non solamente <persName ref="Domenico_di_Lionardo">Domenico </lb>
-                        di Lionardo di Boninsegna</persName> nel principio della sua Cronaca, la qua<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        le non è altro, che una abbreviazione di quelle del <persName ref="#Giovanni_Villani">Villano</persName>, ma quasi </lb>
-                        tutti i piu Antichi di quei, che ho veduto io, i quali scrivessero <choice><orig>ò</orig><corr>o</corr></choice>  </lb>
-                        prima, <choice><orig>ò</orig><corr>o</corr></choice>  poi di lui cronache Fiorentine; e ciò furono, Ricordano<persName ref="#Malespini"> Ma<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        lespini</persName>, <persName ref="#Melchionne_di_Coppo_Stefani">Melchionne di Coppo Stefani</persName>, <persName ref="#Lotto_Fiesolano">Lotto Fiesolano da Porta Pe<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        ruzza</persName>, et alcuni altri, i libri de’ quali non hanno titolo. Alcunj  </lb>
+                                            quivi fu morto in battaglia da’ Fiesolani, chiamato <persName ref="#Fiorino">Fiorino</persName>, quasi fiore <lb/>
+                        della Cavalleria. Ma poi, perche ne’ campi, dove ella fu edificata, sem<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        pre nascevano fiori, e gigli, la maggior parte degl’habitanti consen<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        tirono di chiamarla Floria, si come fusse in fiore edificata, cioè co<emph rend="italic">n</emph> <lb/>
+                        molte delizie, poscia per lungo uso di Vulgare fu nominata Fioren<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        za, cioè spada fiorita; e cio fu secondo il medesimo <persName ref="#Giovanni_Villani">Giovanni</persName>, ed Al<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        cuni altri secento ottanta due anni dopo l’edificazione di <placeName ref="#Roma">Roma</placeName>, e <lb/>
+                        Settanta innanzi la natività di Cristo. Altri dicono quarantauno, <lb/>
+                        Altri quarantasette, Altri ottantotto, et altri novanta. Soggiugne <lb/>
+                        poi <persName ref="#Giovanni_Villani">Giovanni</persName>, che la città di <placeName ref="#Firenze">Firenze</placeName> era in quel tempo camera d’impe<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        rio, et altre così fatte cose, le quali essere non vere, ma finte (chïunche<lb/> 
+                        se ne fusse il ritrovatore) puo in questo secolo conoscere agevolme<emph rend="italic">n</emph>te per <lb/>
+                        se stesso ciascheduno; dico in questo secolo, perche in quello non erano <lb/>
+                        note le storie, come hoggi sono. E <persName ref="#Giovanni_Villani">Giovanni</persName>, se bene disse le bugie, non <lb/>
+                        però menti <del hand="#A2">mentì</del><add hand="#A2">e?</add>, perche egli disse in questa quello, che egli scritto da altri<lb/> 
+                        Autori credeva vero; e nell’altre cose di <placeName ref="#Firenze">Firenze</placeName> quello, che scritto <lb/>
+                        da lui fu verissimo; il perche grande obligo gli debbono havere i Fio<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        rentini, e tutti coloro altresì, che di sapere i fatti de’ Fiorentini pre<emph rend="italic">n</emph><choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        dono diletto. Questa oppenione seguitò non solamente <persName ref="Domenico_di_Lionardo">Domenico <lb/>
+                        di Lionardo di Boninsegna</persName> nel principio della sua Cronaca, la qua<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        le non è altro, che una abbreviazione di quelle del <persName ref="#Giovanni_Villani">Villano</persName>, ma quasi <lb/>
+                        tutti i piu Antichi di quei, che ho veduto io, i quali scrivessero <choice><orig>ò</orig><corr>o</corr></choice>  <lb/>
+                        prima, <choice><orig>ò</orig><corr>o</corr></choice>  poi di lui cronache Fiorentine; e ciò furono, Ricordano<persName ref="#Malespini"> Ma<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        lespini</persName>, <persName ref="#Melchionne_di_Coppo_Stefani">Melchionne di Coppo Stefani</persName>, <persName ref="#Lotto_Fiesolano">Lotto Fiesolano da Porta Pe<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        ruzza</persName>, et alcuni altri, i libri de’ quali non hanno titolo. Alcunj  <lb/>
                         <pb n="684" xml:id="fol_684" facs="data/images/single/fol_684.JPG"/>
                     <lb n="[684]"/>
                         scrivono così: 
-                        ”<persName ref="#Silla">Silla</persName> con quantità di Romani venne ad habitare nel piano, ove \è/ hoggi </lb>
-                        ” <placeName ref="#Firenze">Firenze</placeName> in sulla ripa d’Arno, che in quel tempo si chiamava Sarno; </lb>
-                        ” e quivi in sulla riva fondarono certe casette, e capanne intorno al ponte, </lb>
-                        ” il quale hoggi si chiama <placeName ref="#Ponte_Vecchio">ponte vecchio, e vacchereccia</placeName>, e <placeName ref="San_Michele">san Michele in Or<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        ” to</placName>, la qual villata si chiamava prima <placeName ref="#Villa_Sarnia">Villa Sarnina, e poi Arnina</placeName>, </lb>
-                        ” et alcuni altri aggiungono, che il primiero nome suo fu da <persName ref="#Giulio_Cesare">Cesare</placeName>, Cesarea. </lb>
-                        M<emph rend="italic">esser</emph> <persName ref="#Leonardo_dArezzo">Lionardo d’Arezzo</persName> nel principio della sua Storia dice, lei esse<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        re stata edificata da’ soldati, condotti <choice><orig>à</orig><corr>a</corr></choice> <placeName ref="#Fiesole">Fiesole</placeName> da <persName ref="#Silla">Lucio Silla</placeName>, e per</lb>
-                        che ella era posta tra duo fiumi, cioè Arno, e Mugnone, primame<emph rend="italic">n</emph>te </lb>
-                        essere stata chiamata <placeName ref="#Firenze">Fluenzia</placeName>, et i suoi habitatori Fluentini; di </lb>
-                        poi <choice><orig>ò</orig><corr>o</corr></choice> perche si corrompesse il vocabolo, <choice><orig>ò</orig><corr>o</corr></choice>  perche crescendo ella in poten-</lb>
-                        za ogni giorno più, mirabilmente venne <choice><orig>à</orig><corr>a</corr></choice> fiorire, fu chiamata <placeName ref="#Firenze">Floren<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        zia</placeName>. Il medesimo scrive nel principio delle Storie m<emph rend="italic">esser</emph> <persName ref="#Poggio">Poggio</persName>, sal<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        vo che giudica piu verisimile, seguitando l’autorità di <persName ref="#Plinio">Plinio</persName>, che ella </lb>
-                        si chiamasse <placeName ref="#Firenze">Fluenza</placeName>, sendo allato al fluente, cioè ad Arno, che per </lb>
-                        che ella fusse collocata infra duo Fluenti, l’uno de’ quali non è fiu<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        me, ma torrente. Questa oppenione, che <placeName ref="#Firenze">Firenze</placeName> fosse edificata </lb>
-                        da’ soldati di <persName ref="#Silla">Silla</persName> è ripresa, et giustamente, da m<emph rend="italic">esser</emph> <persName ref="#Raffaello_Maffei">Raffaello Maf<choice><orig>-</orig><reg resp="#D.B."/></choice></lb>
-                        fei Volterrano</persName> nel quinto libro de’ suoi comentarij Urbani, dicendo </lb>
-                        essere ben vero, che ella sia Colonia de’ Romani, ma non gia edificata da’ </lb>
+                        ”<persName ref="#Silla">Silla</persName> con quantità di Romani venne ad habitare nel piano, ove \è/ hoggi <lb/>
+                        ” <placeName ref="#Firenze">Firenze</placeName> in sulla ripa d’Arno, che in quel tempo si chiamava Sarno; <lb/>
+                        ” e quivi in sulla riva fondarono certe casette, e capanne intorno al ponte, <lb/>
+                        ” il quale hoggi si chiama <placeName ref="#Ponte_Vecchio">ponte vecchio, e vacchereccia</placeName>, e <placeName ref="San_Michele">san Michele in Or<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        ” to</placeName>, la qual villata si chiamava prima <placeName ref="#Villa_Sarnia">Villa Sarnina, e poi Arnina</placeName>, <lb/>
+                        ” et alcuni altri aggiungono, che il primiero nome suo fu da <persName ref="#Giulio_Cesare">Cesare</persName>, Cesarea. <lb/>
+                        M<emph rend="italic">esser</emph> <persName ref="#Leonardo_dArezzo">Lionardo d’Arezzo</persName> nel principio della sua Storia dice, lei esse<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        re stata edificata da’ soldati, condotti <choice><orig>à</orig><corr>a</corr></choice> <placeName ref="#Fiesole">Fiesole</placeName> da <persName ref="#Silla">Lucio Silla</persName>, e per<lb/>
+                        che ella era posta tra duo fiumi, cioè Arno, e Mugnone, primame<emph rend="italic">n</emph>te <lb/>
+                        essere stata chiamata <placeName ref="#Firenze">Fluenzia</placeName>, et i suoi habitatori Fluentini; di <lb/>
+                        poi <choice><orig>ò</orig><corr>o</corr></choice> perche si corrompesse il vocabolo, <choice><orig>ò</orig><corr>o</corr></choice>  perche crescendo ella in poten-<lb/>
+                        za ogni giorno più, mirabilmente venne <choice><orig>à</orig><corr>a</corr></choice> fiorire, fu chiamata <placeName ref="#Firenze">Floren<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        zia</placeName>. Il medesimo scrive nel principio delle Storie m<emph rend="italic">esser</emph> <persName ref="#Poggio">Poggio</persName>, sal<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        vo che giudica piu verisimile, seguitando l’autorità di <persName ref="#Plinio">Plinio</persName>, che ella <lb/>
+                        si chiamasse <placeName ref="#Firenze">Fluenza</placeName>, sendo allato al fluente, cioè ad Arno, che per <lb/>
+                        che ella fusse collocata infra duo Fluenti, l’uno de’ quali non è fiu<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        me, ma torrente. Questa oppenione, che <placeName ref="#Firenze">Firenze</placeName> fosse edificata <lb/>
+                        da’ soldati di <persName ref="#Silla">Silla</persName> è ripresa, et giustamente, da m<emph rend="italic">esser</emph> <persName ref="#Raffaello_Maffei">Raffaello Maf<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        fei Volterrano</persName> nel quinto libro de’ suoi comentarij Urbani, dicendo <lb/>
+                        essere ben vero, che ella sia Colonia de’ Romani, ma non gia edificata da’ <lb/>
                         soldati di <persName ref="#Silla">Silla</persName>: percioche in un libro, che venne in luce a
-                        l suo tempo, </lb>
-                        nel quale si trattava delle Colonie, si trovavano scritte queste proprie pa</lb>
-                        role formali:</lb> 
-                        ” <persName ref="#Giulio_Cesare">C. Caesaris</persName>, et <persName ref="#M_Antonio">M. Antonij</persName>, e <persName ref="#M_Lepido">M. Lepidi</persName> <placeName ref="#Firenze">Colonia Florentina</placeName> deducta a  </lb>
+                        l suo tempo, <lb/>
+                        nel quale si trattava delle Colonie, si trovavano scritte queste proprie pa<lb/>
+                        role formali:<lb/> 
+                        ” <persName ref="#Giulio_Cesare">C. Caesaris</persName>, et <persName ref="#M_Antonio">M. Antonij</persName>, e <persName ref="#M_Lepido">M. Lepidi</persName> <placeName ref="#Firenze">Colonia Florentina</placeName> deducta a  <lb/>
                      <pb n="685" xml:id="fol_685" facs="data/images/single/fol_685.JPG"/>
                     <lb n="[685]"/>
-                                            ” III viris, adsignata lege Iulia Centurię Cesarianę in iugera per Cardines </lb>
-                        ” et Decumanos, termini rotundi pedales, et distant <choice><orig>à</orig><corr>a</corr></choice> se pedes IICCCC». </lb>
-                        E allega <persName ref="#Lorenzo_Valla">Lorenzo Valla</persName>, il quale in una delle sue pistole tiene la medesima </lb>
-                        oppenione. <persName ref="#Niccolo_Machiavelli">Niccolo Machiavelli</persName> nel principio del secondo libro delle </lb>
-                        sue storie giudica, che la cagione delle prime edificazioni di <placeName ref="#Firenze">Firenze</placeName> </lb>
-                        fusero i mercati, i quali non sopra il poggio di <placeName ref="#Fiesole">Fiesole</placeName>, ma per piu </lb>
-                        comodita di chi andava, e veniva, si facessero nel piano: le quali edifi<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        cazioni ridotte <add hand="#A2">col tempo</add> in forma d’una Terra, si chiamò <placeName ref="#Villa_Sarnia">Villa Arnina</placeName>, e che <choice><orig>à</orig><corr>a</corr></choice> </lb>
-                        <placeName ref="#Fiesole">Fiesole</placeName> furono mandate Colonie, le quali <choice><orig>ò</orig><corr>o</corr></choice> tutte, <choice><orig>ò</orig><corr>o</corr></choice> parte posarono l’ha<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        bitazioni loro nel piano presso alla gia cominciata Terra; tale che per </lb>
-                        questo augume<emph rend="italic">n</emph>to si ridusse quel luogo tanto pieno d’edifizij, e d’huo-</lb>
-                        mini, e d’ogn’altro ordine civile, che si pote<del hand="#A2">va</del><del hand="#A2"><add hand="#A2">tte</add></del><add hand="#A2">tte</add> annoverare intra le </lb>
-                        città d’<placeName ref="#Ialia">Italia</placeName>: non crede gia, che ella fusse mai chiamata <placeName ref="#Firenze">Fluenzia</placeName>, ma </lb>
-                        sempre Florenzia, et vuole, che ’l vocabolo Fluentini sia corrotto, do<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        vendo dire, Florentini, come si legg</lb>e nella fine del primo libro di <persName ref="#Tacito">Corne<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        lio Tacito</placeName> quando dice: </lb>
-                        ” Actum deinde in senatu ab Arruntio, et Ateïo an ob moderandas Ty<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        ” beris exundationes verterentur Flumina, et Lacus, per quos auge<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        ” scit; auditęq<emph rend="italic">ue</emph> Municipior<emph rend="italic">um</emph>, et Coloniar<emph rend="italic">um</emph> legationes orantibus Floren-</lb>
-                        ” tinis, ne Clanis solito alveo demotus in amnem Arnu<del hand="#A2">s</del><add hand="#A2">m</add> transferretur, </lb>
-                        ” idq<emph rend="italic">ue</emph> Ipsis perniciem adferret; cioè.</lb>
-                        Si trattò di poi nel Senato da Arunzio, e da Ateio, se per moderare le </lb>
-                        piene del Tevero, accio che egli non isboccasse, si dovessero rivolgere </lb>
-                        i Fiumi, et i Laghi, mediante i quali egli cresce; et furono ascoltate </lb>
-                        l’ambascerie de’ Municipij, e delle Colonie, pregando i Fiorentini, che  </lb>
+                                            ” III viris, adsignata lege Iulia Centurię Cesarianę in iugera per Cardines <lb/>
+                        ” et Decumanos, termini rotundi pedales, et distant <choice><orig>à</orig><corr>a</corr></choice> se pedes IICCCC». <lb/>
+                        E allega <persName ref="#Lorenzo_Valla">Lorenzo Valla</persName>, il quale in una delle sue pistole tiene la medesima <lb/>
+                        oppenione. <persName ref="#Niccolo_Machiavelli">Niccolo Machiavelli</persName> nel principio del secondo libro delle <lb/>
+                        sue storie giudica, che la cagione delle prime edificazioni di <placeName ref="#Firenze">Firenze</placeName> <lb/>
+                        fusero i mercati, i quali non sopra il poggio di <placeName ref="#Fiesole">Fiesole</placeName>, ma per piu <lb/>
+                        comodita di chi andava, e veniva, si facessero nel piano: le quali edifi<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        cazioni ridotte <add hand="#A2">col tempo</add> in forma d’una Terra, si chiamò <placeName ref="#Villa_Sarnia">Villa Arnina</placeName>, e che <choice><orig>à</orig><corr>a</corr></choice> <lb/>
+                        <placeName ref="#Fiesole">Fiesole</placeName> furono mandate Colonie, le quali <choice><orig>ò</orig><corr>o</corr></choice> tutte, <choice><orig>ò</orig><corr>o</corr></choice> parte posarono l’ha<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        bitazioni loro nel piano presso alla gia cominciata Terra; tale che per <lb/>
+                        questo augume<emph rend="italic">n</emph>to si ridusse quel luogo tanto pieno d’edifizij, e d’huo-<lb/>
+                        mini, e d’ogn’altro ordine civile, che si pote<del hand="#A2">va</del><del hand="#A2"><add hand="#A2">tte</add></del><add hand="#A2">tte</add> annoverare intra le <lb/>
+                        città d’<placeName ref="#Ialia">Italia</placeName>: non crede gia, che ella fusse mai chiamata <placeName ref="#Firenze">Fluenzia</placeName>, ma <lb/>
+                        sempre Florenzia, et vuole, che ’l vocabolo Fluentini sia corrotto, do<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        vendo dire, Florentini, come si legg<lb/>e nella fine del primo libro di <persName ref="#Tacito">Corne<choice><orig>-</orig><reg resp="#D.B."/></choice></persName><lb/>
+                        lio Tacito</placeName> quando dice: <lb/>
+                            ” Actum deinde in senatu ab Arruntio, et Ateïo an ob moderandas Ty<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                            ” beris exundationes verterentur Flumina, et Lacus, per quos auge<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        ” scit; auditęq<emph rend="italic">ue</emph> Municipior<emph rend="italic">um</emph>, et Coloniar<emph rend="italic">um</emph> legationes orantibus Floren-<lb/>
+                        ” tinis, ne Clanis solito alveo demotus in amnem Arnu<del hand="#A2">s</del><add hand="#A2">m</add> transferretur, <lb/>
+                        ” idq<emph rend="italic">ue</emph> Ipsis perniciem adferret; cioè.<lb/>
+                        Si trattò di poi nel Senato da Arunzio, e da Ateio, se per moderare le <lb/>
+                        piene del Tevero, accio che egli non isboccasse, si dovessero rivolgere <lb/>
+                        i Fiumi, et i Laghi, mediante i quali egli cresce; et furono ascoltate <lb/>
+                        l’ambascerie de’ Municipij, e delle Colonie, pregando i Fiorentini, che  <lb/>
 
                  <pb n="686" xml:id="fol_686" facs="data/images/single/fol_686.JPG"/>
                     <lb n="[686]"/>
-                                        la Chiana rimovendosi del suo letto solito, non si facesse<del hand="#A2">tra</del><add hand="#A2">s</add>boccare in </lb>
-                    Arno, il che sarebbe l’ultima rovina loro. M<emph rend="italic">esser</emph> <persName ref="#Agnolo_Poliziano">Agnolo Poliziano</persName>, </lb>
-                    huomo di somma dottrina, e giudizio nella seconda Pistola del primo </lb>
-                    libro indiritta <choice><orig>à</orig><corr>a</corr></choice> <persName ref="#Piero_de_Medici">Piero de’ Medici</persName>, vantandosi d’havere egli solo la ve<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                    ra origine di <placeName ref="#Firenze">Firenze</placeName> ritrovata, diversa da tutte quelle, che tutti gli Scrit<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                    tori delle Storie le havevano insino <choice><orig>à</orig><corr>a</corr></choice> lui assegnata, vuole (come fu il </lb>
-                    vero, e come dimostrano le parole allegate dal <persName ref="#Raffaello_Maffei">Volterrano</persName>) che non <persName ref="#Silla">Sil<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                    la</persName>, ma i Triunviri mandassono i soldati <choice><orig>à</orig><corr>a</corr></choice> <placeName ref="#Fiesole">Fiesole</placeName>, et allega l’autori-</lb>
-                    tà di Giulio Frontino nel libro che egli scrisse al tempo di Nerva Impe<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                    radore delle misure de’ campi, le quali son queste.</lb>
-                    ” Deduxere igitur <placeName ref="#Firenze">Florentiam</placeName>Florentiam Coloniam Triumviri <persName ref="#Giulio_Cesare">C. Cęsar</persName>, qui deinde</lb>
-                    ” Augustus: <persName ref="#M_Antonio">M. Antonius</persName>, et<persName ref="#M_Leoido"> M. Lepidus</persName> etiam Pontifex Maximus.</lb>
-                    ” Coloni autem deducti Cesariani milites, quibus adsignata ducenta iu<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                    ” gera per cardines, et decumanos.</lb>
-                    Quanto al nome, dice che <placeName ref="#Roma">Roma</placeName> hebbe tre nomi, uno volgare e palese,</lb>
-                    <choice><orig>cioe</orig><corr>cioè</corr></choice> Roma, uno nascosto, e segreto, cioè Amarilli; il terzo, il quale</lb>
-                    s’usava solamente ne’ sacrifizij, fu grecamente Antusa, il che non vuole al<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                    tro significare, che <placeName ref="#Firenze">Florente</placeName>, <choice><orig>ò</orig><corr>o</corr></choice> piu tosto Flora, <choice><orig>ò</orig><corr>o</corr></choice> veramente Fiorenza, e</lb>
-                    vuole anche egli, che appresso <persName ref="#Plinio">Plinio</persName> la voce Fluentini sia scorretta, <choice><orig>ò</orig><corr>o</corr></choice></lb>
-                    se pure sta bene, che Fluentini si chiamasseno dagl’antichi tutti quei</lb>
-                    popoli i quali lungo il Fluente, cioè presso le rive d’Arno habitavano,</lb>
-                    i quali Fluentini, edificata, che fu la città, e condottov<del hand="#A2">o</del><add hand="#A2">j</add> la Colonia, si tra<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                    smutarono in Florentini. E non m’è nascoso quello, che Alcuni dico-</lb>
-                    no, cioè <placeName ref="#Firenze">Firenze</placeName> non essere stata chiamata dalla sua prima origine ne</lb>
-                    Fluentia <add hand="#A2">dal</add> fluente, ne Fiorenza, <del hand="#A2">?</del><add hand="#A2">o</add> Florentia da Fiorino, <choice><orig>ò</orig><corr>o</corr></choice> dal  </lb>
+                                        la Chiana rimovendosi del suo letto solito, non si facesse<del hand="#A2">tra</del><add hand="#A2">s</add>boccare in <lb/>
+                    Arno, il che sarebbe l’ultima rovina loro. M<emph rend="italic">esser</emph> <persName ref="#Agnolo_Poliziano">Agnolo Poliziano</persName>, <lb/>
+                    huomo di somma dottrina, e giudizio nella seconda Pistola del primo <lb/>
+                            libro indiritta <choice><orig>à</orig><corr>a</corr></choice> <persName ref="#Piero_de_Medici">Piero de’ Medici</persName>, vantandosi d’havere egli solo la ve<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                            ra origine di <placeName ref="#Firenze">Firenze</placeName> ritrovata, diversa da tutte quelle, che tutti gli Scrit<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                    tori delle Storie le havevano insino <choice><orig>à</orig><corr>a</corr></choice> lui assegnata, vuole (come fu il <lb/>
+                        vero, e come dimostrano le parole allegate dal <persName ref="#Raffaello_Maffei">Volterrano</persName>) che non <persName ref="#Silla">Sil<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                    la</persName>, ma i Triunviri mandassono i soldati <choice><orig>à</orig><corr>a</corr></choice> <placeName ref="#Fiesole">Fiesole</placeName>, et allega l’autori-<lb/>
+                            tà di Giulio Frontino nel libro che egli scrisse al tempo di Nerva Impe<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                    radore delle misure de’ campi, le quali son queste.<lb/>
+                    ” Deduxere igitur <placeName ref="#Firenze">Florentiam</placeName>Florentiam Coloniam Triumviri <persName ref="#Giulio_Cesare">C. Cęsar</persName>, qui deinde<lb/>
+                    ” Augustus: <persName ref="#M_Antonio">M. Antonius</persName>, et<persName ref="#M_Leoido"> M. Lepidus</persName> etiam Pontifex Maximus.<lb/>
+                            ” Coloni autem deducti Cesariani milites, quibus adsignata ducenta iu<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                    ” gera per cardines, et decumanos.<lb/>
+                    Quanto al nome, dice che <placeName ref="#Roma">Roma</placeName> hebbe tre nomi, uno volgare e palese,<lb/>
+                    <choice><orig>cioe</orig><corr>cioè</corr></choice> Roma, uno nascosto, e segreto, cioè Amarilli; il terzo, il quale<lb/>
+                            s’usava solamente ne’ sacrifizij, fu grecamente Antusa, il che non vuole al<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                    tro significare, che <placeName ref="#Firenze">Florente</placeName>, <choice><orig>ò</orig><corr>o</corr></choice> piu tosto Flora, <choice><orig>ò</orig><corr>o</corr></choice> veramente Fiorenza, e<lb/>
+                    vuole anche egli, che appresso <persName ref="#Plinio">Plinio</persName> la voce Fluentini sia scorretta, <choice><orig>ò</orig><corr>o</corr></choice><lb/>
+                    se pure sta bene, che Fluentini si chiamasseno dagl’antichi tutti quei<lb/>
+                    popoli i quali lungo il Fluente, cioè presso le rive d’Arno habitavano,<lb/>
+                            i quali Fluentini, edificata, che fu la città, e condottov<del hand="#A2">o</del><add hand="#A2">j</add> la Colonia, si tra<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                    smutarono in Florentini. E non m’è nascoso quello, che Alcuni dico-<lb/>
+                    no, cioè <placeName ref="#Firenze">Firenze</placeName> non essere stata chiamata dalla sua prima origine ne<lb/>
+                    Fluentia <add hand="#A2">dal</add> fluente, ne Fiorenza, <del hand="#A2">?</del><add hand="#A2">o</add> Florentia da Fiorino, <choice><orig>ò</orig><corr>o</corr></choice> dal  <lb/>
                     <pb n="687" xml:id="fol_687" facs="data/images/single/fol_687.JPG"/>
                     <lb n="[687]"/>
-                        Fiore, ma <choice><orig>ò</orig><corr>o</corr></choice> Forenzia dal foro, cioè dal Mercato, che quivi si faceva, </lb>
-                        o Flumenzia dal Fiume: ne mancano di Quegli, i quali la dicono Fe<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        renzia dal portare. Ma non comporta la gravità della Storia, che si </lb>
-                        debbiano raccontare tutte le oppenioni eziandio di coloro, che non dicono </lb>
-                        nulla; percioche colla medesima agevolezza potrebbe chiunche volesse, </lb>
-                        dire, seguitando cotali etimologie, che ella fusse stata chiamata  <placeName ref="#Firenze">Furen<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        zia</placeName>, <choice><orig>ò</orig><corr>o</corr></choice> in alcuno altro modo somigliante. E qual maggior vanità, ò piu </lb>
-                        perduta opera sarebbe, che il volere le ridicole oppenioni d’alcuni Mo<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        derni con ragioni, <choice><orig>ò</orig><corr>o</corr></choice> con autorità confutare? i quali dietro gli scritti </lb>
-                        di Frate Annio Viterbese, e d’Altri in gran parte, secondo il giudizio </lb>
-                        nostro favolosi Scrittori, affermano  <placeName ref="#Firenze">Firenze</placeName> essere stata edificata da </lb>
-                        Hercole Egizzio anni circa mille secento ottanta innanzi l’avvenime<emph rend="italic">n</emph>to </lb>
-                        di Cristo? e che il vero nome di <placeName ref="#Firenze">Firenze</placeName> non fu ne Firens da Fir, che </lb>
-                        nella lingua Estrusca antica significa correre, e da ens che vuol dire </lb>
-                        Castello, quasi Castello fluente, come afferma <persName ref="#Sempronio_Tantalo">Sempronio Tantalo Dotto<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        re Pisano</persName>, ma da queste tre sillabe fir, en, ze, la prima delle quali </lb>
-                        in lingua Aramea significa fiore; la seconda, grazioso; e l’ultima, </lb>
-                        questo: tale che il tutto viene <choice><orig>à</orig><corr>a</corr></choice> rilevare: fior grazioso questo: poi non </lb>
-                        piacendo loro un cosi fatto mes<del hand="#A2">t</del><del hand="#A2"><add hand="#A2">c</add></del><add hand="#A2">c</add>uglio, scrivono, che ella fu detta da una </lb>
-                        voce sola, e non da tre, e questa è, Firzah, che significa citta senza </lb>
-                        mura; <emph rend="italic">et</emph> anco questa non sodisfacendo loro, dicono, che <placeName ref="#Firenze">Firenze</placeName> è com<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        posta di due voci, cioè Fir, che vuol dir fiore, et ez, che vuol dire </lb>
-                        forte; non perche dica fior forte, ma fiore de’ <del hand="#A2">f</del><add hand="#A2">F</add>orti; e per fare di </lb>
-                        Firez, <placeName ref="#Firenze">Firenze</placeName>, prima v’interpongono secondo l’uso Arameo la lette</lb>
-                        ra .n. e poi per la naturalissima moderna pronunzia Fiorentina vi  </lb>
+                        Fiore, ma <choice><orig>ò</orig><corr>o</corr></choice> Forenzia dal foro, cioè dal Mercato, che quivi si faceva, <lb/>
+                        o Flumenzia dal Fiume: ne mancano di Quegli, i quali la dicono Fe<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        renzia dal portare. Ma non comporta la gravità della Storia, che si <lb/>
+                        debbiano raccontare tutte le oppenioni eziandio di coloro, che non dicono <lb/>
+                        nulla; percioche colla medesima agevolezza potrebbe chiunche volesse, <lb/>
+                            dire, seguitando cotali etimologie, che ella fusse stata chiamata  <placeName ref="#Firenze">Furen<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        zia</placeName>, <choice><orig>ò</orig><corr>o</corr></choice> in alcuno altro modo somigliante. E qual maggior vanità, ò piu <lb/>
+                            perduta opera sarebbe, che il volere le ridicole oppenioni d’alcuni Mo<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        derni con ragioni, <choice><orig>ò</orig><corr>o</corr></choice> con autorità confutare? i quali dietro gli scritti <lb/>
+                        di Frate Annio Viterbese, e d’Altri in gran parte, secondo il giudizio <lb/>
+                        nostro favolosi Scrittori, affermano  <placeName ref="#Firenze">Firenze</placeName> essere stata edificata da <lb/>
+                        Hercole Egizzio anni circa mille secento ottanta innanzi l’avvenime<emph rend="italic">n</emph>to <lb/>
+                        di Cristo? e che il vero nome di <placeName ref="#Firenze">Firenze</placeName> non fu ne Firens da Fir, che <lb/>
+                        nella lingua Estrusca antica significa correre, e da ens che vuol dire <lb/>
+                            Castello, quasi Castello fluente, come afferma <persName ref="#Sempronio_Tantalo">Sempronio Tantalo Dotto<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        re Pisano</persName>, ma da queste tre sillabe fir, en, ze, la prima delle quali <lb/>
+                        in lingua Aramea significa fiore; la seconda, grazioso; e l’ultima, <lb/>
+                        questo: tale che il tutto viene <choice><orig>à</orig><corr>a</corr></choice> rilevare: fior grazioso questo: poi non <lb/>
+                        piacendo loro un cosi fatto mes<del hand="#A2">t</del><del hand="#A2"><add hand="#A2">c</add></del><add hand="#A2">c</add>uglio, scrivono, che ella fu detta da una <lb/>
+                        voce sola, e non da tre, e questa è, Firzah, che significa citta senza <lb/>
+                            mura; <emph rend="italic">et</emph> anco questa non sodisfacendo loro, dicono, che <placeName ref="#Firenze">Firenze</placeName> è com<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        posta di due voci, cioè Fir, che vuol dir fiore, et ez, che vuol dire <lb/>
+                        forte; non perche dica fior forte, ma fiore de’ <del hand="#A2">f</del><add hand="#A2">F</add>orti; e per fare di <lb/>
+                        Firez, <placeName ref="#Firenze">Firenze</placeName>, prima v’interpongono secondo l’uso Arameo la lette<lb/>
+                        ra .n. e poi per la naturalissima moderna pronunzia Fiorentina vi  <lb/>
                      <pb n="688" xml:id="fol_688" facs="data/images/single/fol_688.JPG"/>
                     <lb n="[688]"/>
-                                            aggiungono un’ .e. con altre cotali novelle da non dovere essere da huomi<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        ni, non che da huomini prudenti, non dico credute, e scritte, ma recitate. </lb>
-                        Ma per dire hoggimai quello, che io ne stimo, <choice><orig>À</orig><corr>a</corr></choice> me pare, che in ciascu<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        na delle sopraddette oppenioni, eccetto che nell’ultima, sieno alcune cose </lb>
-                        vere, et alcune nò. E non posso non maravigliarmi, che tanti huomini, </lb>
-                        e tali <choice><orig>ò</orig><corr>o</corr></choice> non havessono, <choice><orig>ò</orig><corr>o</corr></choice> non si ricordassino d’haver veduto un luogo di </lb>
-                       <persName ref"#Lucio_Floro">Lucio Floro</persName>, antico, et autentico Scrittore, il quale è nella sua Epitome, </lb>
-                        cioè nel suo abbreviamento delle storie di <persName ref"#Tito_Livio">Titolivio</persName>, nel terzo libro, nell’</lb>
-                        ultima parte delle guerre civili tra <persName ref"#Silla">Silla</persName>, e <persName ref="Gaio_Mario">Mario</persName>; e dice così: </lb>
-                        ” Municipia <placeName ref="Italia">Italię</placeName> splendidissima subhasta venierunt, <placeName ref="#Preneste">Spoletum</placeName>, <placeName ref="#Terni">Inter<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        ” amnum</placeName>, <placeName ref="#Preneste">Pręnestae<placeName ref="#Preneste">Preneste, <placeName ref="#Firenze">Florentia</placeName>; cioè, </lb>
-                        Si venderono all’incanto i piu chiari municipij d’<placeName ref="#Italia">Italia</placeName: <placeName ref="#Spoleto">Spuleto</placeName>, <placeName ref="#Firenze">Terni</placeName>, </lb>
-                        <placeName ref="#Preneste">Preneste</placeName>, <placeName ref="#Firenze">Fiorenza</placeName>. </lb>
-                        Questo luogo dimostra chiaramente tre cose, la prima, che <placeName ref="#Firenze">Firenze</placeName> fu da </lb>
-                        prima Municipio, e non colonia; la seconda che  <persName ref"#Silla">Silla</persName> non vi mando i </lb>
-                        suoi soldati per ristorargli, ma la vendè <choice><orig>à</orig><corr>a</corr></choice> chi piu ne dava; la terza, </lb>
-                        che, essendo <placeName ref="#Firenze">Firenze</placeName> al tempo di  <persName ref"#Silla">Silla</persName> non solamente Municipio, ma </lb>
-                        Municipio splendidissimo, cioè Terra, che riconosceva bene i Romani, ed </lb>
-                        era loro sottoposta, ma che vivea però colle sue leggi, e participava delli </lb>
-                        honori di <placeName ref="#Roma">Roma</placeName>; venne ad essere edificata prima di <del hand="#A2">Q</del><del hand="#A2"><add hand="#A2">q</add></del><add hand="#A2">q</add>uello che dicono </lb>
-                        gli Storici; se bene non si sa ne il quando <choice><orig>à</orig><corr>a</corr></choice> punto, ne da chi propria-</lb>
-                        mente; onde se si concede all’antichita (come afferma <persName ref"#Tito_Livio">Livio</persName> nella sua pre<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        fazione) che ella possa, per fare i principij delle città piu santi, e piu ve<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        nerabili, mescolare le cose humane con le divine, non è gran fatto, che dell’</lb>
-                        edificazione di <placeName ref="#Firenze">Firenze</placeName> si trovino tante, e tanto diverse oppenioni.</lb>  
+                            aggiungono un’ .e. con altre cotali novelle da non dovere essere da huomi<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        ni, non che da huomini prudenti, non dico credute, e scritte, ma recitate. <lb/>
+                            Ma per dire hoggimai quello, che io ne stimo, <choice><orig>À</orig><corr>a</corr></choice> me pare, che in ciascu<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        na delle sopraddette oppenioni, eccetto che nell’ultima, sieno alcune cose <lb/>
+                        vere, et alcune nò. E non posso non maravigliarmi, che tanti huomini, <lb/>
+                        e tali <choice><orig>ò</orig><corr>o</corr></choice> non havessono, <choice><orig>ò</orig><corr>o</corr></choice> non si ricordassino d’haver veduto un luogo di <lb/>
+                       <persName ref="#Lucio_Floro">Lucio Floro</persName>, antico, et autentico Scrittore, il quale è nella sua Epitome, <lb/>
+                        cioè nel suo abbreviamento delle storie di <persName ref="#Tito_Livio">Titolivio</persName>, nel terzo libro, nell’<lb/>
+                        ultima parte delle guerre civili tra <persName ref="#Silla">Silla</persName>, e <persName ref="Gaio_Mario">Mario</persName>; e dice così: <lb/>
+                            ” Municipia <placeName ref="Italia">Italię</placeName> splendidissima subhasta venierunt, <placeName ref="#Preneste">Spoletum</placeName>, <placeName ref="#Terni">Inter<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        ” amnum</placeName>, <placeName ref="#Preneste">Pręnestae</placeName>, <placeName ref="#Firenze">Florentia</placeName>; cioè, <lb/>
+                        Si venderono all’incanto i piu chiari municipij d’<placeName ref="#Italia">Italia</placeName><placeName ref="#Spoleto">Spuleto</placeName>, <placeName ref="#Firenze">Terni</placeName>, <lb/>
+                        <placeName ref="#Preneste">Preneste</placeName>, <placeName ref="#Firenze">Fiorenza</placeName>. <lb/>
+                        Questo luogo dimostra chiaramente tre cose, la prima, che <placeName ref="#Firenze">Firenze</placeName> fu da <lb/>
+                        prima Municipio, e non colonia; la seconda che  <persName ref="#Silla">Silla</persName> non vi mando i <lb/>
+                        suoi soldati per ristorargli, ma la vendè <choice><orig>à</orig><corr>a</corr></choice> chi piu ne dava; la terza, <lb/>
+                        che, essendo <placeName ref="#Firenze">Firenze</placeName> al tempo di  <persName ref="#Silla">Silla</persName> non solamente Municipio, ma <lb/>
+                        Municipio splendidissimo, cioè Terra, che riconosceva bene i Romani, ed <lb/>
+                        era loro sottoposta, ma che vivea però colle sue leggi, e participava delli <lb/>
+                        honori di <placeName ref="#Roma">Roma</placeName>; venne ad essere edificata prima di <del hand="#A2">Q</del><del hand="#A2"><add hand="#A2">q</add></del><add hand="#A2">q</add>uello che dicono <lb/>
+                        gli Storici; se bene non si sa ne il quando <choice><orig>à</orig><corr>a</corr></choice> punto, ne da chi propria-<lb/>
+                            mente; onde se si concede all’antichita (come afferma <persName ref="#Tito_Livio">Livio</persName> nella sua pre<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                            fazione) che ella possa, per fare i principij delle città piu santi, e piu ve<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        nerabili, mescolare le cose humane con le divine, non è gran fatto, che dell’<lb/>
+                        edificazione di <placeName ref="#Firenze">Firenze</placeName> si trovino tante, e tanto diverse oppenioni.<lb/>  
                     <pb n="689" xml:id="fol_689" facs="data/images/single/fol_689.JPG"/>
                     <lb n="[689]"/>
-                                        La nostra è, che <placeName ref="#Firenze">Firenze</placeName> havesse il primo principio suo da’ Fiesolani, il che </lb>
-                    testimonia <persName ref="#Dante">Dante</persName>, quando del popolo Fiorentino favellando, dice: </lb>
-                    ” Ma quello ngrato popolo maligno, </lb>
-                    ” Che discese di <placeName ref="#Fiesole">Fiesole</placeName> ab antico, </lb>
-                    ” E tiene ancor del monte, e del macigno. (etc.) </lb>
-                    Ed è verisimile quello, che con <persName ref="#Niccolo_Machiavelli">Niccolo Machiavelli</persName> dicono Molti, che i Fie<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                    solani, essendo <placeName ref="#Fiesole">Fiesole</placeName> loro città posta in cima del Monte (come ancora hoggi </lb>
-                    si vede), havessero per maggior comodità ordinato, che i mercati loro non </lb>
-                    in sul monte si facessero, ma nel piano, onde nacque, che i Mercata<emph rend="italic">n</emph>tj </lb>
-                    per havere dove riporre le mercanzie loro, e ricoverare se medesimi, co<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                    minciarono <choice><orig>à</orig><corr>a</corr></choice> farvi alcune botteghe, et habitazioni d’asse, le quali <choice><orig>à</orig><corr>a</corr></choice></lb> 
-                    lungo andare in case, et altri edifizij si convertirono. La onde Molti, </lb>
-                    parte sbigottiti dall’asprezza, e salvatichezza del Monte, il quale </lb>
-                    è ancora hoggi erto, sassoso, e dirupato per tutto; e parte allettati </lb>
-                    dalla dolcezza e dimestichezza del piano, vennero ad habitare <choice><orig>ò</orig><corr>o</corr></choice> in quel </lb>
-                    luogo proprio, <choice><orig>ò</orig><corr>o</corr></choice> ne’ suoi contorni, di maniera, che <choice><orig>à</orig><corr>a</corr></choice> poco <choice><orig>à</orig><corr>a</corr></choice> poco crebbe </lb>
-                    tanto, che si poteva annoverare, come testimonia <persName ref="#Lucio_Floro">Floro</persName>, tra le piu </lb>
-                    chiare terre d’<placeName ref="#Italia">Italia</placeName>. E crediamo, che <placeName ref="#Firenze">Firenze</placeName>, quando fu venduta da </lb>
-                    Silla, et infino, che <persName ref="#Giulio_Cesare">Gaio Cesare</persName>, e <persName ref="#M_Antonio">Marcantonio</persName>, e <persName ref="#M_Lepido>">Marco Lepido</persName>, ha<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                    vendosi dopo il triumvirato diviso l’imperio del mondo, vi mandarono </lb>
-                    per Coloni i soldati di <persName ref="#Giulio_Cesare">Cesare</persName>, sempre fusse chiamata Fluentia, ma nel </lb>
-                    diventare di Municipio Colonia, le si mutasse (come il piu delle volte so<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                    leva avvenire) il nome, e si chiamasse non piu Fluenzia, ma con piu bello [Varchi:] \\nome,// </lb>
-                    e con piu felice augurio, Florenzia. Onde non è maraviglia se <persName ref="#Tacito">[c+C]ornelio Ta<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                    cito</persName> nel secondo anno di <persName ref="#Tiberio">Tiberio</persName>, quando era di gia stata molti, e molt’annj</lb> 
+                                        La nostra è, che <placeName ref="#Firenze">Firenze</placeName> havesse il primo principio suo da’ Fiesolani, il che <lb/>
+                    testimonia <persName ref="#Dante">Dante</persName>, quando del popolo Fiorentino favellando, dice: <lb/>
+                    ” Ma quello ngrato popolo maligno, <lb/>
+                    ” Che discese di <placeName ref="#Fiesole">Fiesole</placeName> ab antico, <lb/>
+                    ” E tiene ancor del monte, e del macigno. (etc.) <lb/>
+                            Ed è verisimile quello, che con <persName ref="#Niccolo_Machiavelli">Niccolo Machiavelli</persName> dicono Molti, che i Fie<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                    solani, essendo <placeName ref="#Fiesole">Fiesole</placeName> loro città posta in cima del Monte (come ancora hoggi <lb/>
+                    si vede), havessero per maggior comodità ordinato, che i mercati loro non <lb/>
+                    in sul monte si facessero, ma nel piano, onde nacque, che i Mercata<emph rend="italic">n</emph>tj <lb/>
+                            per havere dove riporre le mercanzie loro, e ricoverare se medesimi, co<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                    minciarono <choice><orig>à</orig><corr>a</corr></choice> farvi alcune botteghe, et habitazioni d’asse, le quali <choice><orig>à</orig><corr>a</corr></choice><lb/> 
+                    lungo andare in case, et altri edifizij si convertirono. La onde Molti, <lb/>
+                    parte sbigottiti dall’asprezza, e salvatichezza del Monte, il quale <lb/>
+                    è ancora hoggi erto, sassoso, e dirupato per tutto; e parte allettati <lb/>
+                    dalla dolcezza e dimestichezza del piano, vennero ad habitare <choice><orig>ò</orig><corr>o</corr></choice> in quel <lb/>
+                    luogo proprio, <choice><orig>ò</orig><corr>o</corr></choice> ne’ suoi contorni, di maniera, che <choice><orig>à</orig><corr>a</corr></choice> poco <choice><orig>à</orig><corr>a</corr></choice> poco crebbe <lb/>
+                    tanto, che si poteva annoverare, come testimonia <persName ref="#Lucio_Floro">Floro</persName>, tra le piu <lb/>
+                    chiare terre d’<placeName ref="#Italia">Italia</placeName>. E crediamo, che <placeName ref="#Firenze">Firenze</placeName>, quando fu venduta da <lb/>
+                            Silla, et infino, che <persName ref="#Giulio_Cesare">Gaio Cesare</persName>, e <persName ref="#M_Antonio">Marcantonio</persName>, e <persName ref="#M_Lepido>">Marco Lepido</persName>, ha<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                    vendosi dopo il triumvirato diviso l’imperio del mondo, vi mandarono <lb/>
+                    per Coloni i soldati di <persName ref="#Giulio_Cesare">Cesare</persName>, sempre fusse chiamata Fluentia, ma nel <lb/>
+                            diventare di Municipio Colonia, le si mutasse (come il piu delle volte so<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                    leva avvenire) il nome, e si chiamasse non piu Fluenzia, ma con piu bello <add hand="#A2" place="margin" n="miaone">nome,</add> <lb/>
+                        e con piu felice augurio, Florenzia. Onde non è maraviglia se <persName ref="#Tacito">[c+C]ornelio Ta<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                    cito</persName> nel secondo anno di <persName ref="#Tiberio">Tiberio</persName>, quando era di gia stata molti, e molt’annj<lb/> 
 
  <pb n="690" xml:id="fol_690" facs="data/images/single/fol_690.JPG"/>
                     <lb n="[690]"/>
-                            Colonia, chiamò gl’habitatori suoi non Fluentini, ma Florentini. E se Al<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                            cuno dubitando dicesse, che si truovano pure degli Scrittori, i quali eziandio</lb> 
-                            dopo il Triumvirato, e poscia che ella era stata centinaia d’anni Colonia,</lb>
-                            scrissero Fluentini, e non Florentini, come si puo vedere nell’editto di [-Ide-]</lb>
-                            <add hand="#A2"><persName ref="#Desiderio">Disede</add>rio, Re de’ Longobardi</persName>, il quale si trovò in <placeName ref="Viterbo">Viterbo</placeName> presso al Vescova-</lb>
-                            do scritto con lettere Longobarde, si risponde, che crediamo ciò essere avve<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                            nuto, perche gli Scrittori hanno molte volte piu all’antichità, che <choice><orig>à</orig><corr>a</corr></choice> i </lb>
-                            loro tempi risguardo; Onde m<emph rend="italic">esser</emph> <persName ref="Cristofano_Longolio">Cristofano Longolio</persName>, huomo <choice><orig>à</orig><corr>a</corr></choice> nostri </lb>
-                            di dottissimo, e di grandissima eloquenza, non iscriveva mai Populus </lb>
-                            Florentinus, come si può vedere nell’opere sue, ma sempre (forse con trop<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                            pa affettata ambizione) Fluentinus. E se Alcuno dubitasse per lo </lb>
-                            contrario, dicendo che in <persName ref="#Lucio_Floro">Floro</persName> stesso si trova scritto Florentia, et </lb>
-                            non Fluentia, si risponde non come Alcuni, che dicono il testo essere </lb>
-                            scorretto, <add hand="#A2">ma</add> che gli scrittori all’opposto risguardano molte volte piu, che</lb>
-                            l’antichità, i loro tempi medesimi, come si vede non solamente ne’ Poeti, </lb>
-                            ma eziandio negl’Oratori. E chi non sà, che uno Scrittore d’hoggidi do<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                            vendo raccontare in qual tempo fu edificata la <placeName ref="#Costantinopoli">Citta di Gostantinopoli</placeName>,</lb>
-                            dirà le piu volte <placeName ref="#Costantinopoli">Gostantinopoli</plaeName>, e non <placeName ref="#Bisanzio">Bizanzio</placeName>, come in quel tempo era il proprio nome di lei? <emph rend="italic">et</emph> non si dice egli tutto il giorno, che <placeName ref="#S_Maria">Santa Maria </lb>
-                            Ritonda</placeName> di <placeName ref="#Roma">Roma</placeName> fu edificata da <persName ref="#M_Agrippa">M. Agrippa</persName>? e si dice <placeName ref="#S_Maria">Santa Maria</lb>
-                            Ritonda, non Panteon</placeName>, come fu il suo primo nome. Hebbe dunque <placeName ref="#Firenze">Fi<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                            renze</placeName> l’origine sua parte da’ Mercatanti Fiesolani, et altre genti cir<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                            convicine, e parte da i soldati veterani del più valoroso, et eloque<emph rend="italic">n</emph>te </lb>
-                            capitano, che mai fosse. E di qui argomentano Alcuni non essere ma<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                            raviglia, se i Fiorentini, ritenendo della natura, e de’ costumi de’ Proge<choice><orig>-</orig><reg resp="#D.B."/></lb> 
+                            Colonia, chiamò gl’habitatori suoi non Fluentini, ma Florentini. E se Al<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                            cuno dubitando dicesse, che si truovano pure degli Scrittori, i quali eziandio<lb/> 
+                            dopo il Triumvirato, e poscia che ella era stata centinaia d’anni Colonia,<lb/>
+                            scrissero Fluentini, e non Florentini, come si puo vedere nell’editto di <persName ref="#Desiderio"><del hand="#A2">Ide-</del><lb/>
+                            <add hand="#A2">Disede</add>rio, Re de’ Longobardi</persName>, il quale si trovò in <placeName ref="Viterbo">Viterbo</placeName> presso al Vescova-<lb/>
+                            do scritto con lettere Longobarde, si risponde, che crediamo ciò essere avve<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                            nuto, perche gli Scrittori hanno molte volte piu all’antichità, che <choice><orig>à</orig><corr>a</corr></choice> i <lb/>
+                            loro tempi risguardo; Onde m<emph rend="italic">esser</emph> <persName ref="Cristofano_Longolio">Cristofano Longolio</persName>, huomo <choice><orig>à</orig><corr>a</corr></choice> nostri <lb/>
+                            di dottissimo, e di grandissima eloquenza, non iscriveva mai Populus <lb/>
+                            Florentinus, come si può vedere nell’opere sue, ma sempre (forse con trop<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                            pa affettata ambizione) Fluentinus. E se Alcuno dubitasse per lo <lb/>
+                            contrario, dicendo che in <persName ref="#Lucio_Floro">Floro</persName> stesso si trova scritto Florentia, et <lb/>
+                            non Fluentia, si risponde non come Alcuni, che dicono il testo essere <lb/>
+                            scorretto, <add hand="#A2">ma</add> che gli scrittori all’opposto risguardano molte volte piu, che<lb/>
+                            l’antichità, i loro tempi medesimi, come si vede non solamente ne’ Poeti, <lb/>
+                            ma eziandio negl’Oratori. E chi non sà, che uno Scrittore d’hoggidi do<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                            vendo raccontare in qual tempo fu edificata la <placeName ref="#Costantinopoli">Citta di Gostantinopoli</placeName>,<lb/>
+                            dirà le piu volte <placeName ref="#Costantinopoli">Gostantinopoli</placeName>, e non <placeName ref="#Bisanzio">Bizanzio</placeName>, come in quel tempo era il proprio nome di lei? <emph rend="italic">et</emph> non si dice egli tutto il giorno, che <placeName ref="#S_Maria">Santa Maria <lb/>
+                            Ritonda</placeName> di <placeName ref="#Roma">Roma</placeName> fu edificata da <persName ref="#M_Agrippa">M. Agrippa</persName>? e si dice <placeName ref="#S_Maria">Santa Maria<lb/>
+                                Ritonda, non Panteon</placeName>, come fu il suo primo nome. Hebbe dunque <placeName ref="#Firenze">Fi<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                                    renze</placeName> l’origine sua parte da’ Mercatanti Fiesolani, et altre genti cir<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                            convicine, e parte da i soldati veterani del più valoroso, et eloque<emph rend="italic">n</emph>te <lb/>
+                            capitano, che mai fosse. E di qui argomentano Alcuni non essere ma<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                            raviglia, se i Fiorentini, ritenendo della natura, e de’ costumi de’ Proge<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/> 
 <pb n="691" xml:id="fol_691" facs="data/images/single/fol_691.JPG"/>
                     <lb n="[691]"/>
-                genitori loro, sono stati sempre parte grandissimi Mercatanti, parte </lb>
-                soldati valorosissimi, e parte huomini eloquentissimi, argume<emph rend="italic">n</emph>ti proba<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                bili, e di poco valore, essendo senza alcuna necessità. E sono di quegli, i </lb>
-                quali giudicano, che le parti, e discordie, le quali furono sempre nella </lb>
-                citta di <placeName ref="#Firenze">Firenze</placeName> molte, e grandissime, nascessero dalla diversita della </lb>
-                natura, e de’ costumi de’ duoi popoli, onde ella fu composta, e massi<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                mame<emph rend="italic">n</emph>te poi, che i Fiorentini nel mille dieci presa furtivamente il gior<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                no di <persName ref="#S_Romolo">santo Romolo</persName>, festa loro principale, la città di <placeName ref="#Fiesole">Fiesole</placeName>, si fecero </lb>
-                i Fiesolani compagni, e gli ricevettero ad habitare in <placeName ref="#Firenze">Firenze</placeName> insieme </lb>
-                con esso loro, onde il medesimo <persName ref="#Dante">Dante</persName> disse nel quindicesimo canto </lb>
-                dell’Inferno: </lb>
-                ” Faccian le bestie Fiesolane strame </lb>
-                ” Di lor medesme, e non tocchin la pianta,</lb> 
-                ” S’alcuna surge ancor nel lor letame, </lb>
-                ” In cui riviva la sementa santa </lb>
-                ” Di quei Roman, che vi rimaser, quando</lb> 
-                ” Fu fatto ’l  nid<del hand="#A2"><choice><orig>-</orig><reg resp="#D.B."/>i</del>o di malizia tanta.</lb> 
-                Veduto dove, come, quando, da chi, e perche fu edificata la citta di</lb> 
-                <placeName ref="#Firenze">Firenze</placeName>, resta, che vediamo, se come, quando, da chi, e perche ella fù </lb>
-                disfatta; percioche non è meno dubbia la destruzzione sua, che si </lb>
-                sia la edificazione. <persName ref="#Giovanni_Villani">Giovannj Villani</persName> nel primo, e nel ventunesimo </lb>
-                Capitolo del terzo libro narra come <persName ref="#Totila">Totile, Re de’ Gotti</persName> havendo du<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                ramente assediato <placeName ref="#Firenze">Firenze</placeName>, e non la potendo pigliare per forza, l’</lb>
-                hebbe (fidatosi i Fiorentini della fede, e promessioni sue</emph> per inganno;</lb> 
-                E per questo: vecchia fama nel mondo gli chiama orbi, e non solame<emph rend="italic">n</emph>te</lb> 
+                genitori loro, sono stati sempre parte grandissimi Mercatanti, parte <lb/>
+                            soldati valorosissimi, e parte huomini eloquentissimi, argume<emph rend="italic">n</emph>ti proba<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                bili, e di poco valore, essendo senza alcuna necessità. E sono di quegli, i <lb/>
+                quali giudicano, che le parti, e discordie, le quali furono sempre nella <lb/>
+                citta di <placeName ref="#Firenze">Firenze</placeName> molte, e grandissime, nascessero dalla diversita della <lb/>
+                            natura, e de’ costumi de’ duoi popoli, onde ella fu composta, e massi<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                    mame<emph rend="italic">n</emph>te poi, che i Fiorentini nel mille dieci presa furtivamente il gior<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                no di <persName ref="#S_Romolo">santo Romolo</persName>, festa loro principale, la città di <placeName ref="#Fiesole">Fiesole</placeName>, si fecero <lb/>
+                i Fiesolani compagni, e gli ricevettero ad habitare in <placeName ref="#Firenze">Firenze</placeName> insieme <lb/>
+                con esso loro, onde il medesimo <persName ref="#Dante">Dante</persName> disse nel quindicesimo canto <lb/>
+                dell’Inferno: <lb/>
+                ” Faccian le bestie Fiesolane strame <lb/>
+                ” Di lor medesme, e non tocchin la pianta,<lb/> 
+                ” S’alcuna surge ancor nel lor letame, <lb/>
+                ” In cui riviva la sementa santa <lb/>
+                ” Di quei Roman, che vi rimaser, quando<lb/> 
+                            ” Fu fatto ’l  nid<del hand="#A2"><choice><orig>-</orig><reg resp="#D.B."/></choice>i</del>o di malizia tanta.<lb/> 
+                Veduto dove, come, quando, da chi, e perche fu edificata la citta di<lb/> 
+                <placeName ref="#Firenze">Firenze</placeName>, resta, che vediamo, se come, quando, da chi, e perche ella fù <lb/>
+                disfatta; percioche non è meno dubbia la destruzzione sua, che si <lb/>
+                sia la edificazione. <persName ref="#Giovanni_Villani">Giovannj Villani</persName> nel primo, e nel ventunesimo <lb/>
+                            Capitolo del terzo libro narra come <persName ref="#Totila">Totile, Re de’ Gotti</persName> havendo du<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                ramente assediato <placeName ref="#Firenze">Firenze</placeName>, e non la potendo pigliare per forza, l’<lb/>
+                hebbe (fidatosi i Fiorentini della fede, e promessioni sue) per inganno;<lb/> 
+                E per questo: vecchia fama nel mondo gli chiama orbi, e non solame<emph rend="italic">n</emph>te<lb/> 
 
 <pb n="692" xml:id="fol_692" facs="data/images/single/fol_692.JPG"/>
                     <lb n="[692]"/>
-                        fece mandare a fil di spada huomini, e donne, piccioli, e grandi, se non que<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        gli, i quali <choice><orig>ò</orig><corr>o</corr></choice> à’ Monti si fuggirono, <choice><orig>ò</orig><corr>o</corr></choice> nelle caverne si nascosero, ma spo<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        gliatola d’ogni sostanza comandò, che fusse messa <choice><orig>à</orig><corr>a</corr></choice> fiamma, e a fuoco; </lb>
-                        e così fu fatto, perche non vi rimase pietra sopra pietra, se non dall’occi<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        dente una Torre, e dal settentrione una delle porte; et infra la città </lb>
-                        presso alla <placeName ref="#P_del_Duomo">porta del Duomo</placeName>, dove si chiamava <placeName ref="#Campo_Marti">Campo Marti</placeName>, haveva </lb>
-                        alcun Borgho, gl’habitanti del quale vi facevano per cagione de’ Fie<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        solani un di della settimana il mercato; la qual rovina, e destruzzi<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        one dice essere avvenuta <choice><orig>à</orig><corr>a</corr></choice> gli ventitre di luglio l’anno della nostra </lb>
-                        salute quattrocento cinquanta, il qual numero d’anni senza alcun dub<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        bio è errato; dovendo dire, cinquecento cinquanta: ne si può dire in que<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        sto luogo, che il testo sia scorretto; perche egli aggiugne ciò essere stato </lb>
-                        dopo l’edificazione di <placeName ref="#Firenze">Firenze</placeName> cinquecento venti anni, dovendo dire, secen<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        to venti: e di piu afferma, che <placeName ref="#Firenze">Firenze</placeName> stette distrutta, e quasi dishabi<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        tata circa trecento cinquanta anni, dovendo dire, dugento cinquanta; </lb>
-                        affermando egli medesimo che <persName ref="Carlo_Magno">Carlo Magno</persName> la riedificò nell’ottocento </lb>
-                        uno. Et da questo luogo hanno (penso io) preso Alcuni occasione di </lb>
-                        riprenderlo, pensando che egli havesse scambiato i nomi, e scritto no<emph rend="italic">n</emph></lb> 
-                        <persName ref="#Totila">Totile</persName>, ma <persName ref="#Attila">Attila</persName>; il quale <persName ref="#Attila">Attila</persName> non che distruggesse <placeName ref="#Firenze">Firenze</placeName>, non </lb>
-                        vide mai la <placeNme ref="#Toscana">Toscana</placeName>; e che il  <persName ref="#Giovanni_Villani">Villano</persName> errasse nel tempo, e non nel </lb>
-                        nome lo pruovano manifestamente i Testi cosi stampati come in pen<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        na; oltra che egli lo chiama Flagellum Dei, il qual sopranome non </lb>
-                        <del hand="#A2">h</del><choice><orig>à</orig><corr>a</corr></choice> <persName ref="#Attila">Attila</persName>, ma <choice><orig>à</orig><corr>a</corr></choice> <persName ref="#Totila">Totila</persName> solamente fu dato: se bene Dante seguitan<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        do (come Poeta) l’oppenione del Vulgo, <choice><orig>ò</orig><corr>o</corr></choice> per qualunche altra cagio<choice><orig>-</orig><reg resp="#D.B."/></lb>
-                        ne disse:</lb>  
+                            fece mandare a fil di spada huomini, e donne, piccioli, e grandi, se non que<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                            gli, i quali <choice><orig>ò</orig><corr>o</corr></choice> à’ Monti si fuggirono, <choice><orig>ò</orig><corr>o</corr></choice> nelle caverne si nascosero, ma spo<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        gliatola d’ogni sostanza comandò, che fusse messa <choice><orig>à</orig><corr>a</corr></choice> fiamma, e a fuoco; <lb/>
+                            e così fu fatto, perche non vi rimase pietra sopra pietra, se non dall’occi<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        dente una Torre, e dal settentrione una delle porte; et infra la città <lb/>
+                        presso alla <placeName ref="#P_del_Duomo">porta del Duomo</placeName>, dove si chiamava <placeName ref="#Campo_Marti">Campo Marti</placeName>, haveva <lb/>
+                            alcun Borgho, gl’habitanti del quale vi facevano per cagione de’ Fie<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                            solani un di della settimana il mercato; la qual rovina, e destruzzi<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        one dice essere avvenuta <choice><orig>à</orig><corr>a</corr></choice> gli ventitre di luglio l’anno della nostra <lb/>
+                            salute quattrocento cinquanta, il qual numero d’anni senza alcun dub<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                            bio è errato; dovendo dire, cinquecento cinquanta: ne si può dire in que<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        sto luogo, che il testo sia scorretto; perche egli aggiugne ciò essere stato <lb/>
+                            dopo l’edificazione di <placeName ref="#Firenze">Firenze</placeName> cinquecento venti anni, dovendo dire, secen<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                            to venti: e di piu afferma, che <placeName ref="#Firenze">Firenze</placeName> stette distrutta, e quasi dishabi<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        tata circa trecento cinquanta anni, dovendo dire, dugento cinquanta; <lb/>
+                        affermando egli medesimo che <persName ref="Carlo_Magno">Carlo Magno</persName> la riedificò nell’ottocento <lb/>
+                        uno. Et da questo luogo hanno (penso io) preso Alcuni occasione di <lb/>
+                        riprenderlo, pensando che egli havesse scambiato i nomi, e scritto no<emph rend="italic">n</emph><lb/> 
+                        <persName ref="#Totila">Totile</persName>, ma <persName ref="#Attila">Attila</persName>; il quale <persName ref="#Attila">Attila</persName> non che distruggesse <placeName ref="#Firenze">Firenze</placeName>, non <lb/>
+                        vide mai la <placeName ref="#Toscana">Toscana</placeName>; e che il  <persName ref="#Giovanni_Villani">Villano</persName> errasse nel tempo, e non nel <lb/>
+                            nome lo pruovano manifestamente i Testi cosi stampati come in pen<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        na; oltra che egli lo chiama Flagellum Dei, il qual sopranome non <lb/>
+                            <del hand="#A2">h</del><choice><orig>à</orig><corr>a</corr></choice> <persName ref="#Attila">Attila</persName>, ma <choice><orig>à</orig><corr>a</corr></choice> <persName ref="#Totila">Totila</persName> solamente fu dato: se bene Dante seguitan<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                            do (come Poeta) l’oppenione del Vulgo, <choice><orig>ò</orig><corr>o</corr></choice> per qualunche altra cagio<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                        ne disse:<lb/>  
 
 <pb n="693" xml:id="fol_693" facs="data/images/single/fol_693.JPG"/>
                     <lb n="[693]"/>
-” Quell’<persName ref="#Attila">Attila</persName> che fu flagello in terra. (etc.)</lb>
-Per non dir nulla, che <persName ref="#Attila">Attila</persName> non fu Re de’ Gotti, ma degl’Hunni; e</lb> 
-quando ancora il Testo di <persName ref="#Giovanni_Villani">Giovanni</persName> havesse, non <persName ref="#Totila">Totile</persName>; ma <persName ref="#Attila">Attila</persName>, co<choice><orig>-</orig><reg resp="#D.B."/></lb>
-me ha quello del <persName ref="#Buoninsegna">Boninsegna</persName>, si potrebbe pensare, che fusse stato </lb>
-guasto da qualch’uno, che si pensava di racconciarlo: perche in que’ </lb>
-tempi correva un’oppenione, che non <persName ref="#Totila">Totila</persName>, ma <persName ref="#Attila">Attila</persName> havesse spia<choice><orig>-</orig><reg resp="#D.B."/></lb>
-nato <placeName ref="#Firenze">Firenze</placeName>; la quale oppenione seguitò per avve<emph rend="italic">n</emph>tura <persName ref="#Dante">Dante</persName>, come </lb>
-poco di sotto si vedrà; senza che Alcuni pensavano, che <persName ref="#Attila">Attila</persName>, e Toti<choice><orig>-</orig><reg resp="#D.B."/></lb>
-la fussero tutto uno. Questa oppenione, che <placeName ref="#Firenze">Firenze</placeName> fusse del tutto </lb>
-rovinata si conferma con due ragioni, se non necessarie, verisimili: </lb>
-la prima, che havendo <persName ref="#Totila">Totila</persName> fatto disfare quelle città, che per la venuta</lb> 
-di <persName ref="#Belisario">Belisario</persName> in <placeName ref="#Italia">Italia</placeName> se gl’erano ribellate, <choice><orig>ò</orig><corr>o</corr></choice> per vendicarsi, <choice><orig>ò</orig><corr>o</corr></choice> per no<emph rend="italic">n</emph> </lb>
-havere a guardarle, pareva ragionevole, che disfacesse ancora <placeName ref="#Firenze">Firen<choice><orig>-</orig><reg resp="#D.B."/></lb>
-ze</placeName>, la quale una era stata di quelle. La seconda, che essendo stato </lb>
-sconfitto, preso, e morto <persName ref="Radagasio_da_Stilicone">Radagasio da Stilicone</persName> <choice><orig>à</orig><corr>a</corr></choice> piè de’ Monti di <placeName ref="#Fiesole">Fie<choice><orig>-</orig><reg resp="#D.B."/></lb>
-sole</placeName> con più di dugento mila Gotti <choice><orig>à</orig><corr>a</corr></choice> ridosso della Città, la quale non ha<choice><orig>-</orig><reg resp="#D.B."/></lb>
-veano potuto pigliare, e quasi in sugl’occhij de’ Fiorentini; da’ quali </lb>
-è verisimile, che <persName ref="Radagasio_da_Stilicone">Stilicone</persName> fusse aiutato, portava la ragione, che To<choice><orig>-</orig><reg resp="#D.B."/></lb>
-tila per levare quella macchia di sul viso <choice><orig>à</orig><corr>a</corr></choice> se, et à’ suoi, la facesse </lb>
-abbruciare ,e gittare per terra: Alle quali ragioni s’aggiugne l’au<choice><orig>-</orig><reg resp="#D.B."/></lb>
-torità di <persName ref="Matteo_Palmieri">Matteo Palmieri</persName>, huomo nel suo secolo di gran dottrina, </lb>
-e reputazione, il quale scrive nel suo libro de’ tempi, che <persName ref="#Totila">Totila</persName> la<choice><orig>-</orig><reg resp="#D.B."/></lb>
-sciò <placeName ref="#Roma">Roma</placeName> desolata del tutto, e senza alcuno Habitatore, e con pari </lb>
-ferita incrudelì nella <placeName ref="#Toscana">Toscana</placeName> contra la Città di <placeName ref="#Firenze">Firenze</placeName>: E quella </lb>
-di  <persName ref="#Niccolo_Machiavelli">Niccolo Machiavelli</persName>, il quale nel luogo allegato di sopra da noi, </lb>
+” Quell’<persName ref="#Attila">Attila</persName> che fu flagello in terra. (etc.)<lb/>
+Per non dir nulla, che <persName ref="#Attila">Attila</persName> non fu Re de’ Gotti, ma degl’Hunni; e<lb/> 
+                            quando ancora il Testo di <persName ref="#Giovanni_Villani">Giovanni</persName> havesse, non <persName ref="#Totila">Totile</persName>; ma <persName ref="#Attila">Attila</persName>, co<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+me ha quello del <persName ref="#Buoninsegna">Boninsegna</persName>, si potrebbe pensare, che fusse stato <lb/>
+guasto da qualch’uno, che si pensava di racconciarlo: perche in que’ <lb/>
+                            tempi correva un’oppenione, che non <persName ref="#Totila">Totila</persName>, ma <persName ref="#Attila">Attila</persName> havesse spia<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+nato <placeName ref="#Firenze">Firenze</placeName>; la quale oppenione seguitò per avve<emph rend="italic">n</emph>tura <persName ref="#Dante">Dante</persName>, come <lb/>
+                            poco di sotto si vedrà; senza che Alcuni pensavano, che <persName ref="#Attila">Attila</persName>, e Toti<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+la fussero tutto uno. Questa oppenione, che <placeName ref="#Firenze">Firenze</placeName> fusse del tutto <lb/>
+rovinata si conferma con due ragioni, se non necessarie, verisimili: <lb/>
+la prima, che havendo <persName ref="#Totila">Totila</persName> fatto disfare quelle città, che per la venuta<lb/> 
+di <persName ref="#Belisario">Belisario</persName> in <placeName ref="#Italia">Italia</placeName> se gl’erano ribellate, <choice><orig>ò</orig><corr>o</corr></choice> per vendicarsi, <choice><orig>ò</orig><corr>o</corr></choice> per no<emph rend="italic">n</emph> <lb/>
+                            havere a guardarle, pareva ragionevole, che disfacesse ancora <placeName ref="#Firenze">Firen<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+ze</placeName>, la quale una era stata di quelle. La seconda, che essendo stato <lb/>
+                            sconfitto, preso, e morto <persName ref="Radagasio_da_Stilicone">Radagasio da Stilicone</persName> <choice><orig>à</orig><corr>a</corr></choice> piè de’ Monti di <placeName ref="#Fiesole">Fie<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                                sole</placeName> con più di dugento mila Gotti <choice><orig>à</orig><corr>a</corr></choice> ridosso della Città, la quale non ha<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+veano potuto pigliare, e quasi in sugl’occhij de’ Fiorentini; da’ quali <lb/>
+                            è verisimile, che <persName ref="Radagasio_da_Stilicone">Stilicone</persName> fusse aiutato, portava la ragione, che To<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+tila per levare quella macchia di sul viso <choice><orig>à</orig><corr>a</corr></choice> se, et à’ suoi, la facesse <lb/>
+                            abbruciare ,e gittare per terra: Alle quali ragioni s’aggiugne l’au<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+torità di <persName ref="Matteo_Palmieri">Matteo Palmieri</persName>, huomo nel suo secolo di gran dottrina, <lb/>
+                            e reputazione, il quale scrive nel suo libro de’ tempi, che <persName ref="#Totila">Totila</persName> la<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+sciò <placeName ref="#Roma">Roma</placeName> desolata del tutto, e senza alcuno Habitatore, e con pari <lb/>
+ferita incrudelì nella <placeName ref="#Toscana">Toscana</placeName> contra la Città di <placeName ref="#Firenze">Firenze</placeName>: E quella <lb/>
+di  <persName ref="#Niccolo_Machiavelli">Niccolo Machiavelli</persName>, il quale nel luogo allegato di sopra da noi, <lb/>
 
 <pb n="694" xml:id="fol_694" facs="data/images/single/fol_694.JPG"/>
                     <lb n="[694]"/>
-dice queste parole: </lb>
-” E quando l’Imperio d’<placeName ref="#Italia">Italia</placeName> fu da’ Barbari afflitto, fu ancora <placeName ref="#Firenze">Flo<choice><orig>-</orig><reg resp="#D.B."/></lb>
-” renzia</placeName> da <persName ref="#Totila">Totila</persName>, Re degli Ostrogotti disfatta; e dopo dugento cinqua<emph rend="italic">n</emph>ta </lb>
-” anni di poi da <persName ref="Carlo_Magno">Carlo Magno</persName> riedificata. <choice><orig>À</orig><corr>A</corr></choice> queste si potrebbono aggiugnere </lb>
-prima l’autorità di <persName ref="#Dante">Dante</persName>, che disse, </lb>
-” Quei Cittadin, che poi la rifondarno </lb>
-” Sopra ’l cener, che d’<persName ref="#Attila">Attila</persName> rimase, </lb>
-” Hvrebber fatto lavorare indarno. </lb>
-Dove dicendo rifondarno, dimostra manifestamente la sua oppenione</lb> 
-essee, che ella infino da’ fondamenti fusse stata abbattuta. E poi q<emph rend="italic">ue</emph>l<choice><orig>-</orig><reg resp="#D.B."/></lb>
-la di <persName ref="#Fazio_Uberti">Fazio degli Uberti</persName>, Cittadino Fiorentino, il quale, nel settimo </lb>
-canto del terzo libro, chiamato da lui Dictamundi, parlando di </lb>
-<placeName ref="#Firenze">Firenze</placeName> scrisse. </lb>
-” Grande era e degna già di tutti honori, </lb>
+dice queste parole: <lb/>
+                            ” E quando l’Imperio d’<placeName ref="#Italia">Italia</placeName> fu da’ Barbari afflitto, fu ancora <placeName ref="#Firenze">Flo<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+” renzia</placeName> da <persName ref="#Totila">Totila</persName>, Re degli Ostrogotti disfatta; e dopo dugento cinqua<emph rend="italic">n</emph>ta <lb/>
+” anni di poi da <persName ref="Carlo_Magno">Carlo Magno</persName> riedificata. <choice><orig>À</orig><corr>A</corr></choice> queste si potrebbono aggiugnere <lb/>
+prima l’autorità di <persName ref="#Dante">Dante</persName>, che disse, <lb/>
+” Quei Cittadin, che poi la rifondarno <lb/>
+” Sopra ’l cener, che d’<persName ref="#Attila">Attila</persName> rimase, <lb/>
+” Hvrebber fatto lavorare indarno. <lb/>
+Dove dicendo rifondarno, dimostra manifestamente la sua oppenione<lb/> 
+                            essee, che ella infino da’ fondamenti fusse stata abbattuta. E poi q<emph rend="italic">ue</emph>l<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+la di <persName ref="#Fazio_Uberti">Fazio degli Uberti</persName>, Cittadino Fiorentino, il quale, nel settimo <lb/>
+canto del terzo libro, chiamato da lui Dictamundi, parlando di <lb/>
+<placeName ref="#Firenze">Firenze</placeName> scrisse. <lb/>
+” Grande era e degna già di tutti honori, <lb/>
 ” Quando <persName ref="#Totila">Totil</persName> crudele <choice><orig>à</orig><corr>a</corr></choice> tradimento 
-” Tutta l’arse, e disfè dentro, e di fuori; </lb>
-” Appresso questo gran distruggimento, </lb>
-” Per lo buon <persName ref="Carlo_Magno">Carlo Magno</persName> fu rifatta, </lb>
-” E tratto Marte d’Arno, e posto al vento.” </lb>
-<add hand="#A5" place="margin" n="miaone">“Che <placeName ref="#Firenze">fir<emph rend="italic">n</emph>ze</placeName> no<emph rend="italic">n</emph> fusse </lb> disfatta”</add>> </lb>
-E con tutte queste ragioni, e autorità sono Alcuni, i quali non credono,</lb>
-che ella fusse disfatta mai, [et corretta in &?] et hanno per favola che <persName ref="Carlo_Magno">Carlo il Grande</persName></lb> 
-la rifacesse, se bene egli v’aggiunse alcun orname<emph rend="italic">n</emph>to, murandovi la </lb>
-chiesa di <plceName ref="#Santo_Apostolo">S<emph rend="italic">an</emph>to Appostolo</placeName>, et alcuni altri edifizii; e la ragione allegata </lb>
-da loro è, che <persName ref="Procopio">Procopio Cesariense</persName>, che scrisse le guerre de’ Gotti, nelle</lb> 
-quali personalmente si trovò, non ne fa menzione alcuna; e quello che</lb>
+” Tutta l’arse, e disfè dentro, e di fuori; <lb/>
+” Appresso questo gran distruggimento, <lb/>
+” Per lo buon <persName ref="Carlo_Magno">Carlo Magno</persName> fu rifatta, <lb/>
+” E tratto Marte d’Arno, e posto al vento.” <lb/>
+<add hand="#A5" place="margin" n="miaone">“Che <placeName ref="#Firenze">fir<emph rend="italic">n</emph>ze</placeName> no<emph rend="italic">n</emph> fusse <lb/> disfatta”</add>> <lb/>
+E con tutte queste ragioni, e autorità sono Alcuni, i quali non credono,<lb/>
+che ella fusse disfatta mai, [et corretta in ?] et hanno per favola che <persName ref="Carlo_Magno">Carlo il Grande</persName><lb/> 
+la rifacesse, se bene egli v’aggiunse alcun orname<emph rend="italic">n</emph>to, murandovi la <lb/>
+chiesa di <placeName ref="#Santo_Apostolo">S<emph rend="italic">an</emph>to Appostolo</placeName>, et alcuni altri edifizii; e la ragione allegata <lb/>
+da loro è, che <persName ref="Procopio">Procopio Cesariense</persName>, che scrisse le guerre de’ Gotti, nelle<lb/> 
+quali personalmente si trovò, non ne fa menzione alcuna; e quello che<lb/>
 <pb n="695" xml:id="fol_695" facs="data/images/single/fol_695.JPG"/>
                     <lb n="[695]"/>
-più mi muove è, che egli lasciò scritte queste parole in sentenza. </lb>
-” <placeName ref="#Firenze">Fiorenza</placeName, tutto che fusse piu volte tentata; non dimeno per la benignità </lb>
-” di Dio scampò sana, e salva il furore di <persName ref="#Totila">Totila</persName>. </lb>
-Al che s’aggiugne, che l’<persName ref="#Aretino">Aretino</persName> nella guerra de’ Gotti scrive, che trovan<choice><orig>-</orig><reg resp="#D.B."/></lb>
-dosi <persName ref="#Iustino">Iustino</persName> in <placeName ref="#Firenze">Firenze</placeName> assediato dalle genti di <persName ref="#Totila">Totila</persName>, chiese et hebbe soc<choice><orig>-</orig><reg resp="#D.B."/></lb>
-corso da <persName ref="#Cipriano">Cipriano</persName>, e da <persName ref="#Giovanni">Giovanni</persName>, i quali eran capi delli eserciti Ro<choice><orig>-</orig><reg resp="#D.B."/></lb>
-mani, in <placeName ref="#Ravenna">Ravenna</persName>; per lo quale aiuto essendosi i Gotti ritirati <choice><orig>à</orig><corr>a</corr></choice> Mu<choice><orig>-</orig><reg resp="#D.B."/></lb>
-cialla, luogo discosto <choice><orig>à</orig><corr>a</corr></choice> <placeName ref="#Firenze">Firenze</placeName> una giornata, si venne <choice><orig>à</orig><corr>a</corr></choice> sciogliere l’as<choice><orig>-</orig><reg resp="#D.B."/></lb>
-sedio; e secondo che egli medesimo poco di sotto testifica, non ritornarono </lb>
-ad assediarla più, dubitando delle genti nemiche, ancora che elle insieme no<emph rend="italic">n</emph></lb> 
-fussero, ma sparse per le terre di <placeName ref="#Toscana">Toscana</placeName>; et anco perche soprastava l’</lb>
-inverno: <emph rend="italic">et</emph> poco di poi scrive come i Capitani Romani standosi dentro </lb>
-le mura, attendevano solame<emph rend="italic">n</emph>te <choice><orig>à</orig><corr>a</corr></choice> difendersi contra i Nemici; et havendo</lb> 
-scompartito tra se le città, <persName ref="#Giovanni">Giovanni</persName> governava <placeName ref="#Roma">Roma</placeName>, <persName ref="#Bessa">Bessa</persName> <placeName ref="#Spoleto">Spo<choice><orig>-</orig><reg resp="#D.B."/></lb>
-leto</placename>, <persName ref="#Cipriano">Cipriano</persName> <placeName ref="#Perugia">Perugia</placeName>, e <persName ref="#Iustino">Iustino</persName> <placeName ref="#Firenze">Fiorenza</placeName>: e quello, che mi rende piu </lb>
-dubbio è, che <persName ref="#Agazio">Agazio</persName>, il quale scrisse grecamente delle guerre de’ Gotti,</lb> 
-cominciando dove lasciò <persName ref="Procopio">Procopio</persName>, cioè da <persName ref="#Atteia">Atteia</persName>, il quale dopo la </lb>
-morte di <persName ref="#Totila">Totila</persName> fu creato Capitano de’ Gotti, dice, che Narsete Eu<choice><orig>-</orig><reg resp="#D.B."/></lb>
-nuco, il quale fu mandato da <persName ref="#Giustinino">Giustiniano Imperadore</persName> in luogo di </lb>
-<persName ref="#Belisario">Belisario</persName>, non potendo espugnare non sò qual terra, deliberò di no<emph rend="italic">n</emph> </lb>
-volere impiegare in quella impresa tutte le genti; ma  <add hand="#A2">d’</add>andarsene <choice><orig>à</orig><corr>a</corr></choice> Fio<choice><orig>-</orig><reg resp="#D.B."/></lb>
-renza, e <placeName ref="#Civitavecchia">Civitavecchia</placeName>, terre allora picciole di <placeName ref="#Toscana">Toscana</placeName>; e quivi ordi<choice><orig>-</orig><reg resp="#D.B."/></lb>
-nate tutte le cose opportune, prevenire la venuta de’ Nemici. Et non </lb>
-dimeno pare cosa certissima, che <placeName ref="#Firenze">Firenze</placeName> fusse (come si dice hoggi) sma<emph rend="italic">n</emph><choice><orig>-</orig><reg resp="#D.B."/></lb>
-tellata; perche oltra l’autorità allegate di sopra, dice il <persName ref="#Raffaello_Maffei">Volterrano</persName>  </lb>
+più mi muove è, che egli lasciò scritte queste parole in sentenza. <lb/>
+” <placeName ref="#Firenze">Fiorenza</placeName>, tutto che fusse piu volte tentata; non dimeno per la benignità <lb/>
+” di Dio scampò sana, e salva il furore di <persName ref="#Totila">Totila</persName>. <lb/>
+                            Al che s’aggiugne, che l’<persName ref="#Aretino">Aretino</persName> nella guerra de’ Gotti scrive, che trovan<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                            dosi <persName ref="#Iustino">Iustino</persName> in <placeName ref="#Firenze">Firenze</placeName> assediato dalle genti di <persName ref="#Totila">Totila</persName>, chiese et hebbe soc<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+    corso da <persName ref="#Cipriano">Cipriano</persName>, e da <persName ref="#Giovanni">Giovanni</persName>, i quali eran capi delli eserciti Ro<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                            mani, in <placeName ref="#Ravenna">Ravenna</placeName>; per lo quale aiuto essendosi i Gotti ritirati <choice><orig>à</orig><corr>a</corr></choice> Mu<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+                            cialla, luogo discosto <choice><orig>à</orig><corr>a</corr></choice> <placeName ref="#Firenze">Firenze</placeName> una giornata, si venne <choice><orig>à</orig><corr>a</corr></choice> sciogliere l’as<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+sedio; e secondo che egli medesimo poco di sotto testifica, non ritornarono <lb/>
+ad assediarla più, dubitando delle genti nemiche, ancora che elle insieme no<emph rend="italic">n</emph><lb/> 
+fussero, ma sparse per le terre di <placeName ref="#Toscana">Toscana</placeName>; et anco perche soprastava l’<lb/>
+inverno: <emph rend="italic">et</emph> poco di poi scrive come i Capitani Romani standosi dentro <lb/>
+le mura, attendevano solame<emph rend="italic">n</emph>te <choice><orig>à</orig><corr>a</corr></choice> difendersi contra i Nemici; et havendo<lb/> 
+                            scompartito tra se le città, <persName ref="#Giovanni">Giovanni</persName> governava <placeName ref="#Roma">Roma</placeName>, <persName ref="#Bessa">Bessa</persName> <placeName ref="#Spoleto">Spo<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+leto</placeName>, <persName ref="#Cipriano">Cipriano</persName> <placeName ref="#Perugia">Perugia</placeName>, e <persName ref="#Iustino">Iustino</persName> <placeName ref="#Firenze">Fiorenza</placeName>: e quello, che mi rende piu <lb/>
+dubbio è, che <persName ref="#Agazio">Agazio</persName>, il quale scrisse grecamente delle guerre de’ Gotti,<lb/> 
+cominciando dove lasciò <persName ref="Procopio">Procopio</persName>, cioè da <persName ref="#Atteia">Atteia</persName>, il quale dopo la <lb/>
+                            morte di <persName ref="#Totila">Totila</persName> fu creato Capitano de’ Gotti, dice, che Narsete Eu<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+nuco, il quale fu mandato da <persName ref="#Giustinino">Giustiniano Imperadore</persName> in luogo di <lb/>
+<persName ref="#Belisario">Belisario</persName>, non potendo espugnare non sò qual terra, deliberò di no<emph rend="italic">n</emph> <lb/>
+                            volere impiegare in quella impresa tutte le genti; ma  <add hand="#A2">d’</add>andarsene <choice><orig>à</orig><corr>a</corr></choice> Fio<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+renza, e <placeName ref="#Civitavecchia">Civitavecchia</placeName>, terre allora picciole di <placeName ref="#Toscana">Toscana</placeName>; e quivi ordi<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+nate tutte le cose opportune, prevenire la venuta de’ Nemici. Et non <lb/>
+dimeno pare cosa certissima, che <placeName ref="#Firenze">Firenze</placeName> fusse (come si dice hoggi) sma<emph rend="italic">n</emph><choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+tellata; perche oltra l’autorità allegate di sopra, dice il <persName ref="#Raffaello_Maffei">Volterrano</persName>  <lb/>
 <pb n="696" xml:id="fol_696" facs="data/images/single/fol_696.JPG"/>
                     <lb n="[696]"/> 
-con molti Altri, che le mura di <placeName ref="#Firenze">Firenze</placeName> s’accrebbero tre volte, e, quello </lb>
-che è più, <persName ref="#Paolo_Emilio">Paolo Emilio</persName> da <placeName ref="#Verona">Verona</placename>, che scrisse le cose de’ Franchi, e de’ </lb>
-Franzesi, dice, che <persName ref="Carlo_Magno">Carlo Magno</persName> non lasciò nulla <choice><orig>à</orig><corr>a</corr></choice> fare per accrescere, </lb>
-ed ornare l’<placeName ref="#Italia">Italia</placeName>, e soggiugne, che egli rifece <placeName ref="#Firenze">Firenze</placeName>, e dice rifece, </lb>
-e non restaurò; e <persName ref="#Donato_Acciaiuoli">Donato Acciaiu<add hand="#A2">o</add>li</persName>, la cui bonta fu pari alla dottri<choice><orig>-</orig><reg resp="#D.B."/></lb>
-na, la quale era grandissima, nella vita, che egli scrisse latiname<emph rend="italic">n</emph>te </lb>
-di <persName ref="Carlo_Magno">Carlo Magno</persName> dice, che egli, poscia che hebbe ricevuto la grandissima </lb>
-degnità dell’imperio, facendo la via per la <placeName ref="#Toscana">Toscana</placeName>, mentre se ne ritornava </lb>
-in <placeName ref="#Francia">Francia</placeName>, ritornò per memoria dell’acquistata degnità, la città di <placeName ref="#Firenze">Firenze</placeName> con</lb> 
-somma celebrità nel primiero stato. La quale haveano in gran parte i Gotti </lb>
-levata via; e tutta la nobiltà, la quale era dispersa per le terre dintorno,</lb> 
-ridusse nella Città; la cinse di nuove mura, e l’ornò di Chiese. Dalle </lb>
-quali autorità si può, se non dimostrativame<emph rend="italic">n</emph>te, almeno probabilmente </lb>
-credere ch<emph rend="italic">e) <placeName ref="#Firenze">Firenze</placeName>, non solamente fusse sfasciata di mura, ma eziandio </lb>
-arsa, e distrutta, e consegue<emph rend="italic">n</emph>temente dishabitata in gran parte per molto </lb>
-tempo; ma non gia abbandonata mai del tutto: e così i duoi dubbij, </lb>
-che mostrava havere m<emph rend="italic">esser</emph> <persName ref="#Leonardo_dArezzo">Lionardo d’Arezzo</persName>, si tolgono via. Percioche </lb>
-la Cittadinanza si conservò parte in <placeName ref="#Firenze">Firenze</placeName>, qualunche ella in quel te<emph rend="italic">m</emph>po </lb>
-si fusse, e parte nelle ville, e città propinque; onde non abbisognò, che si </lb>
-traessero di <placeName ref="#Roma">Roma</placeName>, come egli si pensa, nuovi habitatori, che venisse<choice><orig>-</orig><reg resp="#D.B."/></lb>
-ro <choice><orig>à</orig><corr>a</corr></choice> riempiere <placeName ref="#Firenze">Firenze</placeName>, havendone <placeName ref="#Roma">Roma</placeName> in quel secolo carestia per se. E alle autorità, che paiono essere contrarie <choice><orig>à</orig><corr>a</corr></choice> questa oppenione, </lb>
-e tra lor medesime ancora, risponda ciascuno in quel modo, che <choice><orig>à</orig><corr>a</corr></choice> lui </lb>
-pare, che più convenevolme<emph rend="italic">n</emph>te rispondere <choice><orig>ò</orig><corr>o</corr></choice> si possa, <choice><orig>ò</orig><corr>o</corr></choice> si debbia. Que<choice><orig>-</orig><reg resp="#D.B."/></lb>
-sta nuovame<emph rend="italic">n</emph>te murata, <choice><orig>ò</orig><corr>o</corr></choice> piu tosto ristaurata Città da <persName ref="#Carlo_Magno">Carlo Magno</persName>, </lb>
+con molti Altri, che le mura di <placeName ref="#Firenze">Firenze</placeName> s’accrebbero tre volte, e, quello <lb/>
+che è più, <persName ref="#Paolo_Emilio">Paolo Emilio</persName> da <placeName ref="#Verona">Verona</placeName>, che scrisse le cose de’ Franchi, e de’ <lb/>
+Franzesi, dice, che <persName ref="Carlo_Magno">Carlo Magno</persName> non lasciò nulla <choice><orig>à</orig><corr>a</corr></choice> fare per accrescere, <lb/>
+ed ornare l’<placeName ref="#Italia">Italia</placeName>, e soggiugne, che egli rifece <placeName ref="#Firenze">Firenze</placeName>, e dice rifece, <lb/>
+e non restaurò; e <persName ref="#Donato_Acciaiuoli">Donato Acciaiu<add hand="#A2">o</add>li</persName>, la cui bonta fu pari alla dottri<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+na, la quale era grandissima, nella vita, che egli scrisse latiname<emph rend="italic">n</emph>te <lb/>
+di <persName ref="Carlo_Magno">Carlo Magno</persName> dice, che egli, poscia che hebbe ricevuto la grandissima <lb/>
+degnità dell’imperio, facendo la via per la <placeName ref="#Toscana">Toscana</placeName>, mentre se ne ritornava <lb/>
+in <placeName ref="#Francia">Francia</placeName>, ritornò per memoria dell’acquistata degnità, la città di <placeName ref="#Firenze">Firenze</placeName> con<lb/> 
+somma celebrità nel primiero stato. La quale haveano in gran parte i Gotti <lb/>
+levata via; e tutta la nobiltà, la quale era dispersa per le terre dintorno,<lb/> 
+ridusse nella Città; la cinse di nuove mura, e l’ornò di Chiese. Dalle <lb/>
+quali autorità si può, se non dimostrativame<emph rend="italic">n</emph>te, almeno probabilmente <lb/>
+credere ch<emph rend="italic">e</emph> <placeName ref="#Firenze">Firenze</placeName>, non solamente fusse sfasciata di mura, ma eziandio <lb/>
+arsa, e distrutta, e consegue<emph rend="italic">n</emph>temente dishabitata in gran parte per molto <lb/>
+tempo; ma non gia abbandonata mai del tutto: e così i duoi dubbij, <lb/>
+che mostrava havere m<emph rend="italic">esser</emph> <persName ref="#Leonardo_dArezzo">Lionardo d’Arezzo</persName>, si tolgono via. Percioche <lb/>
+la Cittadinanza si conservò parte in <placeName ref="#Firenze">Firenze</placeName>, qualunche ella in quel te<emph rend="italic">m</emph>po <lb/>
+si fusse, e parte nelle ville, e città propinque; onde non abbisognò, che si <lb/>
+traessero di <placeName ref="#Roma">Roma</placeName>, come egli si pensa, nuovi habitatori, che venisse<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+ro <choice><orig>à</orig><corr>a</corr></choice> riempiere <placeName ref="#Firenze">Firenze</placeName>, havendone <placeName ref="#Roma">Roma</placeName> in quel secolo carestia per se. E alle autorità, che paiono essere contrarie <choice><orig>à</orig><corr>a</corr></choice> questa oppenione, <lb/>
+e tra lor medesime ancora, risponda ciascuno in quel modo, che <choice><orig>à</orig><corr>a</corr></choice> lui <lb/>
+pare, che più convenevolme<emph rend="italic">n</emph>te rispondere <choice><orig>ò</orig><corr>o</corr></choice> si possa, <choice><orig>ò</orig><corr>o</corr></choice> si debbia. Que<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+sta nuovame<emph rend="italic">n</emph>te murata, <choice><orig>ò</orig><corr>o</corr></choice> piu tosto ristaurata Città da <persName ref="#Carlo_Magno">Carlo Magno</persName>, <lb/>
 
 <pb n="697" xml:id="fol_697" facs="data/images/single/fol_697.JPG"/>
                     <lb n="[697]"/>
-                    <add hand="#A5" place="margin" n="miaone"> “<placeName ref="#Firenze">Fir<emph rend="italic">en</emph>ze</placeName> Rifatta o </lb> restaurata nel </lb> <date>801</date> da <persName ref="#Carlo_Magno">Carlo </lb> Magno</placeName>.”</add></lb>
-nell’entrar d’Aprile l’anno ottocento uno al tempo di <prsName ref="#Leone_III">Papa Leone Terzo</persName>, </lb>
-per gli preghi, e sollecitudine delli antichi Cittadini di <placeName ref="#Firenze">Fir<emph rend="italic">en</emph>ze</placeName>; et in </lb>
-ispezie de’ Fiegiovanni, cioè de’ Figliuoli di Giovanni, e de’ Fighinoldi, </lb>
-e de’ Firidolfi, fù, se le cose picciole si possono con le grandi paragona<choice><orig>-</orig><reg resp="#D.B."/></lb>
-re, edificata alla sembianza, e similitudine della Città di <placeName ref="#Roma">Roma</placeName>; e fu </lb>
-(se bene alcuni credono il contrario) e maggiore, e piu bella, e piu</lb>
-forte, che prima. Hebbe quattro porte maestre; onde fu divi<choice><orig>-</orig><reg resp="#D.B."/></lb>
-sa in quattro quartieri; le quali porte erano in guisa situate, che</lb> 
-facevano come una Croce. La prima dalla parte di Levante si chia<choice><orig>-</orig><reg resp="#D.B."/></lb>
-mava la <placeName ref="#P_SanPiero">Porta di S<emph rend="italic">an</emph>to Piero</placeName>. La seconda volgendo à man ritta alla plaga</lb> 
-di Settentrione, perche era vicina al <placeName ref="#S_Giovanni">tempio di S<emph rend="italic">an</emph>to Giovanni</placeName>, e non </lb>
-lungi dal Vescovado, si nominava la <placeName ref="#P_del_Duomo">Porta del Duomo</placeName>, <choice><orig>ò</orig><corr>o</corr></choice> vero del </lb>
-Vescovo. La terza, la quale era dall’Occidente riscontro alla prima </lb>
-fu nomata dalla Chiesa, la quale era poco fuora di lei, la <placeName ref="#P_SBrancazio">porta di </lb>
-S<emph rend="italic">an</emph>to Brancazio</placeName. La quarta, et ultima, la quale era à dirimpetto </lb>
-alla seconda, hebbe nome: <placeName ref="#P_SMaria">porta Santa Maria; dove hoggi si dice Por<choice><orig>-</orig><reg resp="#D.B."/></lb>
-santamaria</placeName>, con la medesima scorrezzione, et abbreviatura, et </lb>
-nel miluogo, come dicevano essi, cioè nel mezzo, e quasi centro d<emph rend="italic">e)lla</lb> 
-Città, era la<placeName ref="#S_Andrea"> Chiesa di S<emph rend="italic">an</emph>to Andrea</placeName>, e quella di <placeName ref="#S_MariaC">S<emph rend="italic">an</emph>ta Maria in Campidoglio</placeName>,</lb> 
-quali si veggono ancora ne’ tempi nostri. <persName ref="Carlo_Magno">Carlo Magno</persName> quattro an-</lb>
-ni dopo, che <placeName ref="#Firenze">Firenze</placeName> fu restaurata, tornandosene da <placeName ref="#Roma">Roma</placeName>, dove era </lb>
-stato eletto solenneme<emph rend="italic">n</emph>te, dopo tant’anni, che l’Imperio Occidentale </lb>
-era vacato, ed andandosene in <placeName ref="#Francia">Francia</placeName> vi soggiornò alquanti di, </lb>
-e vi [c+f]ondò, largamente dotandola, la chiesa di <placeName ref="#S_Apostolo_Borgo"S<emph rend="italic">an</emph>to Appostolo in Bor<choice><orig>-</orig><reg resp="#D.B."/></lb>
-go</placeName>, e il giorno della Pasqua di Resurresso vi tenne gran festa,</lb>
+                    <add hand="#A5" place="margin" n="miaone"> “<placeName ref="#Firenze">Fir<emph rend="italic">en</emph>ze</placeName> Rifatta o <lb/> restaurata nel <lb/> <date>801</date> da <persName ref="#Carlo_Magno">Carlo <lb/> Magno</persName>.”</add><lb/>
+nell’entrar d’Aprile l’anno ottocento uno al tempo di <persName ref="#Leone_III">Papa Leone Terzo</persName>, <lb/>
+per gli preghi, e sollecitudine delli antichi Cittadini di <placeName ref="#Firenze">Fir<emph rend="italic">en</emph>ze</placeName>; et in <lb/>
+ispezie de’ Fiegiovanni, cioè de’ Figliuoli di Giovanni, e de’ Fighinoldi, <lb/>
+e de’ Firidolfi, fù, se le cose picciole si possono con le grandi paragona<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+re, edificata alla sembianza, e similitudine della Città di <placeName ref="#Roma">Roma</placeName>; e fu <lb/>
+(se bene alcuni credono il contrario) e maggiore, e piu bella, e piu<lb/>
+forte, che prima. Hebbe quattro porte maestre; onde fu divi<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+sa in quattro quartieri; le quali porte erano in guisa situate, che<lb/> 
+facevano come una Croce. La prima dalla parte di Levante si chia<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+mava la <placeName ref="#P_SanPiero">Porta di S<emph rend="italic">an</emph>to Piero</placeName>. La seconda volgendo à man ritta alla plaga<lb/> 
+di Settentrione, perche era vicina al <placeName ref="#S_Giovanni">tempio di S<emph rend="italic">an</emph>to Giovanni</placeName>, e non <lb/>
+lungi dal Vescovado, si nominava la <placeName ref="#P_del_Duomo">Porta del Duomo</placeName>, <choice><orig>ò</orig><corr>o</corr></choice> vero del <lb/>
+Vescovo. La terza, la quale era dall’Occidente riscontro alla prima <lb/>
+fu nomata dalla Chiesa, la quale era poco fuora di lei, la <placeName ref="#P_SBrancazio">porta di <lb/>
+S<emph rend="italic">an</emph>to Brancazio</placeName>. La quarta, et ultima, la quale era à dirimpetto <lb/>
+alla seconda, hebbe nome: <placeName ref="#P_SMaria">porta Santa Maria; dove hoggi si dice Por<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+santamaria</placeName>, con la medesima scorrezzione, et abbreviatura, et <lb/>
+nel miluogo, come dicevano essi, cioè nel mezzo, e quasi centro d<emph rend="italic">e)lla<lb/> 
+Città, era la<placeName ref="#S_Andrea"> Chiesa di S<emph rend="italic">an</emph>to Andrea</placeName>, e quella di <placeName ref="#S_MariaC">S<emph rend="italic">an</emph>ta Maria in Campidoglio</placeName>,<lb/> 
+quali si veggono ancora ne’ tempi nostri. <persName ref="Carlo_Magno">Carlo Magno</persName> quattro an-<lb/>
+ni dopo, che <placeName ref="#Firenze">Firenze</placeName> fu restaurata, tornandosene da <placeName ref="#Roma">Roma</placeName>, dove era <lb/>
+stato eletto solenneme<emph rend="italic">n</emph>te, dopo tant’anni, che l’Imperio Occidentale <lb/>
+era vacato, ed andandosene in <placeName ref="#Francia">Francia</placeName> vi soggiornò alquanti di, <lb/>
+e vi <del hand="#A2">c</del><add hand="#A2">f</add>ondò, largamente dotandola, la chiesa di <placeName ref="#S_Apostolo_Borgo">S<emph rend="italic">an</emph>to Appostolo in Bor<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+go</placeName>, e il giorno della Pasqua di Resurresso vi tenne gran festa,<lb/>
 
 
 <pb n="697" xml:id="fol_698" facs="data/images/single/fol_698.JPG"/>
                     <lb n="[698]"/>
-                    et allegria, e vi fece dimolti Cavalieri; e nella sua partita, havendola </lb>
-oltra l’altre cose privilegiata di tre miglia di Contado, la lasciò libera, </lb>
-e franca. Questa edificazione di mura sopradetta si chiamò il primo </lb>
-Cerchio. Seguì poi, che havendo i Fiorentini presa, e mandata per ter<choice><orig>-</orig><reg resp="#D.B."/></lb>
-ra (come s’è detto) nell’anno mille dieci la Città di  <placeName ref="#Fiesole">Fiesole</placeName> tutta quanta,</lb> 
-eccetto solame<emph rend="italic">n</emph>te il Vescovado con alcune chiese, e la <placeName ref="#Rocca">Rocca</placeName, la quale </lb>
-posta in sulla sommità del monte si difese gagliardissimame<emph rend="italic">n</emph>te per </lb>
-molti anni,  <placeName ref="#Firenze">Firenze</placeName> venne <choice><orig>à</orig><corr>a</corr></choice> riempiersi di Habitatori; percioche </lb>
-la maggior parte de’ Fiesolani, tutto che havesseno habilità d’andarse-</lb>
-ne ad habitare, dove piu aggradiva loro; discesero non dimeno con </lb>
-le robe, e famiglie loro <choice><orig>à</orig><corr>a</corr></choice> stanziare in  <placeName ref="#Firenze">Firenze</placeName>; e fu loro accomunata l</lb>a 
-Citta, la quala comunione fù per lo tempo avvenire di molti danni, e </lb>
-di gran disturbame<emph rend="italic">n</emph>ti cagione. Fu dunque di mestiero, che mediante gl’</lb>
-habitatori nuovi s’allungassero, e allargassero le mura; il che si </lb>
-fece prima con fossi, e steccati; poscia nel mille settantotto quando </lb>
-Arrigo terzo venne <choice><orig>à</orig><corr>a</corr></choice> hoste sopra  <placeName ref="#Firenze">Firenze</placeName>, si chiusero le mura; onde </lb></lb>
-dove prima era divisa la Città in quattro Quartieri, senza toccar nulla </lb>
-di quello d’Oltra Arno, si divise in questo secondo Cerchio in sei Sesto<choice><orig>-</orig><reg resp="#D.B."/></lb>
-ra, <choice><orig>ò</orig><corr>o</corr></choice> vero Sestieri, cinque di qua d’Arno, chiamati ciascuno da </lb>
-una delle cinque porte, che aveva il di qua d’Arno; et uno il <placeName ref="#Sesto_Oltrarno">Se<choice><orig>-</orig><reg resp="#D.B."/></lb>
-sto d’Oltrarno</placeName>; il quale comprendeva tre borghi, come si dirà. Co<choice><orig>-</orig><reg resp="#D.B."/></lb>
-minciando dunque da Levante, misero la Chiesa, et il <placeName ref="#Borgo_SPiero">Borgo di San </lb>
-Piero Maggiore</placeName> dentro le mura; e distendendosi verso Tramontana, </lb>
-fecero non molto lunge una postierla, <choice><orig>ò</orig><corr>o</corr></choice> vero porticciuola, cioè porta </lb>
-picciola, e non maestra, chiamata da un Casato quivi vicino, la <placeName ref="#P_Albertinegli">porta </lb>
+                    et allegria, e vi fece dimolti Cavalieri; e nella sua partita, havendola <lb/>
+oltra l’altre cose privilegiata di tre miglia di Contado, la lasciò libera, <lb/>
+e franca. Questa edificazione di mura sopradetta si chiamò il primo <lb/>
+Cerchio. Seguì poi, che havendo i Fiorentini presa, e mandata per ter<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+ra (come s’è detto) nell’anno mille dieci la Città di  <placeName ref="#Fiesole">Fiesole</placeName> tutta quanta,<lb/> 
+eccetto solame<emph rend="italic">n</emph>te il Vescovado con alcune chiese, e la <placeName ref="#Rocca">Rocca</placeName>, la quale <lb/>
+posta in sulla sommità del monte si difese gagliardissimame<emph rend="italic">n</emph>te per <lb/>
+molti anni,  <placeName ref="#Firenze">Firenze</placeName> venne <choice><orig>à</orig><corr>a</corr></choice> riempiersi di Habitatori; percioche <lb/>
+la maggior parte de’ Fiesolani, tutto che havesseno habilità d’andarse-<lb/>
+ne ad habitare, dove piu aggradiva loro; discesero non dimeno con <lb/>
+le robe, e famiglie loro <choice><orig>à</orig><corr>a</corr></choice> stanziare in  <placeName ref="#Firenze">Firenze</placeName>; e fu loro accomunata l<lb/>a 
+Citta, la quala comunione fù per lo tempo avvenire di molti danni, e <lb/>
+di gran disturbame<emph rend="italic">n</emph>ti cagione. Fu dunque di mestiero, che mediante gl’<lb/>
+habitatori nuovi s’allungassero, e allargassero le mura; il che si <lb/>
+fece prima con fossi, e steccati; poscia nel mille settantotto quando <lb/>
+Arrigo terzo venne <choice><orig>à</orig><corr>a</corr></choice> hoste sopra  <placeName ref="#Firenze">Firenze</placeName>, si chiusero le mura; onde <lb/><lb/>
+dove prima era divisa la Città in quattro Quartieri, senza toccar nulla <lb/>
+di quello d’Oltra Arno, si divise in questo secondo Cerchio in sei Sesto<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+ra, <choice><orig>ò</orig><corr>o</corr></choice> vero Sestieri, cinque di qua d’Arno, chiamati ciascuno da <lb/>
+    una delle cinque porte, che aveva il di qua d’Arno; et uno il <placeName ref="#Sesto_Oltrarno">Se<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+        sto d’Oltrarno</placeName>; il quale comprendeva tre borghi, come si dirà. Co<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+minciando dunque da Levante, misero la Chiesa, et il <placeName ref="#Borgo_SPiero">Borgo di San <lb/>
+Piero Maggiore</placeName> dentro le mura; e distendendosi verso Tramontana, <lb/>
+fecero non molto lunge una postierla, <choice><orig>ò</orig><corr>o</corr></choice> vero porticciuola, cioè porta <lb/>
+picciola, e non maestra, chiamata da un Casato quivi vicino, la <placeName ref="#P_Albertinegli">porta <lb/>
 
 
 <pb n="697" xml:id="fol_699" facs="data/images/single/fol_699.JPG"/>
                     <lb n="[699]"/>
-                    Albertinegli</placeName>: Seguitando poi pur da man ritta, e verso Settentrione </lb>
-infino alla <placeName ref="#P_SLorenzo">porta di San Lorenzo</placeName>, inchiusero la chiesa nella Città.</lb> 
-Edificarono poi due postierle l’una alla forca di <placeName ref="#Campo_Corbolini">Campo Corbolini</placeName>, </lb>
-l’altra si nominava la <placeName ref="#P_dalBaschiera">porta del Baschiera</placeName>. Seguitarono poscia </lb>
-verso Occidente infino alla <placeName ref="#P_SPagolo">porta di San Pagolo</placeName>; e quindi infino in </lb>
-sull’Arno alla <placeName ref="#P_Carraia">porta chiamata Carraia</laceName>. Procedettero poi dalla par<choice><orig>-</orig><reg resp="#D.B."/></lb>
-te di mezzo dì colle mura non molto alte infino al castello detto alta<choice><orig>-</orig><reg resp="#D.B."/></lb>
-fronte, lasciata dietro <placeName ref="#S_Piero_Scheraggio">San Piero Scheraggio</placeName> una postierla, la qua<choice><orig>-</orig><reg resp="#D.B."/></lb>
-le dal casato di quei <persName ref="#della_Pera">della Pera</persName>, come dice <persName ref="#Dante">Dante</persName> si chiamava, </lb>
-<placeName ref="#P_Peruzza">porta Peruzza</placeName>. Dal <placeName ref="#Altafronte">Castello d’Altafronte</placeName> si discostavano alqua<emph rend="italic">n</emph><choice><orig>-</orig><reg resp="#D.B."/></lb>
-to le mura dalla riva d’Arno, in guisa, che nel mezzo vi rimaneva </lb>
-una strada, dove fecero due postierle, per le quali s’andava al fiu<choice><orig>-</orig><reg resp="#D.B."/></lb>
-me. Torsero poi le mura alquanto, e le rivolsero dove fu nell’</lb>
-avvenire la coscia del <placeName ref="#Ponte_Rubconte">ponte Rubaconte</placeName>, nella qual rivolta mu<choice><orig>-</orig><reg resp="#D.B."/></lb>
-rarono la porta, la quale per lo mercato, che fuori d’essa si face<choice><orig>-</orig><reg resp="#D.B."/></lb>
-va, si nominò <placeName ref="#P_dei_buoi">prima la porta de’ buoi, e poi la porta di m<emph rend="italic">esser</emph> <persName ref="#Ruggeri_da_Quona">Rug<choice><orig>-</orig><reg resp="#D.B."/></lb>
-gieri da Quona</persName></placeName>; perche quivi habitò da principio cotal Famiglia; </lb>
-dove furono <del hand="#A2">f</del><add hand="#A2">p</add>oi, e sono ancora le case degl’<persName ref="#Alberti">Alberti</persName>. Di quindi </lb>
-le tirarono dietro la <placeName ref="#S_Iacopo">chiesa di San Iacopo</placeName>, il quale, perche era in </lb>
-sulle fossa, fu chiamato tra le fossa, e hoggi tra’ fossi. Da <placeName ref="#s_Iacopo">San </lb>
-Iacopo</placeName> tra’ fossi andarono infino al capo <placeName ref="#Piazza_SCroce">della piazza detta poi di </lb>
-Santa Croce</placeName>, nel qual luogo era una postierla, la quale menava </lb>
-all’<placeName ref="#Isola_dArno">Isola d’Arno</placeName>; dalla quale postierla le condussero per la via </lb>
-diritta, e le fornirono alla cappella dell’altare maggiore; donde in<choice><orig>-</orig><reg resp="#D.B."/></lb>
-cominciate le haveano. Restaci hora la parte d’Oltrarno, </lb>
+                    Albertinegli</placeName>: Seguitando poi pur da man ritta, e verso Settentrione <lb/>
+infino alla <placeName ref="#P_SLorenzo">porta di San Lorenzo</placeName>, inchiusero la chiesa nella Città.<lb/> 
+Edificarono poi due postierle l’una alla forca di <placeName ref="#Campo_Corbolini">Campo Corbolini</placeName>, <lb/>
+l’altra si nominava la <placeName ref="#P_dalBaschiera">porta del Baschiera</placeName>. Seguitarono poscia <lb/>
+verso Occidente infino alla <placeName ref="#P_SPagolo">porta di San Pagolo</placeName>; e quindi infino in <lb/>
+sull’Arno alla <placeName ref="#P_Carraia">porta chiamata Carraia</placeName>. Procedettero poi dalla par<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+te di mezzo dì colle mura non molto alte infino al castello detto alta<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+fronte, lasciata dietro <placeName ref="#S_Piero_Scheraggio">San Piero Scheraggio</placeName> una postierla, la qua<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+le dal casato di quei <persName ref="#della_Pera">della Pera</persName>, come dice <persName ref="#Dante">Dante</persName> si chiamava, <lb/>
+<placeName ref="#P_Peruzza">porta Peruzza</placeName>. Dal <placeName ref="#Altafronte">Castello d’Altafronte</placeName> si discostavano alqua<emph rend="italic">n</emph><choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+to le mura dalla riva d’Arno, in guisa, che nel mezzo vi rimaneva <lb/>
+una strada, dove fecero due postierle, per le quali s’andava al fiu<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+me. Torsero poi le mura alquanto, e le rivolsero dove fu nell’<lb/>
+avvenire la coscia del <placeName ref="#Ponte_Rubconte">ponte Rubaconte</placeName>, nella qual rivolta mu<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+rarono la porta, la quale per lo mercato, che fuori d’essa si face<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+va, si nominò <placeName ref="#P_dei_buoi">prima la porta de’ buoi, e poi la porta di m<emph rend="italic">esser</emph> <persName ref="#Ruggeri_da_Quona">Rug<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+gieri da Quona</persName></placeName>; perche quivi habitò da principio cotal Famiglia; <lb/>
+dove furono <del hand="#A2">f</del><add hand="#A2">p</add>oi, e sono ancora le case degl’<persName ref="#Alberti">Alberti</persName>. Di quindi <lb/>
+le tirarono dietro la <placeName ref="#S_Iacopo">chiesa di San Iacopo</placeName>, il quale, perche era in <lb/>
+sulle fossa, fu chiamato tra le fossa, e hoggi tra’ fossi. Da <placeName ref="#s_Iacopo">San <lb/>
+Iacopo</placeName> tra’ fossi andarono infino al capo <placeName ref="#Piazza_SCroce">della piazza detta poi di <lb/>
+Santa Croce</placeName>, nel qual luogo era una postierla, la quale menava <lb/>
+all’<placeName ref="#Isola_dArno">Isola d’Arno</placeName>; dalla quale postierla le condussero per la via <lb/>
+diritta, e le fornirono alla cappella dell’altare maggiore; donde in<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+cominciate le haveano. Restaci hora la parte d’Oltrarno, <lb/>
 
 <pb n="700" xml:id="fol_700" facs="data/images/single/fol_700.JPG"/>
                     <lb n="[700]"/>
-                    la quale, come havemo detto, haveva tre borghi, i quali tutti e tre co<choice><orig>-</orig><reg resp="#D.B."/></lb>
-minciavano al capo di la d’Arno del <placeName ref="#Ponte_Vecchio">ponte Vecchio</placeName>, uno verso Pone<emph rend="italic">n</emph>te </lb>
-chiamato <placeName ref="#Borgo_SIacopo">borgo San Iacopo</placeName>, nella fine del quale era una porta, dove fu<choice><orig>-</orig><reg resp="#D.B."/></lb>
-rono poi le case de’ <persName ref="#Frescobaldi">Frescobaldi</persName>, per la quale s’andava a <placeName ref="#Pisa">Pisa</placeName>. Il se<choice><orig>-</orig><reg resp="#D.B."/></lb>
-condo verso mezzo di era quello <placeName ref="#S_Felicita">di santa Felicita</placeName>; il quale haveva una </lb>
-porta, dove fu poi <placeName ref="San_Felice">san Felice in piazza</placeName>; per la quale s’andava <choice><orig>-</orig><reg resp="#D.B."/> <placeName ref="#Siena">Siena</placeName>; </lb>
-Il terzo, et ultimo Borgo verso Levante si chiamò per lo essere egli ha<choice><orig>-</orig><reg resp="#D.B."/></lb>
-bitato da Gentucche, e persone più che di bassa mano, <placeName ref="#Borgo_Pidocchio">Borgo pidocchio</placeName><choice><orig>-</orig><reg resp="#D.B."/></lb>
-so, et i<del hand="#A2">l</del><add hand="#A2">n</add> capo d’esso era la porta, la quale perche per lo cammino di <placeName ref="#Toscana">Feg<choice><orig>-</orig><reg resp="#D.B."/></lb>
-ghine</placeName>, e d’<placeName ref="#Arezzo">Arezzo</placeName> conduceva <choice><orig>-</orig><reg resp="#D.B."/> <placeName ref="#Roma">Roma</placeName>, si chiamava la <placeName ref="#P_Romana">porta Romana</placeName>; </lb>
-ove furon poi le case de’ Bardi, presso <choice><orig>-</orig><reg resp="#D.B."/> <placeName ref="#S_Lucia">santa Lucia de’ Magniuoli, </lb>
-hoggi santa Lucia Sopra Arno</placeName>; e questi tre Borghi facevano il  <placeName ref="#Sesto_Oltrarno">Sesto </lb>
-d’Oltr Arno</placeName>, e non havevano altre mura, se non le lor porte, et i dossi </lb>
-delle case di dietro, che chiudevano le dette borgora con horti, e giar<choice><orig>-</orig><reg resp="#D.B."/></lb>
-dini; le quali Borgora al tempo d’<persName ref="#Arrigo">Arrigo</persName> furono murate, e messe den<choice><orig>-</orig><reg resp="#D.B."/></lb>
-tro nella Città, e così hebbe fine il secondo Cerchio; del quale appari<choice><orig>-</orig><reg resp="#D.B."/></lb>
-scono ancora in molti luoghi per tutto <placeName ref="#Firenze">Firenze</placeName> spressi, e manifesti vesti<choice><orig>-</orig><reg resp="#D.B."/></lb>
-gi. Quanto al terzo, ed ultimo cerchio, chi desidera di sapere in </lb>
-qual tempo, <choice><orig>ò</orig><corr>o</corr></choice> piu tosto in quai tempi, perche si murò in più volte, et in</lb> 
-qual modo egli fusse fatto, legga il nono libro, benche molto, et in molti </lb>
-luoghi scorretto delle Cronache di <persName ref="#Giovanni_Villani">Giovanni Villani</persName>, il quale fu uno d<emph rend="italic">e</emph>lli </lb>
-Ufiziali sopra l’edificazione delle dette mura. Noi per adempiere la </lb>
-promessione, e ufizio nostro, quanto ne fia conceduto il più, comin<choice><orig>-</orig><reg resp="#D.B."/></lb>
-ciaremo in questa maniera.</lb>
-<add hand="#A5" place="margin" n="miaone"> Descritione del </lb> Sito d<emph rend="italic">e</emph>lla Citta </lb> di <placeName ref="#Firenze">Fir<emph rend="italic">en</emph>ze</add></placeName> La città di <placeName ref="#Firenze">Firenze</placeName>, la quale è po<choice><orig>-</orig><reg resp="#D.B."/></lb>
+                    la quale, come havemo detto, haveva tre borghi, i quali tutti e tre co<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+minciavano al capo di la d’Arno del <placeName ref="#Ponte_Vecchio">ponte Vecchio</placeName>, uno verso Pone<emph rend="italic">n</emph>te <lb/>
+chiamato <placeName ref="#Borgo_SIacopo">borgo San Iacopo</placeName>, nella fine del quale era una porta, dove fu<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+rono poi le case de’ <persName ref="#Frescobaldi">Frescobaldi</persName>, per la quale s’andava a <placeName ref="#Pisa">Pisa</placeName>. Il se<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+condo verso mezzo di era quello <placeName ref="#S_Felicita">di santa Felicita</placeName>; il quale haveva una <lb/>
+porta, dove fu poi <placeName ref="San_Felice">san Felice in piazza</placeName>; per la quale s’andava <choice><orig>-</orig><reg resp="#D.B."/> </choice><lb/> <placeName ref="#Siena">Siena;</placeName><lb/>
+Il terzo, et ultimo Borgo verso Levante si chiamò per lo essere egli ha<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+bitato da Gentucche, e persone più che di bassa mano, <placeName ref="#Borgo_Pidocchio">Borgo pidocchio</placeName><choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+so, et i<del hand="#A2">l</del><add hand="#A2">n</add> capo d’esso era la porta, la quale perche per lo cammino di <placeName ref="#Toscana">Feg<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+ghine</placeName>, e d’<placeName ref="#Arezzo">Arezzo</placeName> conduceva <choice><orig>-</orig><reg resp="#D.B."/></choice><lb/> <placeName ref="#Roma">Roma</placeName>, si chiamava la <placeName ref="#P_Romana">porta Romana;</placeName> <lb/>
+ove furon poi le case de’ Bardi, presso <choice><orig>-</orig><reg resp="#D.B."/></choice> <lb/><placeName ref="#S_Lucia">santa Lucia de’ Magniuoli, <lb/>
+hoggi santa Lucia Sopra Arno</placeName>; e questi tre Borghi facevano il  <placeName ref="#Sesto_Oltrarno">Sesto <lb/>
+d’Oltr Arno</placeName>, e non havevano altre mura, se non le lor porte, et i dossi <lb/>
+delle case di dietro, che chiudevano le dette borgora con horti, e giar<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+dini; le quali Borgora al tempo d’<persName ref="#Arrigo">Arrigo</persName> furono murate, e messe den<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+tro nella Città, e così hebbe fine il secondo Cerchio; del quale appari<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+scono ancora in molti luoghi per tutto <placeName ref="#Firenze">Firenze</placeName> spressi, e manifesti vesti<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+gi. Quanto al terzo, ed ultimo cerchio, chi desidera di sapere in <lb/>
+qual tempo, <choice><orig>ò</orig><corr>o</corr></choice> piu tosto in quai tempi, perche si murò in più volte, et in<lb/> 
+qual modo egli fusse fatto, legga il nono libro, benche molto, et in molti <lb/>
+luoghi scorretto delle Cronache di <persName ref="#Giovanni_Villani">Giovanni Villani</persName>, il quale fu uno d<emph rend="italic">e</emph>lli <lb/>
+Ufiziali sopra l’edificazione delle dette mura. Noi per adempiere la <lb/>
+promessione, e ufizio nostro, quanto ne fia conceduto il più, comin<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+ciaremo in questa maniera.<lb/>
+<add hand="#A5" place="margin" n="miaone"> Descritione del <lb/> Sito d<emph rend="italic">e</emph>lla Citta <lb/> di <placeName ref="#Firenze">Fir<emph rend="italic">en</emph>ze</placeName></add> La città di <placeName ref="#Firenze">Firenze</placeName>, la quale è po<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
 sta quasi nel mezzo della <placeName ref="#Toscana">Toscana</placeName> tra le radici del monte di <placeName ref="#Firsole">Fiesole</placeName>, 
 <pb n="701" xml:id="fol_701" facs="data/images/single/fol_701.JPG"/>
                     <lb n="[701]"/>
-                    <add hand="#A5" place="margin" n="miaone">Descrive il / sito d<emph rend="italic">e</emph>lla Citta / di <placeName ref="#Firenze">Fir<emph rend="italic">en</emph>ze</placeName></add> e quelle di Monte Ughi dalla parte Settentrionale; et <choice><orig>à</orig><corr>a</corr></choice> piè del Poggio di</lb>
-San Miniato in Monte, e d’altri Colli dalla parte Meridionale, gira di dentro le </lb>
-mura braccia Fiorentine quattordicimila settecento ventitre <choice><orig>à</orig><corr>a</corr></choice> punto; e perche ogni </lb>
-braccio Fiorentino contiene <del hand="#A2">a punto</del> due piedi antich<del hand="#A1">e</del><add hand="#A2">i</add> romani, sono piedi ventinove</lb> 
-mila quattrocento quarantasei: e perche cinque piedi Romani antichi fanno un pas<choice><orig>-</orig><reg resp="#D.B."/></lb>
-so Geometrico, sono passi cinquemila ottocento ottantanove, e un quinto. E perche ogni</lb> 
-miglio comprende mille passi, sono cinque miglia intere, e poco più d’otto noni, i quali </lb>
-sono poco meno di sei miglia. Ha <placeName ref="#Firenze">Firenze</placeName> di longitudine gradi trentatre, e mezzo, </lb>
-e di latitudine quarantatre. La sua forma è irregolare, cioè non è propriamente </lb>
-ne tonda, ne quadra, ne quadrangola, <choice><orig>ò</orig><corr>o</corr></choice> altra figura regolare; percioche le sue </lb>
-mura torcendosi in alcuni luoghi, e facce<emph rend="italic">n</emph>do gomito, <choice><orig>ò</orig><corr>o</corr></choice> vero angolo, cioè canto, sbie<choice><orig>-</orig><reg resp="#D.B."/></lb>
-cano molte volte, e vanno a schimbeci; onde nasce, che ella quasi come un fuso è stret<choice><orig>-</orig><reg resp="#D.B."/></lb>
-ta negli stremi, e nel mezzo larghissima. È divisa dal fiume d’Arno, il quale en<choice><orig>-</orig><reg resp="#D.B."/></lb>
-tra in lei da Levante, in due parti, ma non eguali; percioche quella parte, la </lb>
-quale è di la dal fiume <choice><orig>à</orig><corr>a</corr></choice> man sinistra verso mezzo di, e si chiamava anticame<emph rend="italic">n</emph>te oltr’Arno, et hoggi si chiama il di la d’Arno, è (come che ella picciola non sia) </lb></lb>
-molto minore, che non è la parte di qua dal fiume <choice><orig>à</orig><corr>a</corr></choice> man destra verso Tramon<choice><orig>-</orig><reg resp="#D.B."/></lb>
-tana; onde tutto il di qua d’Arno è diviso in tre quartieri; <placeName ref="#S_Croce">Santa Croce</placeName>; <placeName ref="#S_Maria_Novella">san<choice><orig>-</orig><reg resp="#D.B."/></lb>
-ta Maria Novella</plceName>; e <placeName ref="#S_Giovanni">San Giovanni</placeName>; e tutto il di la d’Arno in un solo, cioè </lb>
-<placeName ref="#S_Spirito>">santo Spirito</placeName>. Il voto onde entra Arno, cioè la larghezza di tutto il Fiume, tra</lb> 
-la <placeName ref="#P_Giustizia">porta alla Giustizia</placeName>, e quella <choice><orig>à</orig><corr>a</corr></choice> <placeName ref="#P_Niccolò">San Niccolò</placeName>, dove è la pescaia; nel qual</lb>
-luogo s’haveva già <choice><orig>à</orig><corr>a</corr></choice> edificare il <placeName ref="#P_Reale">ponte Reale</placeName>, è trecento dieci braccia; e il </lb>
-voto tra la <placeName ref="#P_Prato">porta al Prato</placeName>, e quella di <placeName ref="P_SanFriano">san Friano</placeName>, onde egli esce dall’altra </lb>
-pescaia di sotto verso occidente, cioè dalla porticciuola del <placeName ref="#P_Prato>">Prato</placeName>, infino a </lb>
-<placeName ref="#S_Maria_Cantone">santa Maria del Cantone</placeName> attraversando Arno, sono braccia quattrocento no<choice><orig>-</orig><reg resp="#D.B."/> </lb>
+                    <add hand="#A5" place="margin" n="miaone">Descrive il / sito d<emph rend="italic">e</emph>lla Citta / di <placeName ref="#Firenze">Fir<emph rend="italic">en</emph>ze</placeName></add> e quelle di Monte Ughi dalla parte Settentrionale; et <choice><orig>à</orig><corr>a</corr></choice> piè del Poggio di<lb/>
+San Miniato in Monte, e d’altri Colli dalla parte Meridionale, gira di dentro le <lb/>
+mura braccia Fiorentine quattordicimila settecento ventitre <choice><orig>à</orig><corr>a</corr></choice> punto; e perche ogni <lb/>
+braccio Fiorentino contiene <del hand="#A2">a punto</del> due piedi antich<del hand="#A1">e</del><add hand="#A2">i</add> romani, sono piedi ventinove<lb/> 
+mila quattrocento quarantasei: e perche cinque piedi Romani antichi fanno un pas<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+so Geometrico, sono passi cinquemila ottocento ottantanove, e un quinto. E perche ogni<lb/> 
+miglio comprende mille passi, sono cinque miglia intere, e poco più d’otto noni, i quali <lb/>
+sono poco meno di sei miglia. Ha <placeName ref="#Firenze">Firenze</placeName> di longitudine gradi trentatre, e mezzo, <lb/>
+e di latitudine quarantatre. La sua forma è irregolare, cioè non è propriamente <lb/>
+ne tonda, ne quadra, ne quadrangola, <choice><orig>ò</orig><corr>o</corr></choice> altra figura regolare; percioche le sue <lb/>
+mura torcendosi in alcuni luoghi, e facce<emph rend="italic">n</emph>do gomito, <choice><orig>ò</orig><corr>o</corr></choice> vero angolo, cioè canto, sbie<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+cano molte volte, e vanno a schimbeci; onde nasce, che ella quasi come un fuso è stret<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+ta negli stremi, e nel mezzo larghissima. È divisa dal fiume d’Arno, il quale en<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+tra in lei da Levante, in due parti, ma non eguali; percioche quella parte, la <lb/>
+quale è di la dal fiume <choice><orig>à</orig><corr>a</corr></choice> man sinistra verso mezzo di, e si chiamava anticame<emph rend="italic">n</emph>te oltr’Arno, et hoggi si chiama il di la d’Arno, è (come che ella picciola non sia) <lb/><lb/>
+molto minore, che non è la parte di qua dal fiume <choice><orig>à</orig><corr>a</corr></choice> man destra verso Tramon<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+tana; onde tutto il di qua d’Arno è diviso in tre quartieri; <placeName ref="#S_Croce">Santa Croce</placeName>; <placeName ref="#S_Maria_Novella">san<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+ta Maria Novella</placeName>; e <placeName ref="#S_Giovanni">San Giovanni</placeName>; e tutto il di la d’Arno in un solo, cioè <lb/>
+<placeName ref="#S_Spirito>">santo Spirito</placeName>. Il voto onde entra Arno, cioè la larghezza di tutto il Fiume, tra<lb/> 
+la <placeName ref="#P_Giustizia">porta alla Giustizia</placeName>, e quella <choice><orig>à</orig><corr>a</corr></choice> <placeName ref="#P_Niccolò">San Niccolò</placeName>, dove è la pescaia; nel qual<lb/>
+luogo s’haveva già <choice><orig>à</orig><corr>a</corr></choice> edificare il <placeName ref="#P_Reale">ponte Reale</placeName>, è trecento dieci braccia; e il <lb/>
+voto tra la <placeName ref="#P_Prato">porta al Prato</placeName>, e quella di <placeName ref="P_SanFriano">san Friano</placeName>, onde egli esce dall’altra <lb/>
+pescaia di sotto verso occidente, cioè dalla porticciuola del <placeName ref="#P_Prato>">Prato</placeName>, infino a <lb/>
+<placeName ref="#S_Maria_Cantone">santa Maria del Cantone</placeName> attraversando Arno, sono braccia quattrocento no<choice><orig>-</orig><reg resp="#D.B."/></choice></emph><lb/>
  <pb n="702" xml:id="fol_702" facs="data/images/single/fol_702.JPG"/>
                     <lb n="[702]"/>
-vanta. Congiungo<emph rend="italic">n</emph>si queste due parti insieme, cioè il di qua col di là d’Arno, </lb>
-da quattro bellissimi, e magnifici Ponti tutti di pietra, e tutti con le loro spon<choice><orig>-</orig><reg resp="#D.B."/></lb>
-de. Il primo de’ quali cominciando da Oriente, onde entra Arno, si chiama dal no<choice><orig>-</orig><reg resp="#D.B."/></lb>
-me d’un Podesta, che nel mille dugento trentasette si trovò <choice><orig>à</orig><corr>a</corr></choice> fondarlo, il <placeName ref="#Ponte_Rubaconte">Ponte </lb>
-Rubaconte</placeName>, sopra il quale havente sei pile, sono alcune Case, Botteghe, e </lb>
-Chiesicciuole. Il secondo havente due pile, il qual si fornì l’anno milletre<choice><orig>-</orig><reg resp="#D.B."/></lb>
-cento quarantacinque, si chiama il <placeName ref="#Ponte_Vecchio">Ponte Vecchio</placeName>. E questo come piu largo, e </lb>
-più gagliardo di tutti gl’altri è da amendue le latora, fuori, che alquanto spa<choice><orig>-</orig><reg resp="#D.B."/></lb>
-zio nel mezzo, tutto di case, e di botteghe ripieno. Il terzo havente due pile, </lb>
-il quale si fece nel mille dugento cinquantuno, per opera massimame<emph rend="italic">n</emph>te </lb>
-di <persName ref="#Lamberto_Frescobaldi">Lamberto Frescobaldi</placeName>, grande Anziano in quel tempo, si chiama da una </lb>
-chiesa quivi vicina de’ <placeName ref="#Frati_Valembrosa">Frati di Valembrosa</placeName>, il <placeName ref="#Ponte _S_Trinità">Ponte <choice><orig>à</orig><corr>a</corr></choice> Santa Trinita</placeName>, e sopra</lb> 
-questo vaghissimo Ponte non è altro, che un picciolo hospizio di frati da man </lb>
-destra, et uno gnomone di pietra; il quale mediante l’ombre dimostra l’hore. </lb>
-Il quarto, et ultimo ponte havente quattro pile, si chiama da quella antica </lb>
-porta, di cui si fece menzione nel secondo Cerchio, il <placeName ref="#Ponte_Carraia">ponte alla Carraia, </lb>
-chiamato già il Ponte nuovo</placeName>, e sopra questo non è habituro nessun<del hand="#A1">o</del><add hand="#A1">a</add>. Tutto</lb> 
-lo spazio dal primo canto delle mura di <placeName ref="#S_Niccolo">San Niccolo</placeName> per infino alla Chiesina </lb>
-chiamata <placeName ref="#S_Maria_Cantone">Santa Maria del Cantone</placeName> quasi di costa al <placeName ref="#Tiratoio">tiratoio dell’Uccello</placeName>, </lb>
-sono braccia tremila settecento cinquanta, che fanno un miglio, e tre quar<choice><orig>-</orig><reg resp="#D.B."/></lb>
-ti <choice><orig>à</orig><corr>a</corr></choice> punto; e altrettanto si puo dire di quello spazio, il quale è di qua d’</lb>
-Arno da man destra al canto alla <placeName ref="#P_Giustizia">porta alla Giustizia</placeName>, infino alla <placeName ref="#P_Arno">Por<choice><orig>-</orig><reg resp="#D.B."/></lb>
-ticciuola d’Arno</placeName>, dove sono le mulina, e la vaga <placeName ref="#Loggia_Medici">loggia de’ Medici</placeName>. Le </lb>
-Porte, per le quali s’esce, et entra in <placeName ref="#Firenze">Firenze</placeName> sono senza le rimurate </lb>
-undici <choice><orig>à</orig><corr>a</corr></choice> novero, sei di qua d’Arno, e cinque di la, tutte con i loro An<choice><orig>-</orig><reg resp="#D.B."/> </lb>
+vanta. Congiungo<emph rend="italic">n</emph>si queste due parti insieme, cioè il di qua col di là d’Arno, <lb/>
+da quattro bellissimi, e magnifici Ponti tutti di pietra, e tutti con le loro spon<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+de. Il primo de’ quali cominciando da Oriente, onde entra Arno, si chiama dal no<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+me d’un Podesta, che nel mille dugento trentasette si trovò <choice><orig>à</orig><corr>a</corr></choice> fondarlo, il <placeName ref="#Ponte_Rubaconte">Ponte <lb/>
+Rubaconte</placeName>, sopra il quale havente sei pile, sono alcune Case, Botteghe, e <lb/>
+Chiesicciuole. Il secondo havente due pile, il qual si fornì l’anno milletre<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+cento quarantacinque, si chiama il <placeName ref="#Ponte_Vecchio">Ponte Vecchio</placeName>. E questo come piu largo, e <lb/>
+più gagliardo di tutti gl’altri è da amendue le latora, fuori, che alquanto spa<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+zio nel mezzo, tutto di case, e di botteghe ripieno. Il terzo havente due pile, <lb/>
+il quale si fece nel mille dugento cinquantuno, per opera massimame<emph rend="italic">n</emph>te <lb/>
+di <persName ref="#Lamberto_Frescobaldi">Lamberto Frescobaldi</persName>, grande Anziano in quel tempo, si chiama da una <lb/>
+chiesa quivi vicina de’ <placeName ref="#Frati_Valembrosa">Frati di Valembrosa</placeName>, il <placeName ref="#Ponte _S_Trinità">Ponte <choice><orig>à</orig><corr>a</corr></choice> Santa Trinita</placeName>, e sopra<lb/> 
+questo vaghissimo Ponte non è altro, che un picciolo hospizio di frati da man <lb/>
+destra, et uno gnomone di pietra; il quale mediante l’ombre dimostra l’hore. <lb/>
+Il quarto, et ultimo ponte havente quattro pile, si chiama da quella antica <lb/>
+porta, di cui si fece menzione nel secondo Cerchio, il <placeName ref="#Ponte_Carraia">ponte alla Carraia, <lb/>
+chiamato già il Ponte nuovo</placeName>, e sopra questo non è habituro nessun<del hand="#A1">o</del><add hand="#A1">a</add>. Tutto<lb/> 
+lo spazio dal primo canto delle mura di <placeName ref="#S_Niccolo">San Niccolo</placeName> per infino alla Chiesina <lb/>
+chiamata <placeName ref="#S_Maria_Cantone">Santa Maria del Cantone</placeName> quasi di costa al <placeName ref="#Tiratoio">tiratoio dell’Uccello</placeName>, <lb/>
+sono braccia tremila settecento cinquanta, che fanno un miglio, e tre quar<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+ti <choice><orig>à</orig><corr>a</corr></choice> punto; e altrettanto si puo dire di quello spazio, il quale è di qua d’<lb/>
+Arno da man destra al canto alla <placeName ref="#P_Giustizia">porta alla Giustizia</placeName>, infino alla <placeName ref="#P_Arno">Por<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+ticciuola d’Arno</placeName>, dove sono le mulina, e la vaga <placeName ref="#Loggia_Medici">loggia de’ Medici</placeName>. Le <lb/>
+Porte, per le quali s’esce, et entra in <placeName ref="#Firenze">Firenze</placeName> sono senza le rimurate <lb/>
+undici <choice><orig>à</orig><corr>a</corr></choice> novero, sei di qua d’Arno, e cinque di la, tutte con i loro An<choice><orig>-</orig><reg resp="#D.B."/></choice> <lb/>
 
 <pb n="703" xml:id="fol_703" facs="data/images/single/fol_703.JPG"/>
                     <lb n="[703]"/>
-tiporti e torrioni. Tutte le mura di qua d’Arno, dove sono sei por<choice><orig>-</orig><reg resp="#D.B."/></lb>
-te, cioè dal <placeName ref="#Cantone">Cantone</placeName> alla <placeName ref="#P_Giustizia">porta alla Giustizia</placeName> infino alla <placeName ref="#P_Prato">porticciuola d<emph rend="italic">e</emph>l</lb> 
-prato</placeName> d’ognissanti comprendono braccia ottomila quattrocento nove, che </lb>
-fanno tre miglia, e poca cosa piu d’un terzo, ragionando sempre di den<choice><orig>-</orig><reg resp="#D.B."/></lb>
-tro, e sono alte venti braccia contando i merli; perche tutte le mura di </lb>
-<placeName ref="#Firenze">Firenze</placeName> sono merlate, e tutte si possono dinanzi <choice><orig>à</orig><corr>a</corr></choice> detti merli girare agiata<choice><orig>-</orig><reg resp="#D.B."/></lb>
-mente intorno intorno; e nell’intervallo che è tra l’un merlo, e l’altro in </lb>
-molti de’ quali merli sono alcune balestriere, puo ciascuno affacciarsi </lb>
-e rimirare all’in giù; sono grosse tre braccia, e mezzo senza lo spazio </lb>
-lo quale occupano i barbacani, che elleno per maggior fortezza, e bellez<choice><orig>-</orig><reg resp="#D.B."/></lb>
-za hanno dalla parte di fuori, dove sono i fossi larghi venticinque </lb>
-braccia, ma poco fondi, e quasi ripieni; e di la da’ fossi hanno una </lb>
-via publica larga sedici braccia; la qual via hanno ancora dalla par<choice><orig>-</orig><reg resp="#D.B."/></lb>
-te di dentro, dove si spasseggia lungo le mura. <choice><orig>A</orig><corr>à</corr></choice> ogni dugento brac<choice><orig>-</orig><reg resp="#D.B."/></lb>
-cia era una torre alta braccia quaranta, e larga quattordici; le quali </lb>
-torri co’ torrioni delle porte, oltra l’incredibile fortezza, facevano </lb>
-quasi incoronando <placeName ref="#Firenze">Firenze</placeName>, una vista maravigliosame<emph rend="italic">n</emph>te bella, e pia<choice><orig>-</orig><reg resp="#D.B."/></lb>
-cevole. Dico era, e facevano, perché poco innanzi alla mutazione </lb>
-dello stato furono (come si disse ne’ libri precedenti) gittate in terra,</lb> 
-e pareggiate con le mura. La prima delle sei porte di qua d’Arno </lb>
-cominciando dall’Euro, et andando da man sinistra verso Borea, </lb>
-si chiamava gia dal nome del ponte, che quivi edificare si dovea, </lb>
-la porta reale; poi da un convento de’ frati minori, che fuora di lei </lb>
-<choice><orig>à</orig><corr>a</corr></choice> mano manca si ritrovava, fu chiamata la porta di <placeName ref="#P_Giustizia">San Francesco, </lb>
-ultimamen<emph rend="italic">t</emph>e si chiamò, come fa ancora hoggi, la porta alla Giustizia</placeName>,</lb>  
+tiporti e torrioni. Tutte le mura di qua d’Arno, dove sono sei por<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+te, cioè dal <placeName ref="#Cantone">Cantone</placeName> alla <placeName ref="#P_Giustizia">porta alla Giustizia</placeName> infino alla <placeName ref="#P_Prato">porticciuola d<emph rend="italic">e</emph>l<lb/> 
+prato</placeName> d’ognissanti comprendono braccia ottomila quattrocento nove, che <lb/>
+fanno tre miglia, e poca cosa piu d’un terzo, ragionando sempre di den<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+tro, e sono alte venti braccia contando i merli; perche tutte le mura di <lb/>
+<placeName ref="#Firenze">Firenze</placeName> sono merlate, e tutte si possono dinanzi <choice><orig>à</orig><corr>a</corr></choice> detti merli girare agiata<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+mente intorno intorno; e nell’intervallo che è tra l’un merlo, e l’altro in <lb/>
+molti de’ quali merli sono alcune balestriere, puo ciascuno affacciarsi <lb/>
+e rimirare all’in giù; sono grosse tre braccia, e mezzo senza lo spazio <lb/>
+lo quale occupano i barbacani, che elleno per maggior fortezza, e bellez<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+za hanno dalla parte di fuori, dove sono i fossi larghi venticinque <lb/>
+braccia, ma poco fondi, e quasi ripieni; e di la da’ fossi hanno una <lb/>
+via publica larga sedici braccia; la qual via hanno ancora dalla par<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+te di dentro, dove si spasseggia lungo le mura. <choice><orig>A</orig><corr>à</corr></choice> ogni dugento brac<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+cia era una torre alta braccia quaranta, e larga quattordici; le quali <lb/>
+torri co’ torrioni delle porte, oltra l’incredibile fortezza, facevano <lb/>
+quasi incoronando <placeName ref="#Firenze">Firenze</placeName>, una vista maravigliosame<emph rend="italic">n</emph>te bella, e pia<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+cevole. Dico era, e facevano, perché poco innanzi alla mutazione <lb/>
+dello stato furono (come si disse ne’ libri precedenti) gittate in terra,<lb/> 
+e pareggiate con le mura. La prima delle sei porte di qua d’Arno <lb/>
+cominciando dall’Euro, et andando da man sinistra verso Borea, <lb/>
+si chiamava gia dal nome del ponte, che quivi edificare si dovea, <lb/>
+la porta reale; poi da un convento de’ frati minori, che fuora di lei <lb/>
+<choice><orig>à</orig><corr>a</corr></choice> mano manca si ritrovava, fu chiamata la porta di <placeName ref="#P_Giustizia">San Francesco, <lb/>
+ultimamen<emph rend="italic">t</emph>e si chiamò, come fa ancora hoggi, la porta alla Giustizia</placeName>,<lb/>  
 
 <pb n="704" xml:id="fol_704" facs="data/images/single/fol_704.JPG"/>
                     <lb n="[704]"/>
-perche fuori di essa <choice><orig>à</orig><corr>a</corr></choice> mano diritta è il tempio, cioe la chiesa, nella quale</lb> 
-i Malfattori condennati dalla Giustizia <choice><orig>à</orig><corr>a</corr></choice> dovere morire, si posano innan<choice><orig>-</orig><reg resp="#D.B."/></lb>
-zi, che vadano <choice><orig>à</orig><corr>a</corr></choice> guastarsi <del hand="#A2">e poco piu oltra <choice><orig>à</orig><corr>a</corr></choice> mano stanca è il pratello</lb>
-murato, sopra il quale sono le forche, et il Ceppo, dove cotali rei dal</lb>
-maestro della giustizia, chiamato il Boia, si giustiziano</del>; e questa </lb>
-è piu tosto postierla, che porta maestra; non perche non sia grande, e </lb>
-ben murata come l’altre, ma perche, oltra, che non ha borgo, non è </lb>
-di passo; con cio sia cosa, che per lei non entrino, se non molto di rado</lb> 
-<choice><orig>ò</orig><corr>o</corr></choice> robe, <choice><orig>ò</orig><corr>o</corr></choice> persone; e fuori d’essa <choice><orig>à</orig><corr>a</corr></choice> man destra, è una bella via, per la </lb>
-quale si va lungo <del hand="#A1"> a</del><add hand="#A1">A</add>rno alle mulina, e gualchiere di <placeName ref="#Rovezzano">Rovezzano</placeName>. </lb>
-La seconda si chiamava gia da una chiesa di dentro non molto quin<choice><orig>-</orig><reg resp="#D.B."/></lb>
-di lontana, la <placeName ref="#P_SAmbrogio">porta di Santo Ambrogio, <choice><orig>ò</orig><corr>o</corr></choice> vero la porta alla Croce, </lb>
-a Gorgo, hoggi si chiama la porta di Santa Croce senza altro</placeName>. Fuori </lb>
-d’essa è un lunghissimo, e bellissimo borgo pieno tutto dall’una parte, e</lb> 
-dall’altra di case, e botteghe <del hand="#A2">con un’hosteria piu che grande</del>, e dalla </lb>
-mano sinistra al cominciare del Borgo è la <placeName ref="#S_Candida">chiesa di Santa Candida</placeName>, </lb>
-e fuori d’esso presso la fine alla medesima mano il <placeName ref="#Frati_Valembrosa">munistero di San </lb>
-Salvi de’ <del hand="#A1">f</del><add hand="#A1">F</add>rati di Valembrosa</placeName>. Lungi <choice><orig>à</orig><corr>a</corr></choice> due miglia per la via diritta</lb> 
-è il borgo di <placeName ref="#Rovezzano">Rovezzano</placeName>, <del hand="#A2">vicino al quale risiede la villa edificata da </lb>
-<persName ref"#Zanobi">Zanobi Bartolini</persName>, muraglia veramente piu tosto regia, che magnifica</del>; lun<choice><orig>-</orig><reg resp="#D.B."/></lb>
-ge <choice><orig>à</orig><corr>a</corr></choice> dieci è il castello del <placeName ref="#P_Sieve">Ponte <choice><orig>à</orig><corr>a</corr></choice> Sieve</placeName>; perche quivi mette in Ar<choice><orig>-</orig><reg resp="#D.B."/></lb>
-no, e fornisce la Sieve. <del hand="#A2">Sopra questo ponte è <placeName ref="#Nipozzano">Nipozzano</placeName>; dove ha </lb>
-<choice><orig>à</orig><corr>a</corr></choice> fare <persName ref="#Antonfrancesco_Albizzi">Antonfranc<emph rend="italic">esc</emph>o degl’Albizzi</persName>.</del> Da man destra oltra il <placeName ref="#Castello_Diacceto">Castello </lb>
-di Diacceto</placeName>, con <placeName ref="#Pelago">Pelago</placeName>, ed altre Ville si truova il famoso <placeName ref="#Frati_Valembrosa">monaste<choice><orig>-</orig><reg resp="#D.B."/></lb>
-r<del hand="#A2">i</del>o di Valembrosa, che cosi si chiama hoggi, e non Vall’ombrosa</placeName>, edificato</lb> 
+perche fuori di essa <choice><orig>à</orig><corr>a</corr></choice> mano diritta è il tempio, cioe la chiesa, nella quale<lb/> 
+i Malfattori condennati dalla Giustizia <choice><orig>à</orig><corr>a</corr></choice> dovere morire, si posano innan<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+zi, che vadano <choice><orig>à</orig><corr>a</corr></choice> guastarsi <del hand="#A2">e poco piu oltra <choice><orig>à</orig><corr>a</corr></choice> mano stanca è il pratello<lb/>
+murato, sopra il quale sono le forche, et il Ceppo, dove cotali rei dal<lb/>
+maestro della giustizia, chiamato il Boia, si giustiziano</del>; e questa <lb/>
+è piu tosto postierla, che porta maestra; non perche non sia grande, e <lb/>
+ben murata come l’altre, ma perche, oltra, che non ha borgo, non è <lb/>
+di passo; con cio sia cosa, che per lei non entrino, se non molto di rado<lb/> 
+<choice><orig>ò</orig><corr>o</corr></choice> robe, <choice><orig>ò</orig><corr>o</corr></choice> persone; e fuori d’essa <choice><orig>à</orig><corr>a</corr></choice> man destra, è una bella via, per la <lb/>
+quale si va lungo <del hand="#A1"> a</del><add hand="#A1">A</add>rno alle mulina, e gualchiere di <placeName ref="#Rovezzano">Rovezzano</placeName>. <lb/>
+La seconda si chiamava gia da una chiesa di dentro non molto quin<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+di lontana, la <placeName ref="#P_SAmbrogio">porta di Santo Ambrogio, <choice><orig>ò</orig><corr>o</corr></choice> vero la porta alla Croce, <lb/>
+a Gorgo, hoggi si chiama la porta di Santa Croce senza altro</placeName>. Fuori <lb/>
+d’essa è un lunghissimo, e bellissimo borgo pieno tutto dall’una parte, e<lb/> 
+dall’altra di case, e botteghe <del hand="#A2">con un’hosteria piu che grande</del>, e dalla <lb/>
+mano sinistra al cominciare del Borgo è la <placeName ref="#S_Candida">chiesa di Santa Candida</placeName>, <lb/>
+e fuori d’esso presso la fine alla medesima mano il <placeName ref="#Frati_Valembrosa">munistero di San <lb/>
+Salvi de’ <del hand="#A1">f</del><add hand="#A1">F</add>rati di Valembrosa</placeName>. Lungi <choice><orig>à</orig><corr>a</corr></choice> due miglia per la via diritta<lb/> 
+è il borgo di <placeName ref="#Rovezzano">Rovezzano</placeName>, <del hand="#A2">vicino al quale risiede la villa edificata da <lb/>
+<persName ref="#Zanobi">Zanobi Bartolini</persName>, muraglia veramente piu tosto regia, che magnifica</del>; lun<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+ge <choice><orig>à</orig><corr>a</corr></choice> dieci è il castello del <placeName ref="#P_Sieve">Ponte <choice><orig>à</orig><corr>a</corr></choice> Sieve</placeName>; perche quivi mette in Ar<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+no, e fornisce la Sieve. <del hand="#A2">Sopra questo ponte è <placeName ref="#Nipozzano">Nipozzano</placeName>; dove ha <lb/>
+<choice><orig>à</orig><corr>a</corr></choice> fare <persName ref="#Antonfrancesco_Albizzi">Antonfranc<emph rend="italic">esc</emph>o degl’Albizzi</persName>.</del> Da man destra oltra il <placeName ref="#Castello_Diacceto">Castello <lb/>
+di Diacceto</placeName>, con <placeName ref="#Pelago">Pelago</placeName>, ed altre Ville si truova il famoso <placeName ref="#Frati_Valembrosa">monaste<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+r<del hand="#A2">i</del>o di Valembrosa, che cosi si chiama hoggi, e non Vall’ombrosa</placeName>, edificato<lb/> 
 <pb n="705" xml:id="fol_705" facs="data/images/single/fol_705.JPG"/>
                     <lb n="[705]"/>
-nel <date>mille settanta</date> da <persName ref="#S_Giovannigalberto">San Giovannigualberto</persName> cittadino di <placeName ref="#Firenze">Firenze</placeName>. Dal </lb>
-<placeName ref="#P_Sieve">Ponte <choice><orig>à</orig><corr>a</corr></choice> Sieve</placeName> si va nel <placeName ref="#Casentino">Casentino</placeName>, paese molto fertile, nel quale le prin<choice><orig>-</orig><reg resp="#D.B."/></lb>
-cipali terre sono <placeName ref="#Romena">Romena</placeName>, <placeName ref="#Bibbiena">Bibbiena</placeName>, <placeName ref="#Pratovecchio">Pratovecchio</placeName>, <placeName ref="#Poppi">Poppi</placeName>, e <placeName ref="#Stia">Stia</placeName>. </lb>
-e dalla <del hand="#A2">destra</del><add hand="#A2">sinistra</del> tra alti, et aspri monti presso al fiume Larchiano è il</lb> 
-castello piutosto che il <placeName ref="#Camaldoli">Munistero di Camaldoli</placeName>; e sopra un miglio vici<choice><orig>-</orig><reg resp="#D.B."/></lb>
-no alla falterona, <del hand="#A2">donde da uno de’ lati esce l’Arno, e dall’altro il</lb>
-Tevere,</del> la chiesa, et habitazione de’ loro Romiti, luogo, come ne di<choice><orig>-</orig><reg resp="#D.B."/></lb>
-mostra il suo nome, eremo, soletario molto, e lontano da tutta ge<emph rend="italic">n</emph>te.</lb> 
-In cima al <placeName ref="#Casentino">Casentino</placeName> s’alza il monte della Vernia, dove sopra uno </lb>
-altissimo, e scosceso sasso è il <placeName ref="#Camaldoli">Munistero de’ frati osservanti di San </lb>
-Francesco</placeName>, lontano <del hand="#A3">nove</del><add hand="#A3">4</add>] miglia da <placeName ref="#Bibbiena">Bibbiena</placeName>. Tra la porta alla Giu<choice><orig>-</orig><reg resp="#D.B."/></lb>
-stizia, e quella alla Croce è una porta rimurata, la quale si chiamò </lb>
-da prima <placeName ref="#P_Ghibellina">la porta Ghibellina</placeName>, onde è detta ancora tutta la via, che va </lb>
-insino alle <placeName ref="#Stinche">Stinche</placeName>; la qual porta fu edificata nel <date>mille dugento ses<choice><orig>-</orig><reg resp="#D.B."/></lb>
-santa</date> da <persName ref="#Guido_Novello">Guido Novello Potesta</persName> in <placeName ref="#Firenze">Firenze</placeName> per lo <persName ref="#Manfredi">Re Manfredi</persName>, </lb>
-quando i Guelfi, senza havere chi gli cacciasse, si fuggirono di <placeName ref="#Firenze">Firenze</placeName>,</lb>
-i quali poscia ritornati la chiamarono porta <placeName ref="#P_Ghibellina">Guelfa</placeName>. La terza <placeName ref="#P_Pinti">por<choice><orig>-</orig><reg resp="#D.B."/></lb>
-ta, la quale si chiamò già Fiesolana, si chiama hoggi la porta <choice><orig>à</orig><corr>a</corr></choice> Pin<choice><orig>-</orig><reg resp="#D.B."/></lb>
-ti</placeName>, e non ha Borgo, ma solamente alcune case, dirimpetto alle quali <choice><orig>à</orig><corr>a</corr></choice> </lb>
-un trar di mano è il bellissimo <placeName ref="#Frati_Ingesuiti">Convento de’ frati Ingiesuati</placeName>, et <choice><orig>à</orig><corr>a</corr></choice> </lb>
-un trar d’arco per lo diritto quello de’ <placeName ref="#Camaldoli">Monaci di <del hand="#A3">san Benedetto</del> <add hand="#A1" place="margin" n="miaone">Camaldolj chia</lb>mato s<emph rend="italic">a</emph> Bene</lb>detto</add></placeName></lb> 
-con una Torre al dirimpetto. Poco sopra, dove si comincia <choice><orig>à</orig><corr>a</corr></choice> salire </lb>
-si truova <choice><orig>à</orig><corr>a</corr></choice> man destra Camerata piena di tanti, e si bei Casame<emph rend="italic">n</emph>ti, </lb>
-che malagevolme<emph rend="italic">n</emph>te il potrebbe credere chi veduti non gl’havesse, <del hand="#A2">e </lb>
-da sinistra verso Mugnone, la Chiesa, che s’edifica tuttavia in ho<choice><orig>-</orig><reg resp="#D.B."/> </lb>
+nel <date>mille settanta</date> da <persName ref="#S_Giovannigalberto">San Giovannigualberto</persName> cittadino di <placeName ref="#Firenze">Firenze</placeName>. Dal <lb/>
+<placeName ref="#P_Sieve">Ponte <choice><orig>à</orig><corr>a</corr></choice> Sieve</placeName> si va nel <placeName ref="#Casentino">Casentino</placeName>, paese molto fertile, nel quale le prin<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+cipali terre sono <placeName ref="#Romena">Romena</placeName>,<placeName ref="#Bibbiena">Bibbiena</placeName>, <placeName ref="#Pratovecchio">Pratovecchio</placeName>, <placeName ref="#Poppi">Poppi</placeName>, e <placeName ref="#Stia">Stia</placeName>. <lb/>
+e dalla <del hand="#A2">destra</del><add hand="#A2">sinistra</add> tra alti, et aspri monti presso al fiume Larchiano è il<lb/> 
+castello piutosto che il <placeName ref="#Camaldoli">Munistero di Camaldoli</placeName>; e sopra un miglio vici<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+no alla falterona, <del hand="#A2">donde da uno de’ lati esce l’Arno, e dall’altro il<lb/>
+Tevere,</del> la chiesa, et habitazione de’ loro Romiti, luogo, come ne di<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+mostra il suo nome, eremo, soletario molto, e lontano da tutta ge<emph rend="italic">n</emph>te.<lb/> 
+In cima al <placeName ref="#Casentino">Casentino</placeName> s’alza il monte della Vernia, dove sopra uno <lb/>
+altissimo, e scosceso sasso è il <placeName ref="#Camaldoli">Munistero de’ frati osservanti di San <lb/>
+Francesco</placeName>, lontano <del hand="#A3">nove</del><add hand="#A3">4</add>] miglia da <placeName ref="#Bibbiena">Bibbiena</placeName>. Tra la porta alla Giu<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+stizia, e quella alla Croce è una porta rimurata, la quale si chiamò <lb/>
+da prima <placeName ref="#P_Ghibellina">la porta Ghibellina</placeName>, onde è detta ancora tutta la via, che va <lb/>
+insino alle <placeName ref="#Stinche">Stinche</placeName>; la qual porta fu edificata nel <date>mille dugento ses<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+santa</date> da <persName ref="#Guido_Novello">Guido Novello Potesta</persName> in <placeName ref="#Firenze">Firenze</placeName> per lo <persName ref="#Manfredi">Re Manfredi</persName>, <lb/>
+quando i Guelfi, senza havere chi gli cacciasse, si fuggirono di <placeName ref="#Firenze">Firenze</placeName>,<lb/>
+i quali poscia ritornati la chiamarono porta <placeName ref="#P_Ghibellina">Guelfa</placeName>. La terza <placeName ref="#P_Pinti">por<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+ta, la quale si chiamò già Fiesolana, si chiama hoggi la porta <choice><orig>à</orig><corr>a</corr></choice> Pin<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+ti</placeName>, e non ha Borgo, ma solamente alcune case, dirimpetto alle quali <choice><orig>à</orig><corr>a</corr></choice> <lb/>
+un trar di mano è il bellissimo <placeName ref="#Frati_Ingesuiti">Convento de’ frati Ingiesuati</placeName>, et <choice><orig>à</orig><corr>a</corr></choice> <lb/>
+un trar d’arco per lo diritto quello de’ <placeName ref="#Camaldoli">Monaci di <del hand="#A3">san Benedetto</del> <add hand="#A1" place="margin" n="miaone">Camaldolj chia<lb/>mato s<emph rend="italic">a</emph> Bene<lb/>detto</add></placeName><lb/> 
+con una Torre al dirimpetto. Poco sopra, dove si comincia <choice><orig>à</orig><corr>a</corr></choice> salire <lb/>
+si truova <choice><orig>à</orig><corr>a</corr></choice> man destra Camerata piena di tanti, e si bei Casame<emph rend="italic">n</emph>ti, <lb/>
+che malagevolme<emph rend="italic">n</emph>te il potrebbe credere chi veduti non gl’havesse, <del hand="#A2">e <lb/>
+da sinistra verso Mugnone, la Chiesa, che s’edifica tuttavia in ho<choice><orig>-</orig><reg resp="#D.B."/></choice> <lb/>
 
 <pb n="706" xml:id="fol_706" facs="data/images/single/fol_706.JPG"/>
                     <lb n="[706]"/>
-nore della <placeName ref="#Vergine_Maria_Quercia">Vergine Maria della Quercia</placeName>; e sopra essa il <placeName ref="#Camaldoli">luogo de’ Ro<choice><orig>-</orig><reg resp="#D.B."/></lb>
-miti di Camaldoli</placeName>, e vicino <choice><orig>à</orig><corr>a</corr></choice> questo il luogo chiamato i <placeName ref="Trevisti">Trevisi</placeName>, edifica<choice><orig>-</orig><reg resp="#D.B."/></lb>
-to da m<emph rend="italic">esser</emph> <persName ref="#Plamieri">Matteo Palmieri</placeName>.</del> Innanzi che s’arrivi all’erta di <placeName ref="#Fiesole">Fiesole</placeName>, si </lb>
-truova il convento de’ <placeName ref="#S_Domenico">Frati Osservanti di San Domenico</placeName>, e dirimpetto </lb>
-a questo  <span n="miaone"><choice><orig> ^ </orig><reg resp="#D.B."/></choice></span> <add hand="#A2" place="margin" n="miaone">a mezza spiag</lb>ga</add> verso Mugnone, il grandissimo, e bellissimo <placeName ref="#Convento_Badia">Convento de’ Mo<choice><orig>-</orig><reg resp="#D.B."/></lb>
-naci Regolari chiamato la Badia</placeName> di <placeName ref="#Fiesole">Fiesole</placeName>, edificato con incredibile </lb>
-spesa da <persName ref="#Cosimio">Cosimo de’ Medici</persName>. In capo all’erta sopra una <choice><orig>à</orig><corr>a</corr></choice> lunga sca<choice><orig>-</orig><reg resp="#D.B."/></lb>
-la <del hand="#A2">accanto al maraviglioso palazzo di <persName ref="#Lorenzo_di_Pierfrancesco">Lorenzo di Pierfrancesco</persName>,</del> sie<choice><orig>-</orig><reg resp="#D.B."/></lb>
-de la Chiesa, <emph rend="italic">et</emph> il  <placeName ref="#S_Girolamo">Munister<del hand="#A2">i</del>o de’ Frati mendicanti di san Girolamo</placeName>: <choice><orig>à</orig><corr>a</corr></choice> </lb>
-man destra del quale, <add hand="#A3" place="margin" n="miaone">ma in su la più </lb> alta parte del </lb> monte</add>, non piu che due miglia lontano da <placeName ref="#Firenze">Firenze</placeName>, va<choice><orig>-</orig><reg resp="#D.B."/></lb>
-gheggia <placeName ref="#Fiesole">Fiesole</placeName>, gia Città, ed hoggi fruttifero Monte, benche ancora Città, </lb>
-tutto il piano, e tutti i colli dintorno <choice><orig>à</orig><corr>a</corr></choice> <placeName ref="#Firenze">Firenze</placeName>; dico ancora Città; per </lb>
-che ha sempre havuto, ed ha di presente il suo Vescovo. La piazza do<choice><orig>-</orig><reg resp="#D.B."/></lb>
-ve è la casa del vescovo <del hand="#A2">è</del><del hand="#A2"><emph rend="italic">et</emph></add> la Canonica, e un bellissimo prato <del hand="#A2">con alcu<choice><orig>-</orig><reg resp="#D.B."/></lb>
+nore della <placeName ref="#Vergine_Maria_Quercia">Vergine Maria della Quercia</placeName>; e sopra essa il <placeName ref="#Camaldoli">luogo de’ Ro<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+miti di Camaldoli</placeName>, e vicino <choice><orig>à</orig><corr>a</corr></choice> questo il luogo chiamato i <placeName ref="Trevisti">Trevisi</placeName>, edifica<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+to da m<emph rend="italic">esser</emph> <persName ref="#Plamieri">Matteo Palmieri</persName>.</del> Innanzi che s’arrivi all’erta di <placeName ref="#Fiesole">Fiesole</placeName>, si <lb/>
+truova il convento de’ <placeName ref="#S_Domenico">Frati Osservanti di San Domenico</placeName>, e dirimpetto <lb/>
+a questo  <span n="miaone"><choice><orig> ^ </orig><reg resp="#D.B."/></choice></span> <add hand="#A2" place="margin" n="miaone">a mezza spiag<lb/>ga</add> verso Mugnone, il grandissimo, e bellissimo <placeName ref="#Convento_Badia">Convento de’ Mo<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+naci Regolari chiamato la Badia</placeName> di <placeName ref="#Fiesole">Fiesole</placeName>, edificato con incredibile <lb/>
+spesa da <persName ref="#Cosimio">Cosimo de’ Medici</persName>. In capo all’erta sopra una <choice><orig>à</orig><corr>a</corr></choice> lunga sca<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+la <del hand="#A2">accanto al maraviglioso palazzo di <persName ref="#Lorenzo_di_Pierfrancesco">Lorenzo di Pierfrancesco</persName>,</del> sie<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+de la Chiesa, <emph rend="italic">et</emph> il  <placeName ref="#S_Girolamo">Munister<del hand="#A2">i</del>o de’ Frati mendicanti di san Girolamo</placeName>: <choice><orig>à</orig><corr>a</corr></choice> <lb/>
+man destra del quale, <add hand="#A3" place="margin" n="miaone">ma in su la più <lb/> alta parte del <lb/> monte</add>, non piu che due miglia lontano da <placeName ref="#Firenze">Firenze</placeName>, va<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+gheggia <placeName ref="#Fiesole">Fiesole</placeName>, gia Città, ed hoggi fruttifero Monte, benche ancora Città, <lb/>
+tutto il piano, e tutti i colli dintorno <choice><orig>à</orig><corr>a</corr></choice> <placeName ref="#Firenze">Firenze</placeName>; dico ancora Città; per <lb/>
+che ha sempre havuto, ed ha di presente il suo Vescovo. La piazza do<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+ve è la casa del vescovo <del hand="#A2">è</del><add hand="#A2"><emph rend="italic">et</emph></add> la Canonica, e un bellissimo prato <del hand="#A2">con alcu<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
 ni antichissimi, altissimi, e frondosissimi olmi</del>; e nella piu alta parte <add hand="#A1" place="margin" n="miaone">della città</add>, dove fu gia la <placeName ref="#Rocca">Rocca</placeName>, è il <placeName ref="#Camaldoli">Munistero de’ Frati osservanti di san Fran-
-cesco</placeName>; e nel vero la stanza di questo amenissimo poggio è piacente, </lb>
-e dilettosa tanto, che par vero quello, che favolosamente scrivono Al<choice><orig>-</orig><reg resp="#D.B."/></lb>
-cuni, cioè, che fusse edificata da <persName ref="#Atlante">Atlante</persName> sotto costellazione di dover </lb>
-porger sempre <choice><orig>à</orig><corr>a</corr></choice> chiunche l’habitasse quiete di mente, riposo di corpo, </lb>
-ed allegrezza di quore. Tra la porta alla croce, e quella <choice><orig>à</orig><corr>a</corr></choice> pinti, </lb>
-non è porta nessuna murata, ma un <placeName ref="#Torre">Torre con cinque facce; la qua<choice><orig>-</orig><reg resp="#D.B."/></lb>
-le si chiamava anticame<emph rend="italic">n</emph>te la guardia del Massaio, ed hoggi la Torre</placeName></lb> 
-<choice><orig>à</orig><corr>a</corr></choice> tre canti. La quarta si chiama da un Munistero, che è poco fuo<choice><orig>-</orig><reg resp="#D.B."/></lb>
-ri di lei da mano dritta, la <placeName ref="#P_SanGallo">porta <choice><orig>à</orig><corr>a</corr></choice> San Gallo</placeName>; il qual Munistero </lb>
+cesco</placeName>; e nel vero la stanza di questo amenissimo poggio è piacente, <lb/>
+e dilettosa tanto, che par vero quello, che favolosamente scrivono Al<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+cuni, cioè, che fusse edificata da <persName ref="#Atlante">Atlante</persName> sotto costellazione di dover <lb/>
+porger sempre <choice><orig>à</orig><corr>a</corr></choice> chiunche l’habitasse quiete di mente, riposo di corpo, <lb/>
+ed allegrezza di quore. Tra la porta alla croce, e quella <choice><orig>à</orig><corr>a</corr></choice> pinti, <lb/>
+non è porta nessuna murata, ma un <placeName ref="#Torre">Torre con cinque facce; la qua<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+le si chiamava anticame<emph rend="italic">n</emph>te la guardia del Massaio, ed hoggi la Torre</placeName><lb/> 
+<choice><orig>à</orig><corr>a</corr></choice> tre canti. La quarta si chiama da un Munistero, che è poco fuo<choice><orig>-</orig><reg resp="#D.B."/></choice><lb/>
+ri di lei da mano dritta, la <placeName ref="#P_SanGallo">porta <choice><orig>à</orig><corr>a</corr></choice> San Gallo</placeName>; il qual Munistero <lb/>
 
 
                 </p>
